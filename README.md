@@ -1,5 +1,3 @@
-got it — here’s a crisp, drop-in README (focusing on the notebooks and data, per your note to ignore `LLM_NER.py`):
-
 # LLM\_NER — German Clinical NER with Surrogate vs. Original Corpora
 
 ## TL;DR
