@@ -1,0 +1,17 @@
+{
+  "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
+  "Prof. Dr.": "NAME_TITLE",
+  "Hansueli Stale": "NAME_DOCTOR",
+  "Dorfstraße 91": "LOCATION_STREET",
+  "92334": "LOCATION_ZIP",
+  "Berching": "LOCATION_CITY",
+  "015639825979": "CONTACT_PHONE",
+  "015635623012": "CONTACT_FAX",
+  "Dr.": "NAME_TITLE",
+  "Ihno Csanadi": "NAME_DOCTOR",
+  "Am Streichen 57": "LOCATION_STREET",
+  "10.03.1973": "DATE_BIRTH",
+  "15.07.2026": "DATE",
+  "M-034704049": "ID",
+  "Ingenieurbüro BGA": "LOCATION_ORGANIZATION"
+}

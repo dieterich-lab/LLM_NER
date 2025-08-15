@@ -1,0 +1,17 @@
+{
+  "Keyerleber Odile": "NAME_PATIENT",
+  "Henriette Kolberg": "NAME_PATIENT",
+  "28.09.2007": "DATE_BIRTH",
+  "10.07.2023": "DATE",
+  "12.07.2023": "DATE",
+  "03.07.30": "DATE",
+  "05.07.30": "DATE",
+  "16": "AGE",
+  "15": "AGE",
+  "1782914": "ID",
+  "Regensburg": "LOCATION_CITY",
+  "Hochschulambulanz": "LOCATION_HOSPITAL",
+  "Epilepsie Beratung Regensburg": "LOCATION_ORGANIZATION",
+  "Dr.": "NAME_TITLE",
+  "Trockenbroch": "NAME_DOCTOR"
+}

@@ -1,0 +1,14 @@
+{
+  "Dr.": "NAME_TITLE",
+  "Elisabeth Theising": "NAME_PATIENT",
+  "30.11.1992": "DATE_BIRTH",
+  "Bienrode 27": "LOCATION_STREET",
+  "29683": "LOCATION_ZIP",
+  "Wurzen": "LOCATION_CITY",
+  "02.06.2019": "DATE",
+  "06.06.2019": "DATE",
+  "03.06.2019": "DATE",
+  "Theising": "NAME_DOCTOR",
+  "Dr.a med. univ.": "NAME_TITLE",
+  "Nelly Maasmann": "NAME_DOCTOR"
+}

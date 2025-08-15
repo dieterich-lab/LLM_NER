@@ -1,0 +1,14 @@
+{
+  "Jörg Neudorf": "NAME_PATIENT",
+  "02.3.1941": "DATE_BIRTH",
+  "9.10.2021": "DATE",
+  "14.10.2021": "DATE",
+  "2008": "DATE",
+  "2012": "DATE",
+  "80": "AGE",
+  "Herr Horstick": "NAME_DOCTOR",
+  "PD Dr.": "NAME_TITLE",
+  "Siebelt": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Knut": "NAME_DOCTOR"
+}

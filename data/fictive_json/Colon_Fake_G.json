@@ -1,0 +1,16 @@
+{
+  "Veltmann Anna": "NAME_PATIENT",
+  "19.4.1977": "DATE_BIRTH",
+  "13.07.2023": "DATE",
+  "24.07.2023": "DATE",
+  "03/23": "DATE",
+  "April2023": "DATE",
+  "05/23": "DATE",
+  "Koonen": "NAME_PATIENT",
+  "26.3.2023": "DATE",
+  "0": "ID",
+  "Dr. med.": "NAME_TITLE",
+  "Arno Meilands": "NAME_DOCTOR",
+  "Prof. Dr. med": "NAME_TITLE",
+  "Susanne Rimrodt": "NAME_DOCTOR"
+}

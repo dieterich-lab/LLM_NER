@@ -1,0 +1,23 @@
+{
+  "Kreiskrankenhaus Emmendingen": "LOCATION_HOSPITAL",
+  "PD Dr.": "NAME_TITLE",
+  "Garrelt Pommerening": "NAME_DOCTOR",
+  "Evelyne Jürgensmeyer": "NAME_PATIENT",
+  "20.5.1981": "DATE_BIRTH",
+  "9.3.": "DATE",
+  "22.3.2043": "DATE",
+  "04.2043": "DATE",
+  "2040": "DATE",
+  "2041": "DATE",
+  "2037": "DATE",
+  "2044": "DATE",
+  "2035": "DATE",
+  "14.3.2043": "DATE",
+  "17.03.2043": "DATE",
+  "Jürgensmeyer": "NAME_PATIENT",
+  "22.03.2043": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Charly Burtscheidt": "NAME_DOCTOR",
+  "PD Dr. med": "NAME_TITLE",
+  "Roger Ruhaas": "NAME_DOCTOR"
+}

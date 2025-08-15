@@ -1,0 +1,16 @@
+{
+  "Jens Nieß": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Aldruper Straße 38": "LOCATION_STREET",
+  "48268": "LOCATION_ZIP",
+  "Greven": "LOCATION_CITY",
+  "Patrick Brassicanus": "NAME_PATIENT",
+  "29.01.1974": "DATE_BIRTH",
+  "Schlingstiege 99": "LOCATION_STREET",
+  "10.09.2029": "DATE",
+  "19.09.2029": "DATE",
+  "07.2025": "DATE",
+  "Prof.": "NAME_TITLE",
+  "Hildegard Pelkofer": "NAME_DOCTOR",
+  "Annelies Näffgen": "NAME_DOCTOR"
+}

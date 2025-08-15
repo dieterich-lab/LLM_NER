@@ -1,0 +1,23 @@
+{
+  "Dr.": "NAME_TITLE",
+  "Silkenbäumer": "NAME_DOCTOR",
+  "Heiko Zinsler": "NAME_PATIENT",
+  "30.11.1999": "DATE_BIRTH",
+  "88287": "LOCATION_ZIP",
+  "Grünkraut": "LOCATION_CITY",
+  "28.02.2024": "DATE",
+  "03.03.2024": "DATE",
+  "Niklaus": "NAME_DOCTOR",
+  "Januar": "DATE",
+  "QNZ45": "ID",
+  "JFYW-8": "ID",
+  "02.11.2019": "DATE",
+  "27.12.2019": "DATE",
+  "2023": "DATE",
+  "Dezember2016": "DATE",
+  "Dürnau": "LOCATION_CITY",
+  "Zinsler": "NAME_PATIENT",
+  "04.03.2014": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Julien Sascha Geißner": "NAME_DOCTOR"
+}

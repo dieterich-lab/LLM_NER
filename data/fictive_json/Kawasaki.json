@@ -1,0 +1,20 @@
+{
+  "München Klinik Schwabing": "LOCATION_HOSPITAL",
+  "Univ.-Prof. Dr.med.": "NAME_TITLE",
+  "Jean Laidig": "NAME_DOCTOR",
+  "Spreitzenbarth Reiner": "NAME_PATIENT",
+  "10.02.2027": "DATE_BIRTH",
+  "10.32": "DATE",
+  "21.10.2033": "DATE",
+  "24.09.2033": "DATE",
+  "AGE 6": "AGE",
+  "28.10.2033": "DATE",
+  "03.10.2033": "DATE",
+  "16.10.2033": "DATE",
+  "17": "DATE",
+  "18.10.2033": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Dietrich Sabath": "NAME_DOCTOR",
+  "Dr  med.": "NAME_TITLE",
+  "Philippe Zuckrigl": "NAME_DOCTOR"
+}

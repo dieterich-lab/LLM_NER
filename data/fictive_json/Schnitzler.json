@@ -1,0 +1,19 @@
+{
+  "Volkert Duetsch": "NAME_PATIENT",
+  "10.2.1959": "DATE",
+  "64319": "LOCATION_ZIP",
+  "Wurzen": "LOCATION_CITY",
+  "Straßebersbach 74": "LOCATION_STREET",
+  "2023.05.03": "DATE_BIRTH",
+  "Duetsch": "NAME_PATIENT",
+  "2018": "DATE",
+  "26.4.2023": "DATE",
+  "39825979": "ID",
+  "19074833": "ID",
+  "78876232": "ID",
+  "9.05.2023": "DATE",
+  "8601": "ID",
+  "Universitätsklinikum Bonn": "LOCATION_HOSPITAL",
+  "Dr. med. univers.": "NAME_TITLE",
+  "Kaspar Oswaldt": "NAME_DOCTOR"
+}

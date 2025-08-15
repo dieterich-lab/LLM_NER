@@ -1,0 +1,13 @@
+{
+  "Erica Staedler": "NAME_DOCTOR",
+  "ZAR Friedrichshafen - Zentrum für ambulante Rehabilitation": "LOCATION_HOSPITAL",
+  "Dr. med.": "NAME_TITLE",
+  "Henry Wantscha": "NAME_DOCTOR",
+  "Linienweg 31": "LOCATION_STREET",
+  "79271": "LOCATION_ZIP",
+  "Eberstalzell": "LOCATION_CITY",
+  "Lukas Latzlsperger": "NAME_PATIENT",
+  "28.07.1983": "DATE_BIRTH",
+  "21.01.2025": "DATE",
+  "Simonswald": "LOCATION_CITY"
+}

@@ -1,0 +1,12 @@
+{
+  "Albert Rinklin": "NAME_PATIENT",
+  "28.1.1961": "DATE_BIRTH",
+  "Rodheimer Straße 21": "LOCATION_STREET",
+  "35452": "LOCATION_ZIP",
+  "Heuchelheim an der Lahn": "LOCATION_CITY",
+  "02.03.2019": "DATE",
+  "02.09.25": "DATE",
+  "AGE 49": "AGE",
+  "Prof. Dr.Dr. med.": "NAME_TITLE",
+  "Anton Rugen": "NAME_DOCTOR"
+}

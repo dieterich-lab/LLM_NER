@@ -1,0 +1,13 @@
+{
+  "Zoë Rothfuß": "NAME_PATIENT",
+  "28.10.1982": "DATE_BIRTH",
+  "Walter-P.-Chrysler-Platz 60": "LOCATION_STREET",
+  "8042": "LOCATION_ZIP",
+  "Graz": "LOCATION_CITY",
+  "05.08.2023": "DATE",
+  "08.08.2023": "DATE",
+  "03.06.2023": "DATE",
+  "02.08.2023": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Wilms": "NAME_DOCTOR"
+}

@@ -1,0 +1,15 @@
+{
+  "Rosi Fein": "NAME_PATIENT",
+  "18.01.1979": "DATE_BIRTH",
+  "Hohenhorst 60": "LOCATION_STREET",
+  "22391": "LOCATION_ZIP",
+  "Wandsbek": "LOCATION_CITY",
+  "30.04.2028": "DATE",
+  "24.05.05": "DATE",
+  "21.04.08": "DATE",
+  "24.04.08": "DATE",
+  "Salvatore Jungmeister": "NAME_DOCTOR",
+  "PD Dr. med.": "NAME_TITLE",
+  "Prof. Orlando": "NAME_TITLE",
+  "Orlando": "NAME_DOCTOR"
+}

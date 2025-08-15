@@ -1,0 +1,14 @@
+{
+  "Dr. med.": "NAME_TITLE",
+  "Natalie Krugjohann": "NAME_PATIENT",
+  "31.12.1999": "DATE_BIRTH",
+  "34603369": "ID",
+  "04520415016": "ID",
+  "Krugjohann": "NAME_PATIENT",
+  "02.02.2027": "DATE",
+  "Prof. Dr.": "NAME_TITLE",
+  "Eric Kahl": "NAME_DOCTOR",
+  "François Thibus": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Lina Meilands": "NAME_DOCTOR"
+}

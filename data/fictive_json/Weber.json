@@ -1,0 +1,19 @@
+{
+  "Carmen Lütckens": "NAME_PATIENT",
+  "9.2.1964": "DATE_BIRTH",
+  "07.4.2020": "DATE",
+  "16.4.2020": "DATE",
+  "2002": "DATE",
+  "8.2.": "DATE",
+  "Prof.": "NAME_TITLE",
+  "Andre": "NAME_DOCTOR",
+  "Drs.": "NAME_TITLE",
+  "Ype": "NAME_DOCTOR",
+  "Gernot": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Ullrich": "NAME_DOCTOR",
+  "Gerard": "NAME_DOCTOR",
+  "Lütckens": "NAME_PATIENT",
+  "Käthe Hanßen": "NAME_DOCTOR",
+  "GA": "ID"
+}

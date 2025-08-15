@@ -1,0 +1,18 @@
+{
+  "Carlo": "NAME_PATIENT",
+  "08.03.2001": "DATE_BIRTH",
+  "12.11.2051": "DATE",
+  "17.11.2051": "DATE",
+  "2050": "DATE",
+  "2044": "DATE",
+  "2048": "DATE",
+  "02.50": "DATE",
+  "11.50": "DATE",
+  "05.51": "DATE",
+  "11.51": "DATE",
+  "12.11.51": "DATE",
+  "AGE 51": "AGE",
+  "C32412/41": "ID",
+  "PD Dr. Dr.": "NAME_TITLE",
+  "Mareike Nitzschke": "NAME_DOCTOR"
+}

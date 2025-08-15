@@ -1,0 +1,23 @@
+{
+  "Stephanie Joedecke": "NAME_PATIENT",
+  "07.01.1954": "DATE_BIRTH",
+  "28.3.": "DATE",
+  "28.4.2023": "DATE",
+  "E78": "ID",
+  "2019": "DATE",
+  "2018": "DATE",
+  "27.03.30": "DATE",
+  "Joedecke": "NAME_PATIENT",
+  "26.1.30": "DATE",
+  "Praxis Dr. Matthias Paulitschek": "LOCATION_HOSPITAL",
+  "23.3.2": "DATE",
+  "21.3.30": "DATE",
+  "23.3.30": "DATE",
+  "24.3.30": "DATE",
+  "27.3.30": "DATE",
+  "J77": "ID",
+  "10.4.30": "DATE",
+  "21.4.30": "DATE",
+  "Priv. Doz.": "NAME_TITLE",
+  "Pius Kaulfersch": "NAME_DOCTOR"
+}

@@ -1,0 +1,19 @@
+{
+  "DR.": "NAME_TITLE",
+  "MED.": "NAME_TITLE",
+  "Zill": "NAME_DOCTOR",
+  "Jean-Claude Schipmann": "NAME_DOCTOR",
+  "Stefan Holzvogt": "NAME_PATIENT",
+  "12.7.54": "DATE_BIRTH",
+  "03April2025": "DATE",
+  "29.3.2025": "DATE",
+  "22.3.95": "DATE",
+  "2006": "DATE",
+  "Wegkamp 5": "LOCATION_STREET",
+  "Moorsiedlung 19": "LOCATION_STREET",
+  "Moorsiedlung 52": "LOCATION_STREET",
+  "24589": "LOCATION_ZIP",
+  "Dätgen": "LOCATION_CITY",
+  "Albert-Ludwigs-Universität Freiburg": "LOCATION_ORGANIZATION",
+  "160194251": "CONTACT_PHONE"
+}

@@ -1,23 +1,17 @@
-[
-  {
-    "...": "NAME_TITLE",
-    "Schmidt": "NAME_DOCTOR"
-  },
-  {
-    "Ruckteschell Manuela": "NAME_PATIENT",
-    "18.2.1967": "DATE_BIRTH",
-    "64483778": "ID",
-    "23.5.2018": "DATE",
-    "9.5.2018": "DATE",
-    "2.2018": "DATE",
-    "04.2018": "DATE",
-    "05/18": "DATE",
-    "16.5.25": "DATE",
-    "21.6.2018": "DATE",
-    "Jan2018": "DATE",
-    "50": "AGE",
-    "Berlin": "LOCATION_CITY",
-    "Felix Frenz": "NAME_DOCTOR",
-    "Ibo Kollöffel": "NAME_DOCTOR"
-  }
-]
+{
+  "Ruckteschell Manuela": "NAME_PATIENT",
+  "18.2.1967": "DATE_BIRTH",
+  "64483778": "ID",
+  "23.5.2018": "DATE",
+  "9.5.2018": "DATE",
+  "2.2018": "DATE",
+  "04.2018": "DATE",
+  "05/18": "DATE",
+  "16.5.25": "DATE",
+  "21.6.2018": "DATE",
+  "Jan2018": "DATE",
+  "50": "AGE",
+  "Berlin": "LOCATION_CITY",
+  "Felix Frenz": "NAME_DOCTOR",
+  "Ibo Kollöffel": "NAME_DOCTOR"
+}

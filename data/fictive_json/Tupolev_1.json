@@ -1,0 +1,20 @@
+{
+  "Ihre Praxis Holsterhausen": "LOCATION_HOSPITAL",
+  "Prim. Univ. Prof. Dr.": "NAME_TITLE",
+  "Sascha Gutbrot": "NAME_DOCTOR",
+  "Lutz Besold": "NAME_PATIENT",
+  "28.06.1967": "DATE_BIRTH",
+  "8490934066": "ID",
+  "U21": "ID",
+  "O": "ID",
+  "083": "ID",
+  "Ki": "NAME_USERNAME",
+  "15.06.2012": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Renato Denkewitz": "NAME_DOCTOR",
+  "Doz. Dr.": "NAME_TITLE",
+  "Berthold Weyer": "NAME_DOCTOR",
+  "Bodo Götzmann": "NAME_DOCTOR",
+  "DGKS": "NAME_TITLE",
+  "Yolande Bätzold": "NAME_DOCTOR"
+}
