@@ -1,0 +1,17 @@
+{
+  "Franz-Josef Meyr": "NAME_PATIENT",
+  "12.9.1940": "DATE_BIRTH",
+  "21.01.2023": "DATE",
+  "03 - 05/2021": "DATE",
+  "03-06/2022": "DATE",
+  "07/2022": "DATE",
+  "10-11/2022": "DATE",
+  "14.11.2021": "DATE",
+  "29.12.2022": "DATE",
+  "14.1.2023": "DATE",
+  "21.1.23": "DATE",
+  "28.1.2023": "DATE",
+  "Kevin Schlauberger": "NAME_DOCTOR",
+  "Prof. Dr.": "NAME_TITLE",
+  "Gerald Chrohn": "NAME_DOCTOR"
+}

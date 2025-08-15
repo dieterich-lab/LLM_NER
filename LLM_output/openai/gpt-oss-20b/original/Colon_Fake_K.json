@@ -1,0 +1,17 @@
+{
+  "Katharina Korsakoff": "NAME_PATIENT",
+  "Frau Korsakoff": "NAME_PATIENT",
+  "PD Dr.": "NAME_TITLE",
+  "Kapfner": "NAME_DOCTOR",
+  "Kummer": "NAME_DOCTOR",
+  "Kienböck": "NAME_DOCTOR",
+  "13.5.1981": "DATE_BIRTH",
+  "15.3.2043": "DATE",
+  "07.3.2043": "DATE",
+  "10. 03. 2043": "DATE",
+  "15. 03. 2043": "DATE",
+  "Krankenanstaltenverbund Ostfriesland": "LOCATION_HOSPITAL",
+  "Lehrkrankenhaus der Medizinischen Universität Buxtehude": "LOCATION_HOSPITAL",
+  "Ostfriesland": "LOCATION_CITY",
+  "Buxtehude": "LOCATION_CITY"
+}

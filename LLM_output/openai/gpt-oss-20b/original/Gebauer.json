@@ -1,0 +1,12 @@
+{
+  "Gebauer, Gerlinde": "NAME_PATIENT",
+  "24.11.2028": "DATE",
+  "24.11.28": "DATE",
+  "03.11.2028": "DATE",
+  "04.11.2028": "DATE",
+  "10.11.2028": "DATE",
+  "23.11.2008": "DATE",
+  "Landeskrankenhaus Neustadt": "LOCATION_HOSPITAL",
+  "Prim.": "NAME_TITLE",
+  "Leber": "NAME_DOCTOR"
+}

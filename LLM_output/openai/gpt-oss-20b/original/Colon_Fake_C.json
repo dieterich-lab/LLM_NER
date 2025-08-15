@@ -1,0 +1,19 @@
+{
+  "Charlotte": "NAME_PATIENT",
+  "Christian Schwach": "NAME_DOCTOR",
+  "Gottfried Stutz": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "12.3.2023": "DATE",
+  "24.12.1972": "DATE_BIRTH",
+  "2.2.2023": "DATE",
+  "14.2.2023": "DATE",
+  "8/2023": "DATE",
+  "5/23": "DATE",
+  "4/23": "DATE",
+  "6/23": "DATE",
+  "13.6.2023": "DATE",
+  "3.6.2023": "DATE",
+  "6733340001": "ID",
+  "50": "AGE",
+  "Neustadt": "LOCATION_CITY"
+}

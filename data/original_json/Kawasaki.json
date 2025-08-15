@@ -1,0 +1,21 @@
+{
+  "UNIKLINIK DEPPENDORF": "LOCATION_HOSPITAL",
+  "Univ.-Prof. Dr.med.": "NAME_TITLE",
+  "Klaus Kortmann": "NAME_DOCTOR",
+  "Kawasaki, Mitsou": "NAME_PATIENT",
+  "03.02.2027": "DATE_BIRTH",
+  "10/32": "DATE",
+  "14.10.2033": "DATE",
+  "17.09.2033": "DATE",
+  "6": "AGE",
+  "21.10 2033": "DATE",
+  "21.10.2033": "DATE",
+  "26 09.2033": "DATE",
+  "09.10.2033": "DATE",
+  "10": "DATE",
+  "11.10.2033": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "V. Jäger": "NAME_DOCTOR",
+  "Dr  med.": "NAME_TITLE",
+  "L. Rombach": "NAME_DOCTOR"
+}

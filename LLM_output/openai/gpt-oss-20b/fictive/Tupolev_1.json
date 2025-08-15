@@ -1,0 +1,16 @@
+{
+  "Lutz Besold": "NAME_PATIENT",
+  "28.06.1967": "DATE_BIRTH",
+  "8490934066": "ID",
+  "U21": "ID",
+  "083": "ID",
+  "15.06.2012": "DATE",
+  "Prim. Univ. Prof. Dr.": "NAME_TITLE",
+  "Sascha Gutbrot": "NAME_DOCTOR",
+  "Denkewitz": "NAME_DOCTOR",
+  "Weyer": "NAME_DOCTOR",
+  "Götzmann": "NAME_DOCTOR",
+  "Doz. Dr.": "NAME_TITLE",
+  "Ass. Dr.": "NAME_TITLE",
+  "Praxis Holsterhausen": "LOCATION_ORGANIZATION"
+}

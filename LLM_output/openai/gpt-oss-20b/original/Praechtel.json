@@ -1,0 +1,15 @@
+{
+  "Laurenz Prächtel": "NAME_PATIENT",
+  "10.02.1974": "DATE_BIRTH",
+  "31.07.2022": "DATE",
+  "2018": "DATE",
+  "08/20": "DATE",
+  "12/21": "DATE",
+  "9/21": "DATE",
+  "12/19": "DATE",
+  "3/19": "DATE",
+  "Janina Parkinson": "NAME_DOCTOR",
+  "Veronica Kugic": "NAME_DOCTOR",
+  "Konstantin Lauterbach": "NAME_DOCTOR",
+  "Prof. Dr.Dr.": "NAME_TITLE"
+}

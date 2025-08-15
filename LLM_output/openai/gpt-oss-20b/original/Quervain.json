@@ -1,0 +1,12 @@
+{
+  "Notburga von Osler": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "Ahmed Al-Tayi": "NAME_DOCTOR",
+  "Guttmann Reha Zentrum für ambulante Rehabilitation": "LOCATION_HOSPITAL",
+  "Am Waldsaum 21": "LOCATION_STREET",
+  "72119": "LOCATION_ZIP",
+  "Holzhausen": "LOCATION_CITY",
+  "Etienne de Quervain": "NAME_PATIENT",
+  "21.07.1983": "DATE_BIRTH",
+  "14.01.2025": "DATE"
+}

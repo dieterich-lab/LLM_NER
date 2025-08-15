@@ -1,0 +1,11 @@
+{
+  "Luise Utz": "NAME_PATIENT",
+  "3.4.1959": "DATE_BIRTH",
+  "34443": "LOCATION_ZIP",
+  "Bad Arolsen": "LOCATION_CITY",
+  "2020-08-03": "DATE",
+  "1.7.2020": "DATE",
+  "2.7.2020": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Gerda Müller-Bartholomä": "NAME_DOCTOR"
+}

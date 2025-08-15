@@ -1,0 +1,20 @@
+{
+  "Krankenhaus der Samariter Holzhausen": "LOCATION_HOSPITAL",
+  "Prim. Univ. Prof. Dr.": "NAME_TITLE",
+  "Bruno Bierbichler": "NAME_DOCTOR",
+  "Konstantin Tupolev": "NAME_PATIENT",
+  "21/06/1967": "DATE_BIRTH",
+  "1933309807": "ID",
+  "A31": "ID",
+  "B": "ID",
+  "119": "ID",
+  "Ki": "NAME_USERNAME",
+  "08/06/2012": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Wiesler Franz": "NAME_DOCTOR",
+  "Doz. Dr.": "NAME_TITLE",
+  "Leber Ronny": "NAME_DOCTOR",
+  "\"Jürgen": "NAME_DOCTOR",
+  "DGKS": "NAME_TITLE",
+  "Katharina Blumauer": "NAME_DOCTOR"
+}

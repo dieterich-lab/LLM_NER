@@ -1,0 +1,19 @@
+{
+  "Osler": "NAME_PATIENT",
+  "01.03.2001": "DATE_BIRTH",
+  "05.11.2051": "DATE",
+  "10.11.2051": "DATE",
+  "2050": "DATE",
+  "2044": "DATE",
+  "2048": "DATE",
+  "02/50": "DATE",
+  "11/50": "DATE",
+  "05/51": "DATE",
+  "11/51": "DATE",
+  "05.11.51": "DATE",
+  "51": "AGE",
+  "5.11.51": "DATE",
+  "H25440/51": "ID",
+  "PD Dr. Dr.": "NAME_TITLE",
+  "Ayşe Behçet": "NAME_DOCTOR"
+}

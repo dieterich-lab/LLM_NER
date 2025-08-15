@@ -1,0 +1,21 @@
+{
+  "Medizinische Klinik und Poliklinik Abteilung Pneumologie (Evangelisches Krankenhaus Bochum-Linden)": "LOCATION_HOSPITAL",
+  "Universitätsprofessor": "NAME_TITLE",
+  "Dr. mult. med.": "NAME_TITLE",
+  "Dietmar Michelsohn": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "Eckhard Fünfstuck": "NAME_DOCTOR",
+  "Michelsohn": "NAME_DOCTOR",
+  "Olivier Gschwende": "NAME_PATIENT",
+  "21.09.2039": "DATE",
+  "08.02.2003": "DATE_BIRTH",
+  "16.09.2039": "DATE",
+  "01.09.2035": "DATE",
+  "5": "AGE",
+  "Braugasse 74": "LOCATION_STREET",
+  "73569": "LOCATION_ZIP",
+  "Obergröningen": "LOCATION_CITY",
+  "Hauptstraße 36": "LOCATION_STREET",
+  "79591": "LOCATION_ZIP",
+  "Eimeldingen": "LOCATION_CITY"
+}

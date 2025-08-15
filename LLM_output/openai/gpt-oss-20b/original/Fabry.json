@@ -1,0 +1,18 @@
+{
+  "Dr. med.": "NAME_TITLE",
+  "Knoblauch": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE",
+  "Zucker": "NAME_DOCTOR",
+  "Klumpfuß": "NAME_DOCTOR",
+  "Walter Fabry": "NAME_PATIENT",
+  "Korekamp 15": "LOCATION_STREET",
+  "Hauptstr. 8": "LOCATION_STREET",
+  "47809": "LOCATION_ZIP",
+  "Krefeld": "LOCATION_CITY",
+  "22.01.1974": "DATE_BIRTH",
+  "03.09.2029": "DATE",
+  "12.09.2029": "DATE",
+  "07/2025": "DATE",
+  "04.09.2029": "DATE",
+  "08.09.2029": "DATE"
+}

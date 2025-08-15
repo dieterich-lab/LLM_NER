@@ -1,0 +1,14 @@
+{
+  "Evelyne Jürgensmeyer": "NAME_PATIENT",
+  "20.5.1981": "DATE_BIRTH",
+  "9.3.2043": "DATE",
+  "22.3.2043": "DATE",
+  "14.3.2043": "DATE",
+  "17.03.2043": "DATE",
+  "Kreiskrankenhaus Emmendingen": "LOCATION_HOSPITAL",
+  "Emmendingen": "LOCATION_CITY",
+  "PD Dr.": "NAME_TITLE",
+  "Garrelt Pommerening": "NAME_DOCTOR",
+  "Charly Burtscheidt": "NAME_DOCTOR",
+  "Roger Ruhaas": "NAME_DOCTOR"
+}

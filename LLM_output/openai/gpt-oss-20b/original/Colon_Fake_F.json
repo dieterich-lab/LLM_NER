@@ -1,0 +1,17 @@
+{
+  "Fridolin Fritzle": "NAME_PATIENT",
+  "*6/7/1980": "DATE_BIRTH",
+  "100101911": "ID",
+  "45": "AGE",
+  "Neudorf": "LOCATION_CITY",
+  "Klinische Abteilung für Onkologie": "LOCATION_HOSPITAL",
+  "16.12.2029": "DATE",
+  "1/12/2029": "DATE",
+  "16/12/1929": "DATE",
+  "23.4.2029": "DATE",
+  "13.1.2030": "DATE",
+  "PD Dr.": "NAME_TITLE",
+  "Thorben Thorwald": "NAME_DOCTOR",
+  "OÄ Dr.": "NAME_TITLE",
+  "Katharina Fabricius-Schätzle": "NAME_DOCTOR"
+}

@@ -1,0 +1,18 @@
+{
+  "Universitätsklinikum Leipzig": "LOCATION_HOSPITAL",
+  "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+  "Christophe Bem": "NAME_DOCTOR",
+  "Prof.Dr.": "NAME_TITLE",
+  "48607": "LOCATION_ZIP",
+  "Ochtrup": "LOCATION_CITY",
+  "Von-Gallitzin-Straße 20": "LOCATION_STREET",
+  "017485288483": "CONTACT_PHONE",
+  "017419226777": "CONTACT_FAX",
+  "Valentina Renckens": "NAME_PATIENT",
+  "Simon Arthur Pellkofer": "NAME_DOCTOR",
+  "Ambulanz für Pigmentveränderungen": "LOCATION_HOSPITAL",
+  "07.11.2021": "DATE",
+  "28.09.2021": "DATE",
+  "Elmar Barthelmess": "NAME_DOCTOR",
+  "Von-Kleist-Weg": "LOCATION_STREET"
+}

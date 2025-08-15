@@ -1,0 +1,19 @@
+{
+  "Universitätsklinikum Klein Haasbeck": "LOCATION_HOSPITAL",
+  "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+  "Prof.Dr. med.": "NAME_TITLE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Wagner": "NAME_DOCTOR",
+  "Wetterstein": "NAME_DOCTOR",
+  "Dhayana dos Santos Aveiro": "NAME_DOCTOR",
+  "Sauerbruchplatz 8": "LOCATION_STREET",
+  "Am Hasenstall": "LOCATION_STREET",
+  "Klein Haasbeck": "LOCATION_CITY",
+  "20223": "LOCATION_ZIP",
+  "02216/325-15423": "CONTACT_PHONE",
+  "02216/325-15338": "CONTACT_FAX",
+  "31.10.2021": "DATE",
+  "21.09.2021": "DATE",
+  "OP II": "ID",
+  "Claudia Dupuytren": "NAME_PATIENT"
+}

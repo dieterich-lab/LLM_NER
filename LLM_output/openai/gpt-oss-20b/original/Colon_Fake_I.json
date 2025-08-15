@@ -1,0 +1,13 @@
+{
+  "Iris Iselin": "NAME_PATIENT",
+  "12.12.1932": "DATE_BIRTH",
+  "15.5.2014": "DATE",
+  "13.6.2014": "DATE",
+  "82": "AGE",
+  "Rehabilitationskrankenhaus St. Peter im Walde": "LOCATION_HOSPITAL",
+  "Frau Zitteraal": "NAME_RELATIVE",
+  "Inge Crohn": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "OÄ": "NAME_TITLE",
+  "Wechsler": "NAME_DOCTOR"
+}

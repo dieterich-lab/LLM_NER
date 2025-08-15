@@ -1,0 +1,19 @@
+{
+  "UNIVERSITÄTSKLINIKUM BERLIN-MITTE": "LOCATION_HOSPITAL",
+  "Friedrichstraße 55": "LOCATION_STREET",
+  "10117": "LOCATION_ZIP",
+  "Berlin": "LOCATION_CITY",
+  "K. O. von Hausen": "NAME_DOCTOR",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Klementine": "NAME_PATIENT",
+  "16.01.1993": "DATE_BIRTH",
+  "1822544": "ID",
+  "03.09.2030": "DATE",
+  "2.09.2030": "DATE",
+  "030 110-2612": "CONTACT_PHONE",
+  "030 110-2522": "CONTACT_PHONE",
+  "030 110-2619": "CONTACT_FAX",
+  "030 110-2452": "CONTACT_FAX",
+  "030 110-2401": "CONTACT_PHONE",
+  "termin.dot@uniklinik-berlin.de": "CONTACT_EMAIL"
+}

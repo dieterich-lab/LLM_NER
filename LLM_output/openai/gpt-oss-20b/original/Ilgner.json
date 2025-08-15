@@ -1,0 +1,13 @@
+{
+  "Andrea Ilgner": "NAME_PATIENT",
+  "21.10.1982": "DATE_BIRTH",
+  "Sporgasse 11": "LOCATION_STREET",
+  "8010": "LOCATION_ZIP",
+  "Graz": "LOCATION_CITY",
+  "29.07.2023": "DATE",
+  "01.08.2023": "DATE",
+  "27.05.2023": "DATE",
+  "26.07.2023": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Nagy": "NAME_DOCTOR"
+}

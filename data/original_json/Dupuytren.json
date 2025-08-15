@@ -1,0 +1,18 @@
+{
+  "﻿Universitätsklinikum Klein Haasbeck": "LOCATION_HOSPITAL",
+  "Prof.Dr. med.": "NAME_TITLE",
+  "Wieland Wagner": "NAME_DOCTOR",
+  "20223": "LOCATION_ZIP",
+  "Klein Haasbeck": "LOCATION_CITY",
+  "Sauerbruchplatz 8": "LOCATION_STREET",
+  "02216/325-15423": "CONTACT_PHONE",
+  "02216/325-15338": "CONTACT_FAX",
+  "Claudia Dupuytren": "NAME_PATIENT",
+  "Am Hasenstall": "LOCATION_STREET",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Jürgen W. von Wetterstein": "NAME_DOCTOR",
+  "II": "ID",
+  "31.10.2021": "DATE",
+  "21.09.2021": "DATE",
+  "Dhayana dos Santos Aveiro": "NAME_DOCTOR"
+}

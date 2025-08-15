@@ -1,0 +1,20 @@
+{
+  "Spital der barmherzigen Schwestern St. Johann am Bergle": "LOCATION_HOSPITAL",
+  "o.Univ. Prof. Dr.": "NAME_TITLE",
+  "Hans Wurst": "NAME_DOCTOR",
+  "A-3336": "LOCATION_ZIP",
+  "St. Johann am Bergle": "LOCATION_CITY",
+  "Sonnblick 32": "LOCATION_STREET",
+  "+43 (453) 14": "CONTACT_PHONE",
+  "+43 (453) 14-592-12098": "CONTACT_FAX",
+  "Dr.": "NAME_TITLE",
+  "Jonathan Darmstädter": "NAME_DOCTOR",
+  "Isabella Meulengracht": "NAME_PATIENT",
+  "Hauptstraße 3a": "LOCATION_STREET",
+  "A-3337": "LOCATION_ZIP",
+  "St. Anna im Tale": "LOCATION_CITY",
+  "31.12.1999": "DATE_BIRTH",
+  "103354008": "ID",
+  "4445311299": "ID",
+  "29.01.2039": "DATE"
+}

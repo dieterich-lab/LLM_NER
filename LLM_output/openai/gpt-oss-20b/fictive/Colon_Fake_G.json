@@ -1,0 +1,32 @@
+{
+  "entity": "TYPE",
+  "JSON": {
+    "Veltmann Anna": "NAME_PATIENT",
+    "Koonen": "NAME_PATIENT",
+    "Dr. med.": "NAME_TITLE",
+    "Prof. Dr. med": "NAME_TITLE",
+    "Meilands": "NAME_DOCTOR",
+    "Rimrodt": "NAME_DOCTOR",
+    "19.4.1977": "DATE_BIRTH",
+    "13.07.2023": "DATE",
+    "24.07.2023": "DATE",
+    "April2023": "DATE",
+    "03/23": "DATE",
+    "05/23": "DATE",
+    "26.3.2023": "DATE"
+  },
+  "duplicates": "03/23\" appears multiple times but okay.\n\nEdge: \"April2023",
+  "Anna": "NAME_PATIENT",
+  "Koonen": "NAME_PATIENT",
+  "Dr. med.": "NAME_TITLE",
+  "Prof. Dr. med": "NAME_TITLE",
+  "Meilands": "NAME_DOCTOR",
+  "Rimrodt": "NAME_DOCTOR",
+  "19.4.1977": "DATE_BIRTH",
+  "13.07.2023": "DATE",
+  "24.07.2023": "DATE",
+  "April2023": "DATE",
+  "03/23": "DATE",
+  "05/23": "DATE",
+  "26.3.2023": "DATE"
+}

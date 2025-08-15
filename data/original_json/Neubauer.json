@@ -1,0 +1,23 @@
+{
+  "Dr.": "NAME_TITLE",
+  "Albers": "NAME_DOCTOR",
+  "Klaus Neubauer": "NAME_PATIENT",
+  "23.11.1999": "DATE_BIRTH",
+  "73333": "LOCATION_ZIP",
+  "Gingen": "LOCATION_CITY",
+  "21.02.2024": "DATE",
+  "25.02.2024": "DATE",
+  "Schönfeld": "NAME_DOCTOR",
+  "Januar": "DATE",
+  "PSY13": "ID",
+  "KJPP-2": "ID",
+  "26.10.2019": "DATE",
+  "20.12.2019": "DATE",
+  "2023": "DATE",
+  "Dezember 2016": "DATE",
+  "Stuttgart": "LOCATION_CITY",
+  "Neubauer": "NAME_PATIENT",
+  "25.02.2014": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Vasyl Oleksandrovych Lavrynenko": "NAME_DOCTOR"
+}

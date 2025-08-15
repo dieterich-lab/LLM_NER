@@ -1,0 +1,20 @@
+{
+  "Klaus Neubauer": "NAME_PATIENT",
+  "23.11.1999": "DATE_BIRTH",
+  "21.02.2024": "DATE",
+  "25.02.2024": "DATE",
+  "26.10.2019": "DATE",
+  "20.12.2019": "DATE",
+  "25.02.2014": "DATE",
+  "73333": "LOCATION_ZIP",
+  "Gingen": "LOCATION_CITY",
+  "Stuttgart": "LOCATION_CITY",
+  "Klinik": "LOCATION_HOSPITAL",
+  "PSY13": "ID",
+  "KJPP-2": "ID",
+  "Albers": "NAME_DOCTOR",
+  "Schönfeld": "NAME_DOCTOR",
+  "Lavrynenko": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Fr.": "NAME_TITLE"
+}

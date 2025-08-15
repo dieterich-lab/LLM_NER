@@ -1,0 +1,19 @@
+{
+  "ARCOS-KLINIK FLENSBURG": "LOCATION_HOSPITAL",
+  "Otto-Waalkes-Universität Borkum": "LOCATION_ORGANIZATION",
+  "Friesische Str. 21 a": "LOCATION_STREET",
+  "24937": "LOCATION_ZIP",
+  "Flensburg": "LOCATION_CITY",
+  "Helge Klabauter": "NAME_DOCTOR",
+  "Dr. Med.": "NAME_TITLE",
+  "Blasenstein": "NAME_DOCTOR",
+  "Asger Baastrup": "NAME_PATIENT",
+  "5.7.54": "DATE_BIRTH",
+  "Schleswiger Str. 95a": "LOCATION_STREET",
+  "24941": "LOCATION_ZIP",
+  "Rote Str. 3": "LOCATION_STREET",
+  "(0461) 708 - 223": "CONTACT_PHONE",
+  "27. März 2025": "DATE",
+  "22.3.2025": "DATE",
+  "15.3.95": "DATE"
+}

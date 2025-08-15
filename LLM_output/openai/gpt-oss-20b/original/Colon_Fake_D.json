@@ -1,0 +1,19 @@
+{
+  "DAMARIS, Dyonisia": "NAME_PATIENT",
+  "16.5.2018": "DATE",
+  "2.5.2018": "DATE",
+  "34998877": "ID",
+  "11.2.1967": "DATE_BIRTH",
+  "Berlin": "LOCATION_CITY",
+  "Klinische Abteilung für Onkologie": "LOCATION_HOSPITAL",
+  "Onkologie A33": "LOCATION_HOSPITAL",
+  "Dr.": "NAME_TITLE",
+  "Hanns Wurst": "NAME_DOCTOR",
+  "Matthias Metzger": "NAME_DOCTOR",
+  "Jan 2018": "DATE",
+  "2/2018": "DATE",
+  "04/2018": "DATE",
+  "05/18": "DATE",
+  "14.6.2018": "DATE",
+  "16.5.18": "DATE"
+}

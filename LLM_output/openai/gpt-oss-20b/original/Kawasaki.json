@@ -1,0 +1,18 @@
+{
+  "UNIKLINIK DEPPENDORF": "LOCATION_HOSPITAL",
+  "Zentrum für Integrierte Onkologie": "LOCATION_HOSPITAL",
+  "Klaus Kortmann": "NAME_DOCTOR",
+  "Univ.-Prof. Dr.med.": "NAME_TITLE",
+  "Kawasaki, Mitsou": "NAME_PATIENT",
+  "03.02.2027": "DATE_BIRTH",
+  "14.10.2033": "DATE",
+  "17.09.2033": "DATE",
+  "21.10 2033": "DATE",
+  "26 09.2033": "DATE",
+  "09.10.2033": "DATE",
+  "11.10.2033": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Jäger": "NAME_DOCTOR",
+  "Dr  med.": "NAME_TITLE",
+  "Rombach": "NAME_DOCTOR"
+}

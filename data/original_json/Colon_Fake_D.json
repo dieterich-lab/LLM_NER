@@ -1,0 +1,22 @@
+{
+  "Berlin": "LOCATION_CITY",
+  "16.5.2018": "DATE",
+  "DAMARIS, Dyonisia": "NAME_PATIENT",
+  "2.5.2018": "DATE",
+  "34998877": "ID",
+  "11.2.1967": "DATE_BIRTH",
+  "2/18": "DATE",
+  "2/2018": "DATE",
+  "Jan 2018": "DATE",
+  "04/2018": "DATE",
+  "05/18": "DATE",
+  "Damaris": "NAME_PATIENT",
+  "Fünfig": "AGE",
+  "16.5.18": "DATE",
+  "14.6.2018": "DATE",
+  "A33": "ID",
+  "Dr.": "NAME_TITLE",
+  "Hanns Wurst": "NAME_DOCTOR",
+  "OA Dr.": "NAME_TITLE",
+  "Matthias Metzger": "NAME_DOCTOR"
+}

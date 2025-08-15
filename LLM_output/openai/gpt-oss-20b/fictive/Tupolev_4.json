@@ -1,0 +1,17 @@
+{
+  "Hugo Raitner": "NAME_PATIENT",
+  "28.06.1967": "DATE_BIRTH",
+  "Sonnleiten 39": "LOCATION_STREET",
+  "4653": "LOCATION_ZIP",
+  "Eberstalzell": "LOCATION_CITY",
+  "Strahlenklinik V": "LOCATION_HOSPITAL",
+  "Dario Wesenbeck": "NAME_DOCTOR",
+  "Regula Meitzner": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "12.11": "DATE",
+  "13.11 bis 18.11": "DATE",
+  "30.01. - 15.02.12": "DATE",
+  "21.03.2013": "DATE",
+  "20.12.2012": "DATE"
+}

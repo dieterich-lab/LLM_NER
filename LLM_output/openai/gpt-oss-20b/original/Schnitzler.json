@@ -1,0 +1,17 @@
+{
+  "Albert Schnitzler": "NAME_PATIENT",
+  "3.2.1959": "DATE_BIRTH",
+  "Alois-Alzheimer-Gasse 21": "LOCATION_STREET",
+  "9020": "LOCATION_ZIP",
+  "Klagenfurt": "LOCATION_CITY",
+  "2023-04-26": "DATE",
+  "19.4.2023": "DATE",
+  "2.05.2023": "DATE",
+  "1502": "ID",
+  "Universitätsklinikum Klagenfurt": "LOCATION_HOSPITAL",
+  "Dr. med. univers.": "NAME_TITLE",
+  "Adalbert Schitzler": "NAME_DOCTOR",
+  "17217277": "ID",
+  "37844677": "ID",
+  "17663757": "ID"
+}

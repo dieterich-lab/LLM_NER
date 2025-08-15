@@ -1,0 +1,10 @@
+{
+  "Herr Osler": "NAME_PATIENT",
+  "01.03.2001": "DATE_BIRTH",
+  "05.11.2051": "DATE",
+  "10.11.2051": "DATE",
+  "5.11.51": "DATE",
+  "PD Dr. Dr.": "NAME_TITLE",
+  "Ayşe Behçet": "NAME_DOCTOR",
+  "H25440/51": "ID"
+}

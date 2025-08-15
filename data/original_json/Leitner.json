@@ -1,0 +1,14 @@
+{
+  "Dr.": "NAME_TITLE",
+  "Katharina Leitner": "NAME_PATIENT",
+  "23.11.1992": "DATE_BIRTH",
+  "Afritschgasse 22": "LOCATION_STREET",
+  "9010": "LOCATION_ZIP",
+  "Klagenfurt": "LOCATION_CITY",
+  "26.05.2019": "DATE",
+  "30.05.2019": "DATE",
+  "27.05.2019": "DATE",
+  "Leitner": "NAME_DOCTOR",
+  "Dr.a med. univ.": "NAME_TITLE",
+  "Kristina Zipperling": "NAME_DOCTOR"
+}

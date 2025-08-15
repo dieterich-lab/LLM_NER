@@ -1,0 +1,18 @@
+{
+  "Diakonissenkrankenhaus Berlin": "LOCATION_HOSPITAL",
+  "Dr. med.": "NAME_TITLE",
+  "Mike Marschollek": "NAME_DOCTOR",
+  "Ramón Cajal": "NAME_PATIENT",
+  "23.03.1968": "DATE_BIRTH",
+  "Gartenpfad 44": "LOCATION_STREET",
+  "33455": "LOCATION_ZIP",
+  "Wiesental": "LOCATION_CITY",
+  "22.06.2032": "DATE",
+  "20.08.2032": "DATE",
+  "22.08.2032": "DATE",
+  "Prof. Dr.": "NAME_TITLE",
+  "Ch. Janssen": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE",
+  "V. Ceusters": "NAME_DOCTOR",
+  "J. Thiel": "NAME_DOCTOR"
+}

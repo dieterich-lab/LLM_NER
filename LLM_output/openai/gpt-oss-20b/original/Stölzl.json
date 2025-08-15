@@ -1,0 +1,16 @@
+{
+  "Brigitte Stölzl": "NAME_PATIENT",
+  "11.01.1979": "DATE_BIRTH",
+  "Robert-Koch-Str. 17": "LOCATION_STREET",
+  "01334": "LOCATION_ZIP",
+  "Freudenbrunn": "LOCATION_CITY",
+  "21.04.2028": "DATE",
+  "23.04.2028": "DATE",
+  "24.04.28": "DATE",
+  "21.04.08": "DATE",
+  "24.04.08": "DATE",
+  "PD Dr. med.": "NAME_TITLE",
+  "Hasso Hasselblatt": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE",
+  "Henderson": "NAME_DOCTOR"
+}

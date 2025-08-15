@@ -1,0 +1,14 @@
+{
+  "Reinhold Grunden": "NAME_PATIENT",
+  "28.06.67": "DATE_BIRTH",
+  "8490934066": "ID",
+  "U21": "ID",
+  "083": "ID",
+  "Dr.": "NAME_TITLE",
+  "Tophoven": "NAME_DOCTOR",
+  "Prof. Dr.Dr.": "NAME_TITLE",
+  "Mattew": "NAME_DOCTOR",
+  "Holsterhausen": "LOCATION_CITY",
+  "Praxis Holsterhausen": "LOCATION_ORGANIZATION",
+  "13.06.2012": "DATE"
+}

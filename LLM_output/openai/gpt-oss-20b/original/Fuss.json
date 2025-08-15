@@ -1,0 +1,21 @@
+{
+  "Universitätsklinikum Wilhelmsburg": "LOCATION_HOSPITAL",
+  "KLINIK UND POLIKLINIK FÜR KINDER-UND JUGENDMEDIZIN": "LOCATION_HOSPITAL",
+  "Prof. Dr.": "NAME_TITLE",
+  "Mike Messer": "NAME_DOCTOR",
+  "Prof. Dr. Dr.": "NAME_TITLE",
+  "Waldemar Waldenström": "NAME_DOCTOR",
+  "Institut für Röntgendiagnostik": "LOCATION_ORGANIZATION",
+  "Flora Fuss": "NAME_PATIENT",
+  "28.05.2028": "DATE_BIRTH",
+  "Florgasse 2": "LOCATION_STREET",
+  "Wilhelmsburg": "LOCATION_CITY",
+  "91022": "LOCATION_ZIP",
+  "20.05.2034": "DATE",
+  "27.05.2034": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "M. Messer": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "V. Konoka": "NAME_DOCTOR",
+  "Alma Hecht": "NAME_DOCTOR"
+}

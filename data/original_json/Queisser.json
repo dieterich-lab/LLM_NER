@@ -1,0 +1,12 @@
+{
+  "Andreas Queisser": "NAME_PATIENT",
+  "21.1.1961": "DATE_BIRTH",
+  "Iris-Leber-Straße 42": "LOCATION_STREET",
+  "35745": "LOCATION_ZIP",
+  "Herborn": "LOCATION_CITY",
+  "23.02.2019": "DATE",
+  "02.09.18": "DATE",
+  "49": "AGE",
+  "Prof. Dr.Dr. med.": "NAME_TITLE",
+  "Wang Qiang": "NAME_DOCTOR"
+}

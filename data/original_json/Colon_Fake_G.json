@@ -1,0 +1,16 @@
+{
+  "GERODLSAUER, Gerli": "NAME_PATIENT",
+  "12.4.1977": "DATE_BIRTH",
+  "06.07.2023": "DATE",
+  "17.07.2023": "DATE",
+  "03/23": "DATE",
+  "April 2023": "DATE",
+  "05/23": "DATE",
+  "Geroldsauer": "NAME_PATIENT",
+  "19.3.2023": "DATE",
+  "3": "ID",
+  "Dr. med.": "NAME_TITLE",
+  "Helmuth Leber": "NAME_DOCTOR",
+  "Prof. Dr. med": "NAME_TITLE",
+  "Anna Alzheimer": "NAME_DOCTOR"
+}

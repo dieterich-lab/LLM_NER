@@ -1,0 +1,19 @@
+{
+  "Xenia Jadassohn": "NAME_PATIENT",
+  "31.12.1953": "DATE_BIRTH",
+  "A23": "ID",
+  "Intensivstation I03": "LOCATION_HOSPITAL",
+  "Kropka": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Priv. Doz.": "NAME_TITLE",
+  "Jan Biedermann": "NAME_DOCTOR",
+  "27.03.23": "DATE",
+  "26.1.23": "DATE",
+  "23.2.23": "DATE",
+  "21.3.23": "DATE",
+  "23.3.23": "DATE",
+  "24.3.23": "DATE",
+  "27.3.23": "DATE",
+  "10.4.23": "DATE",
+  "21.4.23": "DATE"
+}

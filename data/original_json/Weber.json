@@ -1,0 +1,19 @@
+{
+  "Frauke Weber": "NAME_PATIENT",
+  "2.2.1964": "DATE_BIRTH",
+  "31.3.2020": "DATE",
+  "9.4.2020": "DATE",
+  "2002": "DATE",
+  "1.2.": "DATE",
+  "Prof.": "NAME_TITLE",
+  "Kindler": "NAME_DOCTOR",
+  "Drs.": "NAME_TITLE",
+  "Leber": "NAME_DOCTOR",
+  "Krauth": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Finger": "NAME_DOCTOR",
+  "Blau": "NAME_DOCTOR",
+  "Weber": "NAME_PATIENT",
+  "Karoline Jochum": "NAME_DOCTOR",
+  "II": "ID"
+}

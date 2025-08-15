@@ -1,0 +1,16 @@
+{
+  "Konstantin Tupolev": "NAME_PATIENT",
+  "21.06.1967": "DATE_BIRTH",
+  "Heldenplatz 2c": "LOCATION_STREET",
+  "A-8120": "LOCATION_ZIP",
+  "Holzhausen": "LOCATION_CITY",
+  "15.03.2013": "DATE",
+  "14.03.2013": "DATE",
+  "13.12.2012": "DATE",
+  "15.02.12": "DATE",
+  "Strahlenklinik I": "LOCATION_HOSPITAL",
+  "Dr.": "NAME_TITLE",
+  "Weißenberger": "NAME_DOCTOR",
+  "Uriv.-Prof.": "NAME_TITLE",
+  "Wiedemann": "NAME_DOCTOR"
+}

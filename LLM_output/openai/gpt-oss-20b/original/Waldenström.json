@@ -1,0 +1,16 @@
+{
+  "Christian-Drosten-Klinik": "LOCATION_HOSPITAL",
+  "Universitätsprofessor": "NAME_TITLE",
+  "Dr.": "NAME_TITLE",
+  "Heinz Hals": "NAME_DOCTOR",
+  "Klaus Bomelic": "NAME_DOCTOR",
+  "Kaiserstr. 2a": "LOCATION_STREET",
+  "76646": "LOCATION_ZIP",
+  "Bruchsal": "LOCATION_CITY",
+  "14.09.2039": "DATE",
+  "Heidelberg": "LOCATION_CITY",
+  "Udo Waldenström": "NAME_PATIENT",
+  "01.02.2003": "DATE_BIRTH",
+  "Dantestr. 17": "LOCATION_STREET",
+  "69115": "LOCATION_ZIP"
+}

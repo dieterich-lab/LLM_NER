@@ -1,0 +1,22 @@
+{
+  "Kai Fleischmann": "NAME_PATIENT",
+  "21.2.2008": "DATE_BIRTH",
+  "Frau Kollegin Schickedanz": "NAME_DOCTOR",
+  "01.03.28": "DATE",
+  "15.05.28": "DATE",
+  "September 2027": "DATE",
+  "Universitätsklinik Jena": "LOCATION_HOSPITAL",
+  "ÖHK Mühlhausen": "LOCATION_HOSPITAL",
+  "Krankenhaus Naumburg": "LOCATION_HOSPITAL",
+  "Naumburg": "LOCATION_CITY",
+  "Mühlhausen": "LOCATION_CITY",
+  "Jena": "LOCATION_CITY",
+  "Weimar": "LOCATION_CITY",
+  "Kreisjugendamt": "LOCATION_ORGANIZATION",
+  "Herr Fleischmann": "NAME_PATIENT",
+  "Herr Wieland": "OTHER",
+  "Herr Fuß": "OTHER",
+  "Dr. W.": "NAME_TITLE",
+  "Fleischmann": "NAME_DOCTOR",
+  "15": "AGE"
+}

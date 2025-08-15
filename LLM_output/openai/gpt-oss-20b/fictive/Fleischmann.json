@@ -1,0 +1,20 @@
+{
+  "Matthias Wulkotte": "NAME_PATIENT",
+  "28.2.2008": "DATE_BIRTH",
+  "Neudert": "NAME_DOCTOR",
+  "01.04.04": "DATE",
+  "15.06.04": "DATE",
+  "September2027": "DATE",
+  "September03": "DATE",
+  "Dezember04": "DATE",
+  "2027": "DATE",
+  "14.06.04": "DATE",
+  "Patrice Wulkotte": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Herr Kaczmarzyk": "NAME_EXT",
+  "Kreisjugendamt": "LOCATION_ORGANIZATION",
+  "Universitätsklinikum des Saarlandes": "LOCATION_HOSPITAL",
+  "LVR-Klinik Köln, Mülheim": "LOCATION_HOSPITAL",
+  "Ärztehaus lutarMed": "LOCATION_HOSPITAL",
+  "Kirschkau": "LOCATION_CITY"
+}

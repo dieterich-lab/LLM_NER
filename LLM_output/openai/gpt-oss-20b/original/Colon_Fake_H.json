@@ -1,0 +1,21 @@
+{
+  "Huberta Hotzenplotz": "NAME_PATIENT",
+  "Henriette Heinzelmann": "NAME_DOCTOR",
+  "Harry Holderbach": "NAME_DOCTOR",
+  "Klausner": "NAME_DOCTOR",
+  "3.6.1942": "DATE_BIRTH",
+  "12.3.2023": "DATE",
+  "28.3.2023": "DATE",
+  "01/22": "DATE",
+  "04/2022": "DATE",
+  "13/3/2023": "DATE",
+  "14/3/2023": "DATE",
+  "19/4/2023": "DATE",
+  "22/4/2023": "DATE",
+  "2/5/2023": "DATE",
+  "16/3/2013": "DATE",
+  "1/2/2023": "DATE",
+  "Landesnervenklinik der Medizinischen Hochschule Bad Blumenthal": "LOCATION_HOSPITAL",
+  "Bad Blumenthal": "LOCATION_CITY",
+  "012/332-4454": "CONTACT_PHONE"
+}

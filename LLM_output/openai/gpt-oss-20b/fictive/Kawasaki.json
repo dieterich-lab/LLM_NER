@@ -1,0 +1,17 @@
+{
+  "München Klinik Schwabing": "LOCATION_HOSPITAL",
+  "Univ.-Prof. Dr.med.": "NAME_TITLE",
+  "Laidig": "NAME_DOCTOR",
+  "Spreitzenbarth Reiner": "NAME_PATIENT",
+  "10.02.2027": "DATE_BIRTH",
+  "21.10.2033": "DATE",
+  "24.09.2033": "DATE",
+  "28.10.2033": "DATE",
+  "03.10.2033": "DATE",
+  "16.10.2033": "DATE",
+  "18.10.2033": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Sabath": "NAME_DOCTOR",
+  "Dr  med.": "NAME_TITLE",
+  "Zuckrigl": "NAME_DOCTOR"
+}

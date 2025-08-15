@@ -1,0 +1,20 @@
+{
+  "Euripedes Erler": "NAME_PATIENT",
+  "Herr Erler": "NAME_PATIENT",
+  "Jonathan Schwach": "NAME_DOCTOR",
+  "Josefine Häfele": "NAME_DOCTOR",
+  "Ass.Dr.": "NAME_TITLE",
+  "Prof. Dr.": "NAME_TITLE",
+  "KLINIK FÜR ONKOLOGIE": "LOCATION_HOSPITAL",
+  "KH der Diakonissen": "LOCATION_HOSPITAL",
+  "München": "LOCATION_CITY",
+  "17.8.2033": "DATE",
+  "12.7.2033": "DATE",
+  "21.7.2033": "DATE",
+  "21.02.2033": "DATE",
+  "14.3.2033": "DATE",
+  "17. August 2033": "DATE",
+  "2.9.2033": "DATE",
+  "30.12.1987": "DATE_BIRTH",
+  "(FN:445544767)": "ID"
+}

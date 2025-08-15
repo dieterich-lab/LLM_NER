@@ -1,0 +1,22 @@
+{
+  "Spital der barmherzigen Schwestern St. Johann am Bergle": "LOCATION_HOSPITAL",
+  "Klinik für Chirurgie": "LOCATION_HOSPITAL",
+  "Ambulanz für Endoskopie": "LOCATION_HOSPITAL",
+  "o.Univ. Prof. Dr.": "NAME_TITLE",
+  "Hans Wurst": "NAME_DOCTOR",
+  "+43 (453) 14-DW": "CONTACT_PHONE",
+  "+43 (453) 14-592-12098": "CONTACT_FAX",
+  "Sonnblick 32": "LOCATION_STREET",
+  "St. Johann am Bergle": "LOCATION_CITY",
+  "A-3336": "ID",
+  "Dr.": "NAME_TITLE",
+  "Jonathan Darmstädter": "NAME_DOCTOR",
+  "Isabella Meulengracht": "NAME_PATIENT",
+  "Hauptstraße 3a": "LOCATION_STREET",
+  "St. Anna im Tale": "LOCATION_CITY",
+  "A-3337": "ID",
+  "31.12.1999": "DATE_BIRTH",
+  "103354008": "ID",
+  "4445311299": "ID",
+  "29.01.2039": "DATE"
+}

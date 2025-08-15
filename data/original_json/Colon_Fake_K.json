@@ -1,0 +1,23 @@
+{
+  "\"Krankenanstaltenverbund Ostfriesland": "LOCATION_HOSPITAL",
+  "PD Dr.": "NAME_TITLE",
+  "Kurt Kapfner": "NAME_DOCTOR",
+  "Katharina Korsakoff": "NAME_PATIENT",
+  "13.5.1981": "DATE_BIRTH",
+  "2.3.": "DATE",
+  "15.3.2043": "DATE",
+  "04/2043": "DATE",
+  "2040": "DATE",
+  "2041": "DATE",
+  "2037": "DATE",
+  "2044": "DATE",
+  "2035": "DATE",
+  "7.3.2043": "DATE",
+  "10. 03. 2043": "DATE",
+  "Korsakoff": "NAME_PATIENT",
+  "15. 03. 2043": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "K. Kummer": "NAME_DOCTOR",
+  "PD Dr. med": "NAME_TITLE",
+  "M. Kienböck": "NAME_DOCTOR"
+}

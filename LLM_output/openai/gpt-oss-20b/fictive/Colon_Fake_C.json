@@ -1,0 +1,14 @@
+{
+  "Klinische Abteilung für ONKOLOGIE": "LOCATION_HOSPITAL",
+  "Neustadt": "LOCATION_CITY",
+  "19.3.2023": "DATE",
+  "Tanneberg Danielle": "NAME_PATIENT",
+  "3915337593": "ID",
+  "31.12.1972": "DATE_BIRTH",
+  "9.2.2023": "DATE",
+  "21.2.2023": "DATE",
+  "50": "AGE",
+  "Dr.": "NAME_TITLE",
+  "Gian Strohmaier": "NAME_DOCTOR",
+  "Johannes Boomgaarden": "NAME_DOCTOR"
+}

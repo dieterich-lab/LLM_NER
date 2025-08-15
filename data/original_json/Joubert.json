@@ -1,0 +1,16 @@
+{
+  "Univ. Prof. Dr. mult.": "NAME_TITLE",
+  "Pinocchio Cwerg-Nase": "NAME_DOCTOR",
+  "A-2236": "LOCATION_ZIP",
+  "Opfing": "LOCATION_CITY",
+  "Heldenplatz 16": "LOCATION_STREET",
+  "0816/333-13283": "CONTACT_PHONE",
+  "0816/333-13284": "CONTACT_FAX",
+  "Dr.": "NAME_TITLE",
+  "Pierre JOUBERT": "NAME_PATIENT",
+  "Innsbrucker Landstraße 22a": "LOCATION_STREET",
+  "03.03.1973": "DATE_BIRTH",
+  "08.07.2026": "DATE",
+  "A-202344102": "ID",
+  "BVA": "LOCATION_ORGANIZATION"
+}
