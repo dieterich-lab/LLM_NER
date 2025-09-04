@@ -25,6 +25,14 @@ Result: **No degradation** observed — F1 on surrogate is slightly **higher** t
   * writes prediction JSONs alongside Pydantic validation
 * `eval_results/original/*.png` — sample plots (confusion matrix, per-class metrics)
 
+## Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Quickstart
 
 ### 1) Generate predictions with the LLM
