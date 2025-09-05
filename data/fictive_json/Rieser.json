@@ -1,10 +1,1 @@
-{
-  "Annemarie Meinike": "NAME_PATIENT",
-  "08.07.1963": "DATE_BIRTH",
-  "29.03.2023": "DATE",
-  "06.2022": "DATE",
-  "Meinike": "NAME_PATIENT",
-  "0170787789328": "CONTACT_PHONE",
-  "Dra.": "NAME_TITLE",
-  "Josefa Olivia Schwert": "NAME_DOCTOR"
-}
+{"index":{"T1":"NAME_PATIENT 0 12","T2":"DATE 18 28","T3":"DATE 151 161","T4":"DATE 246 253","T5":"DATE 389 399","T6":"NAME_PATIENT 1093 1099","T7":"DATE 1200 1210","T8":"CONTACT_PHONE 1486 1499","T9":"NAME_TITLE 1817 1821","T10":"NAME_DOCTOR 1822 1839"},"text":{"T1":"Ziska Lettau","T2":"08.07.1963","T3":"29.03.2023","T4":"06.2022","T5":"29.03.2023","T6":"Lettau","T7":"29.03.2023","T8":"0175059903857","T9":"Dra.","T10":"Ruth Thea Friedly"}}

@@ -1,15 +1,1 @@
-{
-  "Heribert Klingenhoff": "NAME_PATIENT",
-  "10.2.1959": "DATE_BIRTH",
-  "Wurzen": "LOCATION_CITY",
-  "2023.05.03": "DATE",
-  "Klingenhoff": "NAME_PATIENT",
-  "2018": "DATE",
-  "26.4.2023": "DATE",
-  "39825979": "ID",
-  "19074833": "ID",
-  "Universitätsklinikum Bonn": "LOCATION_HOSPITAL",
-  "78876232": "ID",
-  "9.05.2023": "DATE",
-  "8601": "ID"
-}
+{"index":{"T1":"NAME_PATIENT 42 55","T2":"DATE 59 68","T3":"LOCATION_CITY 82 90","T4":"DATE 92 102","T5":"NAME_PATIENT 196 204","T6":"DATE 515 519","T7":"DATE 591 600","T8":"ID 659 667","T9":"ID 723 731","T10":"LOCATION_HOSPITAL 732 762","T11":"ID 824 832","T12":"DATE 1429 1438","T13":"ID 1451 1455"},"text":{"T1":"Alex Hankofer","T2":"10.2.1959","T3":"Herzhorn","T4":"2023.05.03","T5":"Hankofer","T6":"2018","T7":"26.4.2023","T8":"40875602","T9":"26257008","T10":"Universit\u00e4tsklinikum Magdeburg","T11":"67031227","T12":"9.05.2023","T13":"3477"}}

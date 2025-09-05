@@ -1,9 +1,1 @@
-{
-  "Pat.Dr.": "NAME_TITLE",
-  "Waldemar Kerkhoffs": "NAME_PATIENT",
-  "02.03.2019": "DATE_BIRTH",
-  "02.09.25": "DATE",
-  "AGE 49": "AGE",
-  "Dr. med.": "NAME_TITLE",
-  "Philippe Himmighofen": "NAME_DOCTOR"
-}
+{"index":{"T1":"NAME_TITLE 42 49","T2":"NAME_PATIENT 50 62","T3":"DATE 75 85","T4":"DATE 682 690","T5":"AGE 1144 1150","T6":"NAME_TITLE 3393 3401","T7":"NAME_DOCTOR 3402 3419"},"text":{"T1":"Pat.Dr.","T2":"Yvo Eckholtz","T3":"02.03.2019","T4":"02.09.25","T5":"49j\u00e4hr","T6":"Dr. med.","T7":"C\u00e9dric Grinhagens"}}

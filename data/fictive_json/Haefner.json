@@ -1,15 +1,1 @@
-{
-  "Tekloth Dietrich": "NAME_PATIENT",
-  "28.3.1979": "DATE_BIRTH",
-  "25.11.2023": "DATE",
-  "10.12.2023": "DATE",
-  "06.2023": "DATE",
-  "26.11.2023": "DATE",
-  "28.11.2023": "DATE",
-  "29.11.2023": "DATE",
-  "Tekloth": "NAME_PATIENT",
-  "03.12.30": "DATE",
-  "Dr. med.": "NAME_TITLE",
-  "Quirin Pfaffmann": "NAME_DOCTOR",
-  "PhD": "NAME_TITLE"
-}
+{"index":{"T1":"NAME_PATIENT 92 110","T2":"DATE 114 123","T3":"DATE 138 148","T4":"DATE 153 163","T5":"DATE 402 409","T6":"DATE 484 494","T7":"DATE 509 519","T8":"DATE 546 556","T9":"NAME_PATIENT 642 655","T10":"DATE 852 862","T11":"DATE 971 981","T12":"DATE 1503 1513","T13":"DATE 2168 2176","T14":"NAME_PATIENT 2189 2202","T15":"DATE 2588 2598","T16":"NAME_TITLE 3384 3392","T17":"NAME_DOCTOR 3393 3409","T18":"NAME_TITLE 3410 3413"},"text":{"T1":"Dielschneider \u00dcmit","T2":"28.3.1979","T3":"25.11.2023","T4":"10.12.2023","T5":"06.2023","T6":"26.11.2023","T7":"28.11.2023","T8":"29.11.2023","T9":"Dielschneider","T10":"26.11.2023","T11":"26.11.2023","T12":"28.11.2023","T13":"03.12.30","T14":"Dielschneider","T15":"28.11.2023","T16":"Dr. med.","T17":"Christoph Gamper","T18":"PhD"}}

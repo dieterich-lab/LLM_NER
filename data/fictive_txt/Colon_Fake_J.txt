@@ -1,10 +1,10 @@
-Klinik im Kronprinzenbau
+Klinik für Allgemeinchirurgie des Kreiskrankenhaus Greiz
 
 Arztbrief vom 27.11.2064 
 
 Sehr geehrte Damen und Herren, 
 
-wir berichten über den Patienten Jürgen Bredenbröker, geb. am 8.1.1992, welcher vom 8.11.2064 bis 07.12.2064 von uns stationär behandelt wurde. 
+wir berichten über den Patienten Leopold Ostendarp, geb. am 8.1.1992, welcher vom 8.11.2064 bis 07.12.2064 von uns stationär behandelt wurde. 
 
 Diagnosen:
 - Mechanischer Dickdarmileus bei Sigmakarzinom und peritonealer Metastase
@@ -46,7 +46,7 @@ Herz: SR, normocard, HT rein.
 Pulmo: VA bds.
 Abdomen: Leichte Abwehrspannung, keine pathologischen Resistenzen tastbar.
 
-Abdomenleer-Rö in Rückenlage und Linksseitenlage am 9.11.2064:
+Abdomenleer-Rö in Rückenlage und Linksseitenlage am 2.11.2064:
 Ergebnis: Keine freie intraperitoneale Luft. Überblähtes Colon transversum C A V E Schlingenbreite 9,5 cm.
 Uncharakteristische Dünndarmspiegelbildungen.
 
@@ -109,4 +109,4 @@ Bei Wundsekretion und/oder zunehmenden Schmerzen sowie Entzündungszeichen umgeh
 Mit freundlichen Grüßen
  
 
-OA Dr. med. Vittorio Braksiek,  Chefarzt PD. Dr. med. Tobias Warnks
+OA Dr. med. Gerd Bressl,  Chefarzt PD. Dr. med. Zoeke Mölder

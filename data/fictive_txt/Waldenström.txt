@@ -1,18 +1,18 @@
-﻿MEDIZINISCHE KLINIK UND POLIKLINIK Abteilung Pneumologie (Evangelisches Krankenhaus Bochum-Linden) Ärztlicher Direktor
-Universitätsprofessor Dr. mult. med. Dietmar Michelsohn
+﻿MEDIZINISCHE KLINIK UND POLIKLINIK Abteilung Pneumologie (Evangelisches Krankenhaus Essen-Werden) Ärztlicher Direktor
+Universitätsprofessor Dr. mult. med. Lothar Schütteler
 
-Dr. med. Eckhard Fünfstuck
-Braugasse 74
-73569 Obergröningen
+Dr. med. Vittorio Schöpper
+Wilhelmstraße 23
+76703 Kraichtal
  
 Information Sekretariat (Privatambulanz)
-Prof. Dr. Michelsohn
+Prof. Dr. Schütteler
  
-Eimeldingen, 21.09.2039
+Abtsgmünd, 21.09.2039
  
-PATIENT: Olivier Gschwende geb. 08.02.2003, Hauptstraße 36, 79591 Eimeldingen
+PATIENT: Folkert Piechel geb. 08.02.2003, Brückenweg 18, 73453 Abtsgmünd
 
-Sehr geehrter Herr Kollege Fünfstuck,
+Sehr geehrter Herr Kollege Schöpper,
 
 ich darf Ihnen kurz über die Befunde berichten, die ich bei unserem gememsamen o.g. Patienten am 16.09.2039 erhoben habe.
 
@@ -22,7 +22,7 @@ Infekexazerbation eines exogen allergischen Asthmas, ED 2008
 
 Bezüglich der Vorgeschichte darf ich in diesem Zusammenhang auf meinen Brief vom 01.09.2035 verweisen.
 
-Familienanamnese: Zwei Kinder, ein AGE fünfjähriger Sohn hat Säuglingsdermatitis, sonst keine Allergien, Asthma oder atopische Krankheiten in der Familie bekannt.
+Familienanamnese: Zwei Kinder, ein fünfjähriger Sohn hat Säuglingsdermatitis, sonst keine Allergien, Asthma oder atopische Krankheiten in der Familie bekannt.
 
 Eigenanamnese: Tonsillektomie und Trommelfellperforation als Kleinkind.
 
@@ -53,5 +53,5 @@ Ich habe dem Patienten die Therapie etwas moderner gestaltet als vor 4 Jahren un
 
 Mit freundlichen Grüßen
 
-Dr. mult. med. Dietmar Michelsohn 
+Dr. mult. med. Lothar Schütteler 
 Ärztlicher Direktor

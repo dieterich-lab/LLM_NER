@@ -1,11 +1,1 @@
-{
-  "Rosmarie Schremp": "NAME_PATIENT",
-  "8.2.2000": "DATE_BIRTH",
-  "10.5.": "DATE",
-  "15.5.2028": "DATE",
-  "AGE 28": "AGE",
-  "2033": "DATE",
-  "PROFESSION Floristin": "PROFESSION",
-  "Schremp": "NAME_PATIENT",
-  "Dennis Mintrop": "NAME_DOCTOR"
-}
+{"index":{"T1":"NAME_PATIENT 90 101","T2":"DATE 114 122","T3":"DATE 137 142","T4":"DATE 147 156","T5":"AGE 221 223","T6":"DATE 1286 1290","T7":"PROFESSION 1577 1586","T8":"NAME_PATIENT 2695 2700","T9":"DATE 2752 2761","T10":"NAME_DOCTOR 3011 3031"},"text":{"T1":"Marga Moews","T2":"8.2.2000","T3":"10.5.","T4":"15.5.2028","T5":"28","T6":"2033","T7":"Floristin","T8":"Moews","T9":"15.5.2028","T10":"Steffen Everszumrode"}}

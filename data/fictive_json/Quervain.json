@@ -1,13 +1,1 @@
-{
-  "Erica Staedler": "NAME_DOCTOR",
-  "ZAR Friedrichshafen - Zentrum für ambulante Rehabilitation": "LOCATION_HOSPITAL",
-  "Dr. med.": "NAME_TITLE",
-  "Henry Wantscha": "NAME_DOCTOR",
-  "Linienweg 31": "LOCATION_STREET",
-  "79271": "LOCATION_ZIP",
-  "Eberstalzell": "LOCATION_CITY",
-  "Lukas Latzlsperger": "NAME_PATIENT",
-  "28.07.1983": "DATE_BIRTH",
-  "21.01.2025": "DATE",
-  "Simonswald": "LOCATION_CITY"
-}
+{"index":{"T1":"NAME_DOCTOR 0 13","T2":"LOCATION_HOSPITAL 91 149","T3":"NAME_TITLE 159 167","T4":"NAME_DOCTOR 168 189","T5":"LOCATION_STREET 190 203","T6":"LOCATION_ZIP 204 209","T7":"LOCATION_CITY 210 228","T8":"NAME_PATIENT 246 262","T9":"DATE 265 275","T10":"DATE 303 313","T11":"LOCATION_CITY 621 630","T12":"NAME_DOCTOR 2144 2157"},"text":{"T1":"Inga Siefarth","T2":"ZAR Friedrichshafen - Zentrum f\u00fcr ambulante Rehabilitation","T3":"Dr. med.","T4":"Steffen Schweingruber","T5":"Bachnerweg 23","T6":"72348","T7":"Zwettl an der Rodl","T8":"Dominik Woerndel","T9":"28.07.1983","T10":"21.01.2025","T11":"Rosenfeld","T12":"Inga Siefarth"}}

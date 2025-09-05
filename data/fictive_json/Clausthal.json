@@ -1,17 +1,1 @@
-{
-  "Katutura-Staatskrankenhaus": "LOCATION_HOSPITAL",
-  "01.12.2029": "DATE",
-  "Hübsch Christina": "NAME_PATIENT",
-  "8.10.1975": "DATE_BIRTH",
-  "Kaufholdt": "NAME_DOCTOR",
-  "20.12.2029": "DATE",
-  "1/26": "DATE",
-  "11/28": "DATE",
-  "4/29": "DATE",
-  "9/29": "DATE",
-  "6/29": "DATE",
-  "11/29": "DATE",
-  "Hübsch": "NAME_PATIENT",
-  "28.11.2029": "DATE",
-  "28.03.2030": "DATE"
-}
+{"index":{"T1":"LOCATION_HOSPITAL 0 25","T2":"DATE 64 74","T3":"NAME_PATIENT 88 106","T4":"DATE 115 124","T5":"NAME_DOCTOR 154 162","T6":"DATE 228 238","T7":"DATE 426 430","T8":"DATE 507 512","T9":"DATE 572 576","T10":"DATE 629 633","T11":"DATE 750 754","T12":"DATE 755 760","T13":"NAME_PATIENT 823 833","T14":"DATE 976 986","T15":"DATE 2151 2161","T16":"NAME_PATIENT 2194 2204"},"text":{"T1":"Landeskrankenhaus Bregenz","T2":"01.12.2029","T3":"Weitkemper Rosalia","T4":"8.10.1975","T5":"Schlundt","T6":"20.12.2029","T7":"1\/26","T8":"11\/28","T9":"4\/29","T10":"9\/29","T11":"6\/29","T12":"11\/29","T13":"Weitkemper","T14":"28.11.2029","T15":"28.03.2030","T16":"Weitkemper"}}

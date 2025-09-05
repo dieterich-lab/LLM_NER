@@ -1,7 +1,7 @@
 Entlassungsbrief
 
 Sehr geehrte Frau Kollegin,
-wir berichten Ihnen über unseren gemeinsamen Patienten, Herrn Carlo, geboren am 08.03.2001, der sich vom 12.11.2051 bis 17.11.2051 in unserer Behandlung befand.
+wir berichten Ihnen über unseren gemeinsamen Patienten, Herrn Patrik, geboren am 08.03.2001, der sich vom 12.11.2051 bis 17.11.2051 in unserer Behandlung befand.
 
 Diagnosen: 
 1. Dekomp. kryptogene Leberzirrhose, Child C mit hepatischer Encephalopathie Grad I – II 
@@ -19,7 +19,7 @@ Therapie und Verlauf:
 
 Anamnese:
 
-Herr Carlo stellte sich am 12.11.51 in unserer Notaufnahme vor, auf Grund einer seit 3 Tagen zunehmenden AZ-Verschlechterung mit körperlicher Schwäche und begleitender intermittierender Schwindelsymptomatik mit Übelkeit und Erbrechen . Dabei beschrieb er eine, im Verlauf der letzten 2 - 3 Wochen zunehmende Bauchumfangszunahme und zuletzt eine deutliche Einschränkung der Konzentrationsfähigkeit, Vergeßlichkeit mit progredienter Müdigkeit und Schläfrigkeit. 
+Herr Patrik stellte sich am 12.11.51 in unserer Notaufnahme vor, auf Grund einer seit 3 Tagen zunehmenden AZ-Verschlechterung mit körperlicher Schwäche und begleitender intermittierender Schwindelsymptomatik mit Übelkeit und Erbrechen . Dabei beschrieb er eine, im Verlauf der letzten 2 - 3 Wochen zunehmende Bauchumfangszunahme und zuletzt eine deutliche Einschränkung der Konzentrationsfähigkeit, Vergeßlichkeit mit progredienter Müdigkeit und Schläfrigkeit. 
 
 Gezielt verneint werden:
 Bluterbrechen, Teerstuhl, übermäßiger Eiweißkonsum, übermäßiger Fettkonsum, Fieber, Infektzeichen. 
@@ -40,7 +40,7 @@ Nadroparin  0,3 mg s.c. jeden 2. Tag.
 
 Klinische Untersuchung:
 
-AGE 51-jähirger Patient in geringgr. reduziertem AZ und normalem EZ (183 cm, 86 kg). 3-fach orientiert. Pupille links weit entrundet, rechts mittelweit mit unauffälliger direkter und indirekter Lichtreaktion, Spider naevi disseminiert obere Thoraxapertur, Gynäkomastie beidseits, Weißnägel.
+51-jähirger Patient in geringgr. reduziertem AZ und normalem EZ (183 cm, 86 kg). 3-fach orientiert. Pupille links weit entrundet, rechts mittelweit mit unauffälliger direkter und indirekter Lichtreaktion, Spider naevi disseminiert obere Thoraxapertur, Gynäkomastie beidseits, Weißnägel.
 
 Herz und Lunge ausk. regelrecht. RR 110/60 mmHg, HF 86/min. Abdomen weich, ausgeprägter Aszites mit Undulationsphänomen, kein Druckschmerz. Milz ca. 3 QF unterhalb des linken Rippenbogens vergrößert tastbar. Rektal-digital o.B. Neurolog. Untersuchungsbefund bis auf diskrete Verlangsamung, angedeutete Erstvarixes o. B.
 
@@ -52,7 +52,7 @@ Unauffällig fanden sich HbA1c, TSH basal, AFP, IL6, Zink, Lipidprofil.
 
 Serologie: negativ fanden sich CMV-DNA-PCR.
 
-Aszitespunktat: Leukozyten 0,16/nl, Albumin 6,2 g/l, LDH 51 U/l. Histologie (C32412/41): Kein Nachweis von Tumorzellen.
+Aszitespunktat: Leukozyten 0,16/nl, Albumin 6,2 g/l, LDH 51 U/l. Histologie (H25440/51): Kein Nachweis von Tumorzellen.
 
 Abdomensonographie:
 mit Pfortaderduplex: Pfortader dilatiert mit 2,1 cm, Pfortaderfluß hepatopetal max. 30 cm/Sek., Flußvolumen 2,4 - 2,9 l/min., TIPS allseits offen, im mittleren Drittel Vmax. 70 cm/Sek. (Flußvolumen 1 - 1,5 Liter/min.), Milz 18,5 x 5 cm, mäßig Aszites.
@@ -85,4 +85,4 @@ KEINE ACE-Hemmer!
 
 Mit freundlichen kollegialen Grüßen
 
-PD Dr. Dr. Mareike Nitzschke, Chefärztin
+PD Dr. Dr. Inge Weissfuss, Chefärztin

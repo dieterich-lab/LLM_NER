@@ -1,4 +1,4 @@
-Klinik in der Plöck
+Kliniken des Main-Taunus-Kreises
 
 Abteilung für Neurologie
 
@@ -6,7 +6,7 @@ Abteilung für Neurologie
 Arztbrief
 
 Wir berichten über unsere gemeinsame Patientin 
-Muriel Langebartels, geb. am 10.6.1942 
+Gabriela Weisskopf, geb. am 10.6.1942 
 Stationär von 19.3.2023 bis 04.4.2023
 
 Diagnosen
@@ -47,7 +47,7 @@ Geringe Dysarthrie, kein Hinweis auf aphasische Störung.
 
 
 Status somaticus
-AGE 80 jährige Patientin in kaum beeinträchtigtem AZ, gutem EZ.
+80 jährige Patientin in kaum beeinträchtigtem AZ, gutem EZ.
 Cor: Herzaktion rhythmisch, normocard, Herztöne rein.
 Pulmo: VA bds.
 Abdomen: Weich, kein Druckschmerz, keine pathologischen Resistenzen tastbar.
@@ -75,7 +75,7 @@ Bis auf minimale Wandverdickungen um den Bulbus, unauff. Befund, inkl. V2 ******
 EF o.B., asynchrone Wandbewegungen, geringe Linksventrikelhypertrophie, diastolische Relaxationsstörung,
 Klappensklerose, keine signifikanten Vitien, keine Thromben.
 
-21.3.2023, CT des Gehirnschädels nativ, Kontrolle:
+14/3/2023, CT des Gehirnschädels nativ, Kontrolle:
 Im Vergleich zur gestrigen VU keine wesentliche Befundänderung,
 keine Blutung, auch keine sichere rezente Insultdemarkation.
 Ansonsten siehe Vorbefund.
@@ -119,7 +119,7 @@ Steatosis hepatis. Pankreas partiel lipomatös atroph. Paranephric stranding bei
 Punktförmiges Konkrement im linken NBKS, dieses regelrecht kalibriert.
 
 
-26.4.2023, Ambulante Vorstellung an der chirurgischen Ambulanz RK25:
+26.4.2023, Ambulante Vorstellung an der chirurgischen Ambulanz VB12:
 Procedere: Eine Rektumamputation wäre vorgesehen, die Pat. diesbezüglich damit einverstanden, sie wird
 zur Beurteilung einer OP-Tauglichkeit an unserer PDU vorgestellt, auch  auch eventuelle Voruntersuchungen zu
 planen: ASA 3.
@@ -130,7 +130,7 @@ besprochen, nach der Beurteilung und durch das Tumorboard wird bei empfohlener O
 29.4.2023, Tumorboard:
 Empfehlung: Operative Sanierung planen bei N. recti CT-3, N-1, M-0 u. St.n. RTX.
 Die stationäre Übernahme vom Psychiatrischen Klinik am Montag den 06.5.2023 um 08:00 - nicht nüchtern, die OP für
-9.5.2023 vorgesehen, telefonische Bekanntgabe des OP-Termines ad Psychiatrischen Klinik - Station EJ6 erfolgt,
+9.5.2023 vorgesehen, telefonische Bekanntgabe des OP-Termines ad Psychiatrischen Klinik - Station CT5 erfolgt,
  
 
 Klinischer Verlauf
@@ -180,8 +180,8 @@ Koordination: KHV bds. zielsicher.
 Barthel-Index: bei Aufnahme: 40 Pkte, bei Entlassung 60 Punkte
 
 Weiteres Vorgehen
-Nach durchgeführter Operation u. geplanter Entlassung bitte ich um eine Kontaktaufnahme unter der Nummer 01703915337
-(OA Dr. Xavier), um die Pat. wieder an unserer Neurorehababteilung zu übernehmen
+Nach durchgeführter Operation u. geplanter Entlassung bitte ich um eine Kontaktaufnahme unter der Nummer 01767712600
+(OA Dr. Dario), um die Pat. wieder an unserer Neurorehababteilung zu übernehmen
 (Terminvereinbarung).
 
 
@@ -197,7 +197,7 @@ LOVENOX 40 MG S.C.
 
 Mit freundlichen Grüßen
 
-OÄ Dr. Ottilie Rosenbrock Prof. Dr. Leonhard Krichbaumer
+OÄ Dr. Sandra Piepenbrink Prof. Dr. Christoph Tekampe
 
  
 

@@ -1,4 +1,4 @@
-Erwin Ziegenweide geb. 22.01.1940,
+Jean-Pierre Hoppen geb. 22.01.1940,
 
 Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,
 
@@ -20,7 +20,7 @@ Diagnosen:
 - anschließende Bestrahlungstherapie der Leber 11-5.2021
 - Thymophysin 50mg/d 06.10.-02.10.28 und 12.10.-10.10.28
 - neu aufgetretene Lebermetastasen (PET 05.08.2021) 			
-- Chemotherapie (Protokoll Nr.:317994-5794)  Irinotecan (80mg/m2), 5-FU (2000mg/ m2), Leukovorin (500mg/ m2), 3 Zyklen: 18.08.28 - 20.1.29, seit 20.09.28 (2. und 3. Zyklus) in um 20% reduzierte Dosis bei rez. Neutropenien
+- Chemotherapie (Protokoll Nr.:644837-7878)  Irinotecan (80mg/m2), 5-FU (2000mg/ m2), Leukovorin (500mg/ m2), 3 Zyklen: 18.08.28 - 20.1.29, seit 20.09.28 (2. und 3. Zyklus) in um 20% reduzierte Dosis bei rez. Neutropenien
 - V.a. Lungenfil. im CT 1/21 
 -Umstellung Chemotherapie bei Tumorprogress (Lungenfiliae)
 -Gemcitabine 1000mg/ m2 Tag 1,8,15; Wiederholung Tag 28, 03.2.2021 bis 17.02.2022(1000mg/m2), am  17.02.2022 in reduzierter Dosis von 750mg/m2 wegen Neutropenie
@@ -58,8 +58,8 @@ Karnofsky-Index:  100 %
 Aktuell:  Beginn Chemotherapie nach dem FOLFOX-Protokoll
 
 Zwischenanamnese: 
-Herr Ziegenweide berichtet über seit 2 Tagen zunehmende Dyspnoe vor allen Dingen bei Belastung. Tagsüber fühle er sich häufig müde ohne Leistungsfähigkeit, wie er sie gewohnt ist. Das Gewicht habe bis auf 87 kg zugenommen. Abends treten Beinödeme auf. Gelegentlich, vor allem in den letzten zwei Tagen Husten mit gelblichem Auswurf. 
-Vor 2 Tagen begann Herr Ziegenweide mit der Einnahme von Nifedipin in der Dosierung von 3 x 20 mg pro Tag. 
+Herr Hoppen berichtet über seit 2 Tagen zunehmende Dyspnoe vor allen Dingen bei Belastung. Tagsüber fühle er sich häufig müde ohne Leistungsfähigkeit, wie er sie gewohnt ist. Das Gewicht habe bis auf 87 kg zugenommen. Abends treten Beinödeme auf. Gelegentlich, vor allem in den letzten zwei Tagen Husten mit gelblichem Auswurf. 
+Vor 2 Tagen begann Herr Hoppen mit der Einnahme von Nifedipin in der Dosierung von 3 x 20 mg pro Tag. 
 
 Zusatzuntersuchungen: 
 Labor (21.07.29): Leukozyten 6,2 Tsd/µl; Erythrozyten 4,08 Mio/µl; Hämoglobin 13,1 g/dl; 
@@ -73,7 +73,7 @@ bereits bekannten metastasentypischen Leberläsionen Nachweis zweier neuer Metas
 Leberparenchym. 
 
 Zusammenfassung und Verlauf: 
-Herr Ziegenweide stellte sich zu Beginn der Kombinations-Chemotherapie aus Oxaliplatin und 5-FU vor. Er 
+Herr Hoppen stellte sich zu Beginn der Kombinations-Chemotherapie aus Oxaliplatin und 5-FU vor. Er 
 berichtet über Belastungsdyspnoe in den letzten 2 Tagen. Als Ursache dafür zeigte sich eine absolute 
 Arrhythmie bei Vorhofflimmern und Herzfrequenz um 100-120/min. Während des kurzen stationären 
 Aufenthaltes gelang die Kardioversion mittels Flecainid 100 mg per os unter Monitorkontrolle. Die 
@@ -99,7 +99,7 @@ Aquaphor 10 mg	1-0-0
 Thalidomid 100 mg	0-0-1
 Adalat 20 mg	1-1-1
 
-gez. Prof. Dr. med. Wolf Holderer
+gez. Prof. Dr. med. Manuel Olbertz
 Ltd. Oberarzt
 
 

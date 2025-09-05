@@ -1,10 +1,10 @@
 Klinische Abteilung für Onkologie
 
-Rauwiller, am 23.12.2029  
+Nogent, am 23.12.2029  
 
 Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege, 
 
-wir berichten über den Patienten Hirschlein Detlef, Fallnummer: 719680343, *13.7.1980, der sich 
+wir berichten über den Patienten Köver John, Fallnummer: 719680343, *13.7.1980, der sich 
 vom 8.12.2029 bis 23.12.1929 in unserer stat. Behandlung befand. 
 
 
@@ -33,7 +33,7 @@ Fortsetzung der palliativen Polychemotherapie mit FOLFOX, 5. Zyklus, bei minimal
 vier Zyklen.
 
 ZUSATAND BEI AUFNAHME
-AGE 45-j. Patient in gutem AZ, schlankem EZ, kardiopulmonal unauffälliger Auskultations- und 
+45-j. Patient in gutem AZ, schlankem EZ, kardiopulmonal unauffälliger Auskultations- und 
 Perkussionsbefund
 Abdomen: Bauchdecken weich, kein Druckschmerz, DG normal
  
@@ -71,5 +71,5 @@ Procedere
 
 Mit freundlichen kollegialen Grüßen
 
-PD Dr. Edo Klappheck 
-OÄ Dr. Gabrielle Seyda  
+PD Dr. Eugen Margraf 
+OÄ Dr. Jutta Schulze-Steinen  

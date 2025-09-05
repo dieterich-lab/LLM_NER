@@ -1,8 +1,1 @@
-{
-  "Irène Steinbauer": "NAME_PATIENT",
-  "26.04.2020": "DATE_BIRTH",
-  "09.03.01": "DATE",
-  "Massimo": "NAME_PATIENT",
-  "PD Dr.": "NAME_TITLE",
-  "Veronika Göpferich": "NAME_DOCTOR"
-}
+{"index":{"T1":"NAME_PATIENT 110 124","T2":"DATE 128 138","T3":"DATE 152 160","T4":"NAME_PATIENT 221 227","T5":"NAME_TITLE 2575 2578","T6":"NAME_DOCTOR 2579 2594"},"text":{"T1":"Erica Hennekes","T2":"26.04.2020","T3":"09.03.01","T4":"Pietro","T5":"Dr.","T6":"Lina Reifegerst"}}

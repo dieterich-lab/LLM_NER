@@ -3,7 +3,7 @@ Klinische Abteilung für O N K O L O G I E
 
 Werte Frau Kollegin, werter Herr Kollege, 
 
-wir berichten hier über unsere gemeinsame Patientin, Frau Ute Wiethege, Fallnummer: 85288483, geboren am: 01.05.1987, die sich vom 27.12.2033 bis zum 04.01.2034 in unserer stationären Behandlung befand. 
+wir berichten hier über unsere gemeinsame Patientin, Frau Aurelia Kopetzki, Fallnummer: 82144607, geboren am: 01.05.1987, die sich vom 27.12.2033 bis zum 04.01.2034 in unserer stationären Behandlung befand. 
 
 DIAGNOSEN
 
@@ -23,11 +23,11 @@ Med.TU Therapie(n):
 pall. PCT m. Folfox ab (4.33); 1. Zyklus 75%
 
 
-Die stationäre Aufnahme von Frau Wiethege erfolgte zur Einleitung der Polychemotherapie nach dem Folfox-Regime.
+Die stationäre Aufnahme von Frau Kopetzki erfolgte zur Einleitung der Polychemotherapie nach dem Folfox-Regime.
 Sie berichtet über starke Schmerzen beim Sitzen.
  
 Status praesens
-AGE 55-j. Patientin in mittelgr. reduziertem AZ und deutlich red. EZ. neurologisch bis auf einen leichten seitengl. Tremor unauffällig, allseits orientiert, kardiorespiratorisch stabil. 
+55-j. Patientin in mittelgr. reduziertem AZ und deutlich red. EZ. neurologisch bis auf einen leichten seitengl. Tremor unauffällig, allseits orientiert, kardiorespiratorisch stabil. 
 Caput/Collum: kein Meningismus, HNAP frei, Pupillen rund, mitteleng, isokor, LR direkt und indirekt prompt, Zunge feucht, gerade, Schleimhäute blaß. Cor: HT rein, rhythmisch, normokard. Pulmo: Vesikuläratmen bds., keine Rasselgeräusche. Abdomen: Ileostoma, Bauchdecke weich kein DS, keine Abwehrspannung, DG rege, Nierenlager bds. frei.
 Analregion: Fistelung ca. 12x12cm große Rötung perianal. Extremitäten, Gelenke: aktiv und passiv frei beweglich, periphere Pulse gut tastbar, minimale Beinödeme bds.
 
@@ -41,7 +41,7 @@ Hb bei Entlassung 10,2
 Rö-Thorax: Leicht re. verbreitertes Herz, sonst oB 
 
 Therapie und Verlauf
-Die stat. Aufnahme von Frau Wiethege erfolgte zur Einleitung einer palliativen Polychemotherapie nach Folfox-Schema (1. Zyklus) bei lokal weit fortgeschrittenem Rektumkarzinom. Die Patientin erhielt 75%-der Gesamtdosis. Insgesamt erhielt sie Oxaliplatin 97mg über 2 Std, sowie 456mg Calciumfolinat über 2 Std, 400mg 5FU als Bolus und 1736mg 5FU über 58 Stunden. Die Dosisreduktion beruhte in erster Linie auf der lokal weit fortgeschrittene Tumorsituation mit rektovag. Fistelbildung unter laufender antibiotischer Therapie. Bei guter Verträglichkeit ist die Fortführung der Therapie zum 2. Zyklus in normaler Dosierung geplant. Unter ausreichend antiemetischen Begleitmaßnahmen wurde die Therapie gut vertragen, so dass die Patientin in gutem AZ nach Hause entlassen werden kann.
+Die stat. Aufnahme von Frau Kopetzki erfolgte zur Einleitung einer palliativen Polychemotherapie nach Folfox-Schema (1. Zyklus) bei lokal weit fortgeschrittenem Rektumkarzinom. Die Patientin erhielt 75%-der Gesamtdosis. Insgesamt erhielt sie Oxaliplatin 97mg über 2 Std, sowie 456mg Calciumfolinat über 2 Std, 400mg 5FU als Bolus und 1736mg 5FU über 58 Stunden. Die Dosisreduktion beruhte in erster Linie auf der lokal weit fortgeschrittene Tumorsituation mit rektovag. Fistelbildung unter laufender antibiotischer Therapie. Bei guter Verträglichkeit ist die Fortführung der Therapie zum 2. Zyklus in normaler Dosierung geplant. Unter ausreichend antiemetischen Begleitmaßnahmen wurde die Therapie gut vertragen, so dass die Patientin in gutem AZ nach Hause entlassen werden kann.
 Es wurden insgesamt 2 Blutkonserven transfundiert.
 
 Empfohlene Therapie

@@ -1,10 +1,10 @@
 KLINIK FÜR ONKOLOGIE
 
-Roth, am 24.8.2033  
+Höchberg, am 24.8.2033  
 
 Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege, 
 
-wir berichten Ihnen von unserem gemeinsamen Patienten Ingolf Tschirren (FN:011524493), geb. 06.01.1988der sich vom 19.7.2033 bis 28.7.2033 in unserer stationären Behandlung befand. 
+wir berichten Ihnen von unserem gemeinsamen Patienten Klaus Grafenhorst (FN:467414501), geb. DATE sich vom 19.7.2033 bis 28.7.2033 in unserer stationären Behandlung befand. 
  
 
 HAUPT-UND NEBENDIAGNOSEN
@@ -41,7 +41,7 @@ Natrium 126, Kreatinin 1,5, Harnstoff 69, Harnsäure 9,2, CK 209, LDH 250, Fibri
 CT-Oberbauch:: Nativ unauffällige Parenchymtextur der Leber. Zahlreiche punktförmige Parenchymverkalkungem im Corpus pancreatis. Im übrigen unauffälliges Pancreas, soweit nativ beurteilbar. 12 mm haltende simple Nierenzyste, kortikal exophytisch am cranialen Pol der linken Niere. Kein Nachweis path. vergrösserter LK mesenteriell und im Retroperitoneum.
 
 Zusammenfassung von Therapie und Verlauf
-Die stationäre Aufnahme von Herrn Tschirren erfolgte zur Fortführung der pall. Chemotherapie mit FOLFOX, 4. Zyklus. Zum Zeitpunkt der stationären Aufnahme befand sich der Pat. in gutem stabilen AZ. Er erhält am Tag 1 Oxaliplatin 85mg/m² KOF über 120 Minuten, Calciumfolinat 400mg/m² KOF über 186 Minuten, sowie 5FU Bolus 500mg/m² KOF über 5 min; weiterhin erhält die Patientin 5FU 2400mg/m² KOF über 46 Stunden. Die Chemotherapie wurde vom Pat. unter entsprechenden hydrierenden und antiemetischen Begleitmaßnahmen gut vertragen, so dass Herr Tschirren am 24August2033 wieder aus unserer Abteilung entlassen werden konnte.
+Die stationäre Aufnahme von Herrn Grafenhorst erfolgte zur Fortführung der pall. Chemotherapie mit FOLFOX, 4. Zyklus. Zum Zeitpunkt der stationären Aufnahme befand sich der Pat. in gutem stabilen AZ. Er erhält am Tag 1 Oxaliplatin 85mg/m² KOF über 120 Minuten, Calciumfolinat 400mg/m² KOF über 186 Minuten, sowie 5FU Bolus 500mg/m² KOF über 5 min; weiterhin erhält die Patientin 5FU 2400mg/m² KOF über 46 Stunden. Die Chemotherapie wurde vom Pat. unter entsprechenden hydrierenden und antiemetischen Begleitmaßnahmen gut vertragen, so dass Herr Grafenhorst am 24August2033 wieder aus unserer Abteilung entlassen werden konnte.
 
 Empfohlene Therapie
 Lasix 40mg ½-0-0
@@ -54,12 +54,12 @@ Valium 0-0-1
 bei Schmerzen: Novalgin Tropfen bis 6 x 20gtt tgl.
 
 Procedere
-Restaging im Herr und Frau Kurbad am 9.9.2033.
+Restaging im Diakonie am 9.9.2033.
 
-Am 9.9.2033 um 8 Uhr 15 stationäre Wiederaufnahme an der Onkologie Station T0 zur Befundbesprechung und Fortfhrung der pall. PCT mit FOLFOX 5. Zyklus.
+Am 9.9.2033 um 8 Uhr 15 stationäre Wiederaufnahme an der Onkologie Station P0 zur Befundbesprechung und Fortfhrung der pall. PCT mit FOLFOX 5. Zyklus.
 Bitte unmittelbar vor Aufnahme (7 Uhr 50) eine amb. Blutbild- Kontrolle in der Onkologie Ambulanz durchführen lassen.
 
 Mit freundlichen kollegialen Grüßen
 
-Ass.Dr. Tim Torneden  Prof. Dr. Sieglinde Cichosz
+Ass.Dr. Gebhard Koreuber  Prof. Dr. Lilian Pachmayr
  

@@ -1,7 +1,7 @@
 
 Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege, 
 
-wir berichten über unseren Patienten Jörg Neudorf, geboren am 02.3.1941, der sich vom 9. bis zum 14.10.2021 in unserer stationären Behandlung befand. 
+wir berichten über unseren Patienten Quintus Kranefoed, geboren am 02.3.1941, der sich vom 9. bis zum 14.10.2021 in unserer stationären Behandlung befand. 
 
 Diagnosen: 
 Transitorisch-ischämische Attacke 
@@ -17,7 +17,7 @@ Psychischer Befund:
 Wach, voll orientiert, kooperativ. 
 
 Internistischer Befund: 
-AGE 80-jähriger Patient in gutem AZ und adipösem EZ, RR 140/80 mmHg, Herzfrequenz 80/Minute. Cor, Pulmo, Abdomen o.B.
+80-jähriger Patient in gutem AZ und adipösem EZ, RR 140/80 mmHg, Herzfrequenz 80/Minute. Cor, Pulmo, Abdomen o.B.
 
 Labor:
 Siehe Anlage.
@@ -34,7 +34,7 @@ In der T2-Wichtung periventrikuläre Hyperintensitäten als Zeichen der zerebral
 Ultraschall der hirnversorgenden Arterien: Arteriosklerotische Veränderungen i.B.d. Bifurkation, sonst o.B.
 
 Beurteilung, Therapie und Verlauf:  
-Zusammenfassend erlitt Herr Horstick erstmalig eine transitorisch-ischämische Attacke mit vorübergehender Sensibilitätsstörung recht, die sich nach ca. 30 Minuten komplett zurückbildete. Der neurologische Befund war regelrecht, das MRT des Schädels ergab Zeichen der cerebralen Mikroangiopathie bei ausgeprägtem vaskulären Risikoprofil. Höhergr. Stenosen der hirnversorgenden Arterien oder kardiale Emboliequellen ergaben sich diagnostisch nicht. Insofern erfolgte eine medikamentöse Sekundärprophylaxe mit 100 mg ASS und einem Statin. Wir empfehlen eine regelmäßige Kontrolle von Blutdruck und eine optimale Blutzuckereinstellung zur weiteren Sekundärprophylaxe. 
+Zusammenfassend erlitt Herr Poindecker erstmalig eine transitorisch-ischämische Attacke mit vorübergehender Sensibilitätsstörung recht, die sich nach ca. 30 Minuten komplett zurückbildete. Der neurologische Befund war regelrecht, das MRT des Schädels ergab Zeichen der cerebralen Mikroangiopathie bei ausgeprägtem vaskulären Risikoprofil. Höhergr. Stenosen der hirnversorgenden Arterien oder kardiale Emboliequellen ergaben sich diagnostisch nicht. Insofern erfolgte eine medikamentöse Sekundärprophylaxe mit 100 mg ASS und einem Statin. Wir empfehlen eine regelmäßige Kontrolle von Blutdruck und eine optimale Blutzuckereinstellung zur weiteren Sekundärprophylaxe. 
 
 Medikation bei Entlassung:
 ASS 100 mg 1 – 0 - 0 
@@ -44,5 +44,5 @@ Zoplicon 7,5 mg z.N.
 
 
 Mit freundlichen kollegialen Grüßen 
-PD Dr. Siebelt Chefarzt
-Dr. Knut Oberarzt 
+PD Dr. Patrice Chefarzt
+Dr. Andree Oberarzt 

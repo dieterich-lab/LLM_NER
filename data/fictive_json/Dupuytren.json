@@ -1,18 +1,1 @@
-{
-  "Universitätsklinikum Leipzig": "LOCATION_HOSPITAL",
-  "Prof.Dr. med.": "NAME_TITLE",
-  "Christophe Bem": "NAME_DOCTOR",
-  "48607": "LOCATION_ZIP",
-  "Ochtrup": "LOCATION_CITY",
-  "Von-Gallitzin-Straße 20": "LOCATION_STREET",
-  "017485288483": "CONTACT_PHONE",
-  "017419226777": "CONTACT_FAX",
-  "Valentina Renckens": "NAME_PATIENT",
-  "Von-Kleist-Weg": "LOCATION_STREET",
-  "Prof. Dr. med.": "NAME_TITLE",
-  "Simon Arthur Pellkofer": "NAME_DOCTOR",
-  "GA": "ID",
-  "07.11.2021": "DATE",
-  "28.09.2021": "DATE",
-  "Elmar Barthelmess": "NAME_DOCTOR"
-}
+{"index":{"T1":"LOCATION_HOSPITAL 0 25","T2":"NAME_TITLE 97 110","T3":"NAME_DOCTOR 111 127","T4":"LOCATION_ZIP 128 133","T5":"LOCATION_CITY 134 140","T6":"LOCATION_STREET 142 167","T7":"CONTACT_PHONE 175 187","T8":"CONTACT_FAX 194 206","T9":"NAME_PATIENT 211 224","T10":"LOCATION_STREET 225 233","T11":"LOCATION_ZIP 234 239","T12":"LOCATION_CITY 240 246","T13":"NAME_TITLE 305 319","T14":"NAME_DOCTOR 320 343","T15":"DATE 1031 1041","T16":"LOCATION_HOSPITAL 1131 1156","T17":"DATE 1161 1171","T18":"NAME_DOCTOR 1398 1413"},"text":{"T1":"Universit\u00e4tsklinikum Jena","T2":"Prof.Dr. med.","T3":"John Mitteregger","T4":"48739","T5":"Legden","T6":"Droste-H\u00fclshoff-Stra\u00dfe 94","T7":"015987588670","T8":"015924159206","T9":"Dina Twickler","T10":"Kreuzweg","T11":"48739","T12":"Legden","T13":"Prof. Dr. med.","T14":"Raphael Zweer Pillgramm","T15":"07.11.2021","T16":"beneVital Gesundheitspark","T17":"28.09.2021","T18":"Hubert Northoff"}}

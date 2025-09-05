@@ -1,15 +1,1 @@
-{
-  "Katutura-Staatskrankenhaus": "LOCATION_HOSPITAL",
-  "01.12.2028": "DATE",
-  "Strässer Trudi": "NAME_PATIENT",
-  "28.09.1967": "DATE_BIRTH",
-  "9.11.": "DATE",
-  "24.12.05": "DATE",
-  "Strässer": "NAME_PATIENT",
-  "10.11.2028": "DATE",
-  "11.11.2028": "DATE",
-  "17.11.2028": "DATE",
-  "30.11.2008": "DATE",
-  "Prim. DDr.": "NAME_TITLE",
-  "Zeno Brocksieper": "NAME_DOCTOR"
-}
+{"index":{"T1":"LOCATION_HOSPITAL 0 25","T2":"DATE 70 80","T3":"NAME_PATIENT 95 106","T4":"DATE 115 125","T5":"DATE 242 247","T6":"DATE 250 258","T7":"NAME_PATIENT 768 772","T8":"NAME_PATIENT 3642 3646","T9":"NAME_PATIENT 4809 4813","T10":"DATE 5196 5206","T11":"DATE 5352 5362","T12":"DATE 5506 5516","T13":"DATE 5551 5561","T14":"DATE 5691 5701","T15":"DATE 5902 5912","T16":"DATE 6475 6485","T17":"NAME_TITLE 7523 7527","T18":"NAME_DOCTOR 7528 7542"},"text":{"T1":"Landeskrankenhaus Bregenz","T2":"01.12.2028","T3":"J\u00e4gg Gesine","T4":"28.09.1967","T5":"9.11.","T6":"24.12.05","T7":"J\u00e4gg","T8":"J\u00e4gg","T9":"J\u00e4gg","T10":"10.11.2028","T11":"11.11.2028","T12":"17.11.2028","T13":"11.11.2028","T14":"11.11.2028","T15":"11.11.2028","T16":"30.11.2008","T17":"DDr.","T18":"Carlos Schwehr"}}

@@ -1,14 +1,1 @@
-{
-  "Dr.": "NAME_TITLE",
-  "Elisabeth Theising": "NAME_PATIENT",
-  "30.11.1992": "DATE_BIRTH",
-  "Bienrode 27": "LOCATION_STREET",
-  "29683": "LOCATION_ZIP",
-  "Wurzen": "LOCATION_CITY",
-  "02.06.2019": "DATE",
-  "06.06.2019": "DATE",
-  "03.06.2019": "DATE",
-  "Theising": "NAME_DOCTOR",
-  "Dr.a med. univ.": "NAME_TITLE",
-  "Nelly Maasmann": "NAME_DOCTOR"
-}
+{"index":{"T1":"NAME_TITLE 0 3","T2":"NAME_PATIENT 4 20","T3":"DATE 24 34","T4":"LOCATION_STREET 45 58","T5":"LOCATION_ZIP 60 65","T6":"LOCATION_CITY 66 74","T7":"DATE 145 155","T8":"DATE 164 174","T9":"DATE 403 413","T10":"NAME_PATIENT 850 856","T11":"NAME_TITLE 1091 1106","T12":"NAME_DOCTOR 1107 1124"},"text":{"T1":"Dr.","T2":"Gertraude T\u00f6rner","T3":"30.11.1992","T4":"Obercrossen 8","T5":"01855","T6":"Herzhorn","T7":"02.06.2019","T8":"06.06.2019","T9":"03.06.2019","T10":"Didier","T11":"Dr.a med. univ.","T12":"Anny Kerschbaumer"}}

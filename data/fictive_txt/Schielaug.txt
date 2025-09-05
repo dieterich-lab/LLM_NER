@@ -1,13 +1,13 @@
 Klinikum Neumarkt in der Oberpfalz
 
 Klinik für Ophthalmologie
-Klinikvorstand: Univ.-Prof. Dr. Mirko Sellmaier
-15848 Neustadt, David Winkler Parkway 35, Tel.: +431759198057, Fax: +431621167649679430
+Klinikvorstand: Univ.-Prof. Dr. Dominik Mühlmeyer
+N0G 2M0 Neustadt, Mill Street 29, Tel.: +431559378785, Fax: +431767951152261290
 
 
  
-Herrn Dr. med. Salvatore Hoppenberg Rohlsdorfer Weg 62
-15848 Neustadt
+Herrn Dr. med. Ralph Crauser Grey Road 9 59
+N0G 2M0 Neustadt
  
 
 
@@ -15,11 +15,11 @@ BEFUND - AMBULANZ	22.11.2026
 
  
 PATIENTIN:
-Hanne Flad, geb: 23.7.1999 wh.: 16909 Neustadt, Weg der Bodenreform 64
+Rosemarie Spelters, geb: 23.7.1999 wh.: 14478 Neustadt, Grey Road 10 14
  
 
 
-Fall: 156158800427
+Fall: 516879548669
  
 
 DIAGNOSE(N): Myopie BA (H52.1).
@@ -31,7 +31,7 @@ Familienanamnese: Opa mütterlicherseits Glaukom ab 55. Lj und Makuladeg., Mutte
 Eigene Anamnese: 1. Brille mit ca. 13. LJ; Myopie und Astigmatismus. Über die Jahre relativ stabil; Linkes Auge sah immer gering besser als das rechte.
 Allergische Konjunktivits (Pollen) seit 13. Lj. 
 
-Augen FA Dr. Maik, zuletzt am 20Juli2025; Fundi zentral o.B., AT 14/15 mm/Hg
+Augen FA Dr. Vittorio, zuletzt am 20Juli2025; Fundi zentral o.B., AT 14/15 mm/Hg
 Augendruckkontrollen fanden regelmäßig statt, immer im Normbereich. 
 Optiker bemerkte Verschlechterung des Astigmatismus um 2 dpt.; Brille nicht geändert; Zunehmende Ermüdung beim Lesen gegen Abend; Pat. kann aber doch viele Stunden praktisch
 beschwerdefrei arbeiten: Pat. liest/arbeitet fast ausschließlich an versch. Bildschirmen: PC, Laptop und Smartphone. Patient justiert sich Schriftgröße und Lichtintensität je nach Bedarf. Lesen vom Papier wurde vom
@@ -81,9 +81,9 @@ Wir haben ein Rp für eine neue Fernbrille ausgestellt (Beschichtung rechts lös
 
 Das Ausprobieren von verschiedenen Arbeitsplatz / Computer-Additionen von +0,5 bis +1,5 sph. bds. ist spontan nicht merklich besser oder hilfreich. Die Pat. überlegt noch, ob sie sich evtl. eine Gleitsichtbrille (für die Computer-Arbeitsdistanz- Lesedistanz) anfertigen lässt.
 
-Befund elektronisch freigegeben von OT York MBA am: 22.11.2026 um: 15:38
+Befund elektronisch freigegeben von OT Reto MBA am: 22.11.2026 um: 15:38
 
-Orthoptistin: York Jünemann MBA 
-Ullrich Kussat Dr.
+Orthoptistin: Reto Verdonk MBA 
+Dominik Medinger Dr.
 
-BEFUND ERGEHT AN: Viktor Mirko Dr., Herrn Dr. med. Salvatore Hoppenberg Rohlsdorfer Weg 62 15848 Neustadt
+BEFUND ERGEHT AN: Dirk Dominik Dr., Herrn Dr. med. Ralph Crauser Grey Road 9 59 N0G 2M0 Neustadt
