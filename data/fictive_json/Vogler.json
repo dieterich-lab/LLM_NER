@@ -1,1 +1,15 @@
-{"index":{"T1":"NAME_PATIENT 96 113","T2":"DATE_BIRTH 126 135","T3":"DATE 150 152","T4":"DATE 161 171","T5":"DATE 384 393","T6":"DATE 690 694","T7":"DATE 755 759","T8":"AGE 973 975","T9":"NAME_PATIENT 1807 1817","T10":"NAME_TITLE 2616 2622","T11":"NAME_DOCTOR 2623 2630","T12":"NAME_TITLE 2640 2643","T13":"NAME_DOCTOR 2644 2650"},"text":{"T1":"Quintus Kranefoed","T2":"02.3.1941","T3":"9.","T4":"14.10.2021","T5":"9.10.2021","T6":"2008","T7":"2012","T8":"80","T9":"Poindecker","T10":"PD Dr.","T11":"Patrice","T12":"Dr.","T13":"Andree"}}
+{
+  "Quintus Kranefoed": "NAME_PATIENT",
+  "02.3.1941": "DATE_BIRTH",
+  "9.": "DATE",
+  "14.10.2021": "DATE",
+  "9.10.2021": "DATE",
+  "2008": "DATE",
+  "2012": "DATE",
+  "80": "AGE",
+  "Poindecker": "NAME_PATIENT",
+  "PD Dr.": "NAME_TITLE",
+  "Patrice": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Andree": "NAME_DOCTOR"
+}

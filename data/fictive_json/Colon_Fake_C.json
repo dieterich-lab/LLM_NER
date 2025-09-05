@@ -1,1 +1,19 @@
-{"index":{"T1":"LOCATION_CITY 34 42","T2":"DATE 47 56","T3":"NAME_PATIENT 141 156","T4":"ID 165 176","T5":"DATE 179 189","T6":"DATE 205 213","T7":"DATE 218 227","T8":"DATE 274 278","T9":"DATE 327 331","T10":"DATE 371 377","T11":"DATE 624 628","T12":"DATE 692 701","T13":"DATE 749 753","T14":"AGE 891 893","T15":"DATE 2247 2256","T16":"NAME_TITLE 2433 2436","T17":"NAME_DOCTOR 2437 2452","T18":"NAME_TITLE 2456 2459","T19":"NAME_DOCTOR 2460 2476"},"text":{"T1":"Neustadt","T2":"19.3.2023","T3":"Reintjes Marita","T4":".1983444174","T5":"31.12.1972","T6":"9.2.2023","T7":"21.2.2023","T8":"4\/23","T9":"5\/23","T10":"8.2023","T11":"4\/23","T12":"20.6.2023","T13":"6\/23","T14":"50","T15":"10.6.2023","T16":"Dr.","T17":"Klaus Lehmpfuhl","T18":"Dr.","T19":"Louis Edenhofner"}}
+{
+  "Neustadt": "LOCATION_CITY",
+  "19.3.2023": "DATE",
+  "Reintjes Marita": "NAME_PATIENT",
+  ".1983444174": "ID",
+  "31.12.1972": "DATE",
+  "9.2.2023": "DATE",
+  "21.2.2023": "DATE",
+  "4/23": "DATE",
+  "5/23": "DATE",
+  "8.2023": "DATE",
+  "20.6.2023": "DATE",
+  "6/23": "DATE",
+  "50": "AGE",
+  "10.6.2023": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Klaus Lehmpfuhl": "NAME_DOCTOR",
+  "Louis Edenhofner": "NAME_DOCTOR"
+}

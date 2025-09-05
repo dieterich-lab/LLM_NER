@@ -1,1 +1,22 @@
-{"index":{"T1":"NAME_PATIENT 1 17","T2":"DATE 23 32","T3":"DATE 157 167","T4":"DATE 272 279","T5":"DATE 329 331","T6":"DATE 334 341","T7":"DATE 370 372","T8":"DATE 373 380","T9":"DATE 414 421","T10":"DATE 450 452","T11":"DATE 453 460","T12":"DATE 525 529","T13":"DATE 750 760","T14":"DATE 765 775","T15":"DATE 800 809","T16":"NAME_PATIENT 1028 1038","T17":"DATE 1134 1141","T18":"NAME_PATIENT 1380 1390","T19":"DATE 2156 2165","T20":"NAME_DOCTOR 2323 2340","T21":"NAME_TITLE 2356 2365","T22":"NAME_DOCTOR 2366 2382"},"text":{"T1":"Henri Reinthaler","T2":"19.9.1940","T3":"28.01.2023","T4":"02.2021","T5":"10","T6":"05.2021","T7":"10","T8":"06.2022","T9":"07.2022","T10":"17","T11":"11.2022","T12":"2007","T13":"21.11.2021","T14":"05.01.2023","T15":"21.1.2023","T16":"Reinthaler","T17":"21.1.30","T18":"Reinthaler","T19":"04.2.2023","T20":"Detlev Borgerding","T21":"Prof. Dr.","T22":"Stephan Willauer"}}
+{
+  "Henri Reinthaler": "NAME_PATIENT",
+  "19.9.1940": "DATE",
+  "28.01.2023": "DATE",
+  "02.2021": "DATE",
+  "10": "DATE",
+  "05.2021": "DATE",
+  "06.2022": "DATE",
+  "07.2022": "DATE",
+  "17": "DATE",
+  "11.2022": "DATE",
+  "2007": "DATE",
+  "21.11.2021": "DATE",
+  "05.01.2023": "DATE",
+  "21.1.2023": "DATE",
+  "Reinthaler": "NAME_PATIENT",
+  "21.1.30": "DATE",
+  "04.2.2023": "DATE",
+  "Detlev Borgerding": "NAME_DOCTOR",
+  "Prof. Dr.": "NAME_TITLE",
+  "Stephan Willauer": "NAME_DOCTOR"
+}

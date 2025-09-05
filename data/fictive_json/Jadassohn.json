@@ -1,1 +1,23 @@
-{"index":{"T1":"NAME_PATIENT 60 77","T2":"DATE_BIRTH 81 91","T3":"DATE 106 111","T4":"DATE 116 125","T5":"ID 166 169","T6":"DATE 288 292","T7":"DATE 450 454","T8":"DATE 617 625","T9":"NAME_PATIENT 1451 1460","T10":"DATE 1543 1550","T11":"LOCATION_HOSPITAL 1561 1592","T12":"DATE 1678 1684","T13":"DATE 2152 2159","T14":"DATE 2252 2259","T15":"DATE 2318 2325","T16":"DATE 2524 2531","T17":"DATE 2716 2723","T18":"DATE 2815 2822","T19":"DATE 2915 2922","T20":"NAME_PATIENT 3078 3087","T21":"ID 3160 3163","T22":"DATE 3464 3471","T23":"NAME_PATIENT 4264 4273","T24":"DATE 4417 4424","T25":"NAME_PATIENT 4442 4451","T26":"NAME_PATIENT 4687 4696","T27":"NAME_TITLE 5386 5396","T28":"NAME_DOCTOR 5397 5408"},"text":{"T1":"Eveline Balbierer","T2":"07.01.1954","T3":"28.3.","T4":"28.4.2023","T5":"U66","T6":"2019","T7":"2018","T8":"27.03.30","T9":"Balbierer","T10":"26.1.30","T11":"Praxis Dr. Matthias Paulitschek","T12":"23.3.2","T13":"21.3.30","T14":"21.3.30","T15":"21.3.30","T16":"23.3.30","T17":"23.3.30","T18":"24.3.30","T19":"27.3.30","T20":"Balbierer","T21":"Y11","T22":"10.4.30","T23":"Balbierer","T24":"21.4.30","T25":"Balbierer","T26":"Balbierer","T27":"Priv. Doz.","T28":"Ludwig Rall"}}
+{
+  "Eveline Balbierer": "NAME_PATIENT",
+  "07.01.1954": "DATE_BIRTH",
+  "28.3.": "DATE",
+  "28.4.2023": "DATE",
+  "U66": "ID",
+  "2019": "DATE",
+  "2018": "DATE",
+  "27.03.30": "DATE",
+  "Balbierer": "NAME_PATIENT",
+  "26.1.30": "DATE",
+  "Praxis Dr. Matthias Paulitschek": "LOCATION_HOSPITAL",
+  "23.3.2": "DATE",
+  "21.3.30": "DATE",
+  "23.3.30": "DATE",
+  "24.3.30": "DATE",
+  "27.3.30": "DATE",
+  "Y11": "ID",
+  "10.4.30": "DATE",
+  "21.4.30": "DATE",
+  "Priv. Doz.": "NAME_TITLE",
+  "Ludwig Rall": "NAME_DOCTOR"
+}

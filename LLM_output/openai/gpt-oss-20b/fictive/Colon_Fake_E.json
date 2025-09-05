@@ -1,18 +1,22 @@
-{
-  "Ingolf Tschirren": "NAME_PATIENT",
-  "Tim Torneden": "NAME_DOCTOR",
-  "Siegldine Cichosz": "NAME_DOCTOR",
-  "Ass.Dr.": "NAME_TITLE",
-  "Prof. Dr.": "NAME_TITLE",
-  "KLINIK FÜR ONKOLOGIE": "LOCATION_HOSPITAL",
-  "Roth": "LOCATION_CITY",
-  "FN:011524493": "ID",
-  "06.01.1988": "DATE_BIRTH",
-  "19.7.2033": "DATE",
-  "28.7.2033": "DATE",
-  "28.02.2033": "DATE",
-  "21.3.2033": "DATE",
-  "24.8.2033": "DATE",
-  "24August2033": "DATE",
-  "9.9.2033": "DATE"
-}
+[
+  [
+    "missing"
+  ],
+  {
+    "KLINIK FÜR ONKOLOGIE": "LOCATION_HOSPITAL",
+    "Höchberg": "LOCATION_CITY",
+    "24.8.2033": "DATE",
+    "19.7.2033": "DATE",
+    "28.7.2033": "DATE",
+    "28.02.2033": "DATE",
+    "21.3.2033": "DATE",
+    "24August2033": "DATE",
+    "9.9.2033": "DATE",
+    "Klaus Grafenhorst": "NAME_PATIENT",
+    "467414501": "ID",
+    "Ass.Dr.": "NAME_TITLE",
+    "Gebhard Koreuber": "NAME_DOCTOR",
+    "Prof. Dr.": "NAME_TITLE",
+    "Lilian Pachmayr": "NAME_DOCTOR"
+  }
+]

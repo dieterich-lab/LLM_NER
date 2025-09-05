@@ -1,1 +1,16 @@
-{"index":{"T1":"NAME_PATIENT 82 100","T2":"DATE 102 111","T3":"DATE 126 136","T4":"DATE 141 151","T5":"DATE 359 364","T6":"DATE 413 418","T7":"DATE 457 466","T8":"DATE 679 684","T9":"DATE 757 762","T10":"DATE 805 810","T11":"NAME_PATIENT 2070 2079","T12":"DATE 2642 2651","T13":"ID 2712 2713","T14":"NAME_TITLE 2832 2840","T15":"NAME_DOCTOR 2841 2852","T16":"NAME_TITLE 2857 2870","T17":"NAME_DOCTOR 2871 2885"},"text":{"T1":"Stoppenbrink \u00d6zlem","T2":"19.4.1977","T3":"13.07.2023","T4":"24.07.2023","T5":"03\/23","T6":"03\/23","T7":"April2023","T8":"03\/23","T9":"03\/23","T10":"05\/23","T11":"Haselhoff","T12":"26.3.2023","T13":"1","T14":"Dr. med.","T15":"Fredi Birck","T16":"Prof. Dr. med","T17":"Nelly Schw\u00f6rer"}}
+{
+  "Stoppenbrink \u00d6zlem": "NAME_PATIENT",
+  "19.4.1977": "DATE",
+  "13.07.2023": "DATE",
+  "24.07.2023": "DATE",
+  "03/23": "DATE",
+  "April2023": "DATE",
+  "05/23": "DATE",
+  "Haselhoff": "NAME_PATIENT",
+  "26.3.2023": "DATE",
+  "1": "ID",
+  "Dr. med.": "NAME_TITLE",
+  "Fredi Birck": "NAME_DOCTOR",
+  "Prof. Dr. med": "NAME_TITLE",
+  "Nelly Schw\u00f6rer": "NAME_DOCTOR"
+}

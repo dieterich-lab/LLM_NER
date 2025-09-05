@@ -1,17 +1,26 @@
-{
-  "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
-  "Prof. Dr.": "NAME_TITLE",
-  "Hansueli Stale": "NAME_DOCTOR",
-  "Dorfstraße 91": "LOCATION_STREET",
-  "92334": "LOCATION_ZIP",
-  "Berching": "LOCATION_CITY",
-  "015639825979": "CONTACT_PHONE",
-  "015635623012": "CONTACT_FAX",
-  "Dr.": "NAME_TITLE",
-  "Ihno Csanadi": "NAME_DOCTOR",
-  "Am Streichen 57": "LOCATION_STREET",
-  "10.03.1973": "DATE_BIRTH",
-  "15.07.2026": "DATE",
-  "M-034704049": "ID",
-  "Ingenieurbüro BGA": "LOCATION_ORGANIZATION"
-}
+[
+  {
+    "hals-nasen-ohren-klinik": "case sensitive matters. Original capitalized exactly",
+    "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
+    "Prof. Dr.": "NAME_TITLE",
+    "Krügele": "NAME_DOCTOR",
+    "Gaisner": "NAME_DOCTOR",
+    "Aussere Gunzburger Strasse 6": "LOCATION_STREET"
+  },
+  {
+    "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
+    "Prof. Dr.": "NAME_TITLE",
+    "Krügele": "NAME_DOCTOR",
+    "Gaisner": "NAME_DOCTOR",
+    "Äüßere Ĝuenzburgger Stärze 6": "LOCATION_STREET",
+    "Ringstraße 78": "LOCATION_STREET",
+    "84439": "LOCATION_ZIP",
+    "Steinkirchen": "LOCATION_CITY",
+    "015616099382": "CONTACT_PHONE",
+    "015698151423": "CONTACT_FAX",
+    "10.03.1973": "DATE_Birth",
+    "15.07.2026": "DATE",
+    "V-012195586": "ID",
+    "BfbA": "ORGANIZATION"
+  }
+]

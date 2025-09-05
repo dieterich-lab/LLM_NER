@@ -1,20 +1,36 @@
-{
-  "Universitätsklinikum Essen": "LOCATION_HOSPITAL",
-  "Hiddenseer Straße 44": "LOCATION_STREET",
-  "12619": "LOCATION_ZIP",
-  "Berlin": "LOCATION_CITY",
-  "Lacroix Sonia": "NAME_PATIENT",
-  "23.01.1993": "DATE_BIRTH",
-  "PIZ: 9092668": "ID",
-  "Jablonskistraße": "LOCATION_STREET",
-  "Freiburg": "LOCATION_CITY",
-  "10.09.2030": "DATE",
-  "Unfalltag: 9.09.2030": "DATE",
-  "9.09.2030": "DATE",
-  "Rémy Xaver Knecht": "NAME_DOCTOR",
-  "Univ-Prof. Dr. med.": "NAME_TITLE",
-  "0303369802": "CONTACT_PHONE",
-  "0308528848": "CONTACT_FAX",
-  "idqpsf.ojs@cpmqqgoda-inyanl.rn": "CONTACT_EMAIL",
-  "0309815142": "CONTACT_PHONE"
-}
+[
+  {
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Strittacker 41": "LOCATION_STREET",
+    "14059": "LOCATION_ZIP",
+    "Berlin": "LOCATION_CITY",
+    "Uni‑Prof. Dr. med.": "TITLE",
+    "Christoph Udo Holtzmüller": "NAME_DOCTOR",
+    "Beickert Hilda": "NAME_PATIENT",
+    "Piz: 5017715": "ID",
+    "23.01.1993": "DATE_BIRTH",
+    "9.09.2030": "DATE",
+    "10.09.2030": "DATE",
+    "xjybpa.qvk@gopryxlte-rywiqo.mx": "CONTACT_EMAIL",
+    "0303460336": "CONTACT_PHONE",
+    "0301925895": "CONTACT_PHON E??? wait duplicate colon space? I'll write correctly",
+    "0309234788": "CONTACT_PHONE"
+  },
+  {
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Strittacker 41": "LOCATION_STREET",
+    "14059": "LOCATION_ZIP",
+    "Berlin": "LOCATION_CITY",
+    "Uni‐Prof. Dr. med.": "TITLE",
+    "Christoph Udo Holtzmüller": "NAME_DOCTOR",
+    "Beickert Hilda": "NAME_PATIENT",
+    "Piz: 5017715": "ID",
+    "23.01.1993": "DATE_BIRTH",
+    "9.09.2030": "DATE",
+    "10.09.2030": "DATE",
+    "xjybpa.qvk@gopryxlte-rywiqo.mx": "CONTACT_EMAIL",
+    "0303460336": "CONTACT_PHONE",
+    "0301925895": "CONTACT_PHONE",
+    "0309234788": "CONTACT_PHONE"
+  }
+]

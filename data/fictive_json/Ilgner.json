@@ -1,1 +1,13 @@
-{"index":{"T1":"NAME_PATIENT 0 12","T2":"DATE 15 25","T3":"LOCATION_STREET 36 55","T4":"LOCATION_ZIP 57 61","T5":"LOCATION_CITY 62 74","T6":"DATE 165 175","T7":"DATE 176 186","T8":"DATE 352 362","T9":"DATE 887 897","T10":"DATE 1099 1109","T11":"DATE 1192 1202","T12":"NAME_TITLE 2991 2994","T13":"NAME_DOCTOR 2995 3010"},"text":{"T1":"Zita Follmer","T2":"28.10.1982","T3":"Turracher Stra\u00dfe 48","T4":"8820","T5":"Bezirk Murau","T6":"05.08.2023","T7":"08.08.2023","T8":"03.06.2023","T9":"02.08.2023","T10":"03.06.2023","T11":"05.08.2023","T12":"Dr.","T13":"Massimo Mengele"}}
+{
+  "Zita Follmer": "NAME_PATIENT",
+  "28.10.1982": "DATE",
+  "Turracher Stra\u00dfe 48": "LOCATION_STREET",
+  "8820": "LOCATION_ZIP",
+  "Bezirk Murau": "LOCATION_CITY",
+  "05.08.2023": "DATE",
+  "08.08.2023": "DATE",
+  "03.06.2023": "DATE",
+  "02.08.2023": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Massimo Mengele": "NAME_DOCTOR"
+}

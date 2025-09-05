@@ -1,1 +1,21 @@
-{"index":{"T1":"LOCATION_CITY 35 41","T2":"DATE 46 56","T3":"NAME_PATIENT 151 161","T4":"ID 175 184","T5":"DATE 187 196","T6":"DATE 212 221","T7":"DATE 226 236","T8":"DATE 343 348","T9":"DATE 397 402","T10":"DATE 532 536","T11":"DATE 618 622","T12":"DATE 693 700","T13":"DATE 764 773","T14":"DATE 828 833","T15":"AGE 1004 1006","T16":"DATE 1221 1230","T17":"DATE 2562 2571","T18":"NAME_TITLE 2714 2717","T19":"NAME_DOCTOR 2718 2731","T20":"NAME_TITLE 2736 2739","T21":"NAME_DOCTOR 2740 2761"},"text":{"T1":"Nogent","T2":"23.12.2029","T3":"K\u00f6ver John","T4":"719680343","T5":"13.7.1980","T6":"8.12.2029","T7":"23.12.1929","T8":"04\/29","T9":"05\/29","T10":"1995","T11":"1995","T12":"04.2029","T13":"30.4.2029","T14":"06\/29","T15":"45","T16":"10.8.2033","T17":"20.1.2030","T18":"Dr.","T19":"Eugen Margraf","T20":"Dr.","T21":"Jutta Schulze-Steinen"}}
+{
+  "Nogent": "LOCATION_CITY",
+  "23.12.2029": "DATE",
+  "K\u00f6ver John": "NAME_PATIENT",
+  "719680343": "ID",
+  "13.7.1980": "DATE",
+  "8.12.2029": "DATE",
+  "23.12.1929": "DATE",
+  "04/29": "DATE",
+  "05/29": "DATE",
+  "1995": "DATE",
+  "04.2029": "DATE",
+  "30.4.2029": "DATE",
+  "06/29": "DATE",
+  "45": "AGE",
+  "10.8.2033": "DATE",
+  "20.1.2030": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Eugen Margraf": "NAME_DOCTOR",
+  "Jutta Schulze-Steinen": "NAME_DOCTOR"
+}

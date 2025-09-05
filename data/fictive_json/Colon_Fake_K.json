@@ -1,1 +1,24 @@
-{"index":{"T1":"LOCATION_HOSPITAL 0 34","T2":"LOCATION_HOSPITAL 35 126","T3":"NAME_TITLE 167 173","T4":"NAME_DOCTOR 174 186","T5":"NAME_PATIENT 351 361","T6":"DATE 365 374","T7":"DATE 389 393","T8":"DATE 402 411","T9":"DATE 508 515","T10":"DATE 536 540","T11":"DATE 573 577","T12":"DATE 643 647","T13":"DATE 882 886","T14":"DATE 1464 1468","T15":"DATE 1510 1514","T16":"DATE 1567 1571","T17":"DATE 1595 1599","T18":"DATE 1620 1624","T19":"DATE 1629 1633","T20":"DATE 4594 4603","T21":"DATE 5194 5204","T22":"NAME_PATIENT 5215 5220","T23":"NAME_PATIENT 5437 5442","T24":"DATE 5552 5562","T25":"NAME_TITLE 5754 5762","T26":"NAME_DOCTOR 5763 5774","T27":"NAME_TITLE 5781 5788","T28":"NAME_DOCTOR 5789 5803"},"text":{"T1":"Gesundheitszentrum Schw\u00e4bische Alb","T2":"Altes Universit\u00e4ts-Krankenhaus: \u00c4rztliche Direktion, Medizinische Fakult\u00e4t, Pflegedirektion","T3":"PD Dr.","T4":"Hans Kn\u00fcpfer","T5":"Gaby Kolin","T6":"20.5.1981","T7":"9.3.","T8":"22.3.2043","T9":"04.2043","T10":"2040","T11":"2040","T12":"2041","T13":"2037","T14":"2044","T15":"2040","T16":"2041","T17":"2037","T18":"2037","T19":"2035","T20":"14.3.2043","T21":"17.03.2043","T22":"Kolin","T23":"Kolin","T24":"22.03.2043","T25":"Dr. med.","T26":"Pietro N\u00e4ve","T27":"Dr. med","T28":"Horst Klementz"}}
+{
+  "Gesundheitszentrum Schw\u00e4bische Alb": "LOCATION_HOSPITAL",
+  "Altes Universit\u00e4ts-Krankenhaus: \u00c4rztliche Direktion, Medizinische Fakult\u00e4t, Pflegedirektion": "LOCATION_HOSPITAL",
+  "PD Dr.": "NAME_TITLE",
+  "Hans Kn\u00fcpfer": "NAME_DOCTOR",
+  "Gaby Kolin": "NAME_PATIENT",
+  "20.5.1981": "DATE",
+  "9.3.": "DATE",
+  "22.3.2043": "DATE",
+  "04.2043": "DATE",
+  "2040": "DATE",
+  "2041": "DATE",
+  "2037": "DATE",
+  "2044": "DATE",
+  "2035": "DATE",
+  "14.3.2043": "DATE",
+  "17.03.2043": "DATE",
+  "Kolin": "NAME_PATIENT",
+  "22.03.2043": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Pietro N\u00e4ve": "NAME_DOCTOR",
+  "Dr. med": "NAME_TITLE",
+  "Horst Klementz": "NAME_DOCTOR"
+}

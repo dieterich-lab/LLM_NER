@@ -1,9 +1,10 @@
 {
-  "Hübsch Christina": "NAME_PATIENT",
-  "8.10.1975": "DATE_BIRTH",
-  "Katutura-Staatskrankenhaus": "LOCATION_HOSPITAL",
-  "Kaufholdt": "NAME_DOCTOR",
+  "Landeskrankenhaus Bregenz": "LOCATION_HOSPITAL",
   "01.12.2029": "DATE",
+  "Weitkemper Rosalia": "NAME_PATIENT",
+  "8.10.1975": "DATE_BIRTH",
+  "20.12.2029": "DATE",
   "28.11.2029": "DATE",
-  "28.03.2030": "DATE"
+  "28.03.2030": "DATE",
+  "Schlundt": "NAME_DOCTOR"
 }

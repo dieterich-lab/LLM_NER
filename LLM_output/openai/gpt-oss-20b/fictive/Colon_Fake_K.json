@@ -1,14 +1,13 @@
 {
-  "Evelyne Jürgensmeyer": "NAME_PATIENT",
+  "Gaby Kolin": "NAME_PATIENT",
   "20.5.1981": "DATE_BIRTH",
-  "9.3.2043": "DATE",
-  "22.3.2043": "DATE",
+  "Gesundheitszentrum Schwäbische Alb": "LOCATION_HOSPITAL",
+  "Altes Universitats Krankenhaus": "LOCATION_HOSPITAL",
+  "PD": "NAME_TITLE",
+  "Dr.": "NAME_TITLE",
+  "Pietro Naeve": "NAME_DOCTOR",
+  "Horst Klimentz": "NAME_DOCTOR",
   "14.3.2043": "DATE",
   "17.03.2043": "DATE",
-  "Kreiskrankenhaus Emmendingen": "LOCATION_HOSPITAL",
-  "Emmendingen": "LOCATION_CITY",
-  "PD Dr.": "NAME_TITLE",
-  "Garrelt Pommerening": "NAME_DOCTOR",
-  "Charly Burtscheidt": "NAME_DOCTOR",
-  "Roger Ruhaas": "NAME_DOCTOR"
+  "22.03.2043": "DATE"
 }

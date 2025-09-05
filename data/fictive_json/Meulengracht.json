@@ -1,1 +1,20 @@
-{"index":{"T1":"LOCATION_HOSPITAL 0 104","T2":"NAME_TITLE 142 159","T3":"NAME_DOCTOR 160 175","T4":"LOCATION_ZIP 178 183","T5":"LOCATION_CITY 184 198","T6":"LOCATION_STREET 199 210","T7":"CONTACT_PHONE 220 228","T8":"CONTACT_FAX 237 253","T9":"NAME_TITLE 301 304","T10":"NAME_DOCTOR 305 331","T11":"NAME_PATIENT 378 390","T12":"LOCATION_STREET 391 406","T13":"LOCATION_ZIP 408 413","T14":"LOCATION_CITY 414 421","T15":"DATE 437 447","T16":"ID 459 468","T17":"ID 478 488","T18":"DATE 519 529"},"text":{"T1":"S\u00e4chsisches Krankenhaus Rodewisch, Zentrum f\u00fcr Psychiatrie, Psychotherapie, Psychosomatik und Neurologie","T2":"o.Univ. Prof. Dr.","T3":"Mathias Weyland","T4":"25788","T5":"Balatonszabadi","T6":"Am Knick 71","T7":"+4317514","T8":"+431751324124157","T9":"Dr.","T10":"Helmut Unterste-Bahrenberg","T11":"Beate Klever","T12":"Kuhweidenweg 60","T13":"25887","T14":"Winnert","T15":"07.01.2000","T16":"577463706","T17":"4330445294","T18":"05.02.2039"}}
+{
+  "S\u00e4chsisches Krankenhaus Rodewisch, Zentrum f\u00fcr Psychiatrie, Psychotherapie, Psychosomatik und Neurologie": "LOCATION_HOSPITAL",
+  "o.Univ. Prof. Dr.": "NAME_TITLE",
+  "Mathias Weyland": "NAME_DOCTOR",
+  "25788": "LOCATION_ZIP",
+  "Balatonszabadi": "LOCATION_CITY",
+  "Am Knick 71": "LOCATION_STREET",
+  "+4317514": "CONTACT_PHONE",
+  "+431751324124157": "CONTACT_FAX",
+  "Dr.": "NAME_TITLE",
+  "Helmut Unterste-Bahrenberg": "NAME_DOCTOR",
+  "Beate Klever": "NAME_PATIENT",
+  "Kuhweidenweg 60": "LOCATION_STREET",
+  "25887": "LOCATION_ZIP",
+  "Winnert": "LOCATION_CITY",
+  "07.01.2000": "DATE",
+  "577463706": "ID",
+  "4330445294": "ID",
+  "05.02.2039": "DATE"
+}

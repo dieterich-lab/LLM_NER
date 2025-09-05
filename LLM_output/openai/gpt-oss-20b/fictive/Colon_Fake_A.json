@@ -1,12 +1,13 @@
 {
   "01.9.2068": "DATE",
-  "Rahel Pfannmöller": "NAME_PATIENT",
-  "*28.3.2017": "DATE_BIRTH",
+  "Isoel?? Wait actual string: 'Isabel Peterjohann'\"? Yes spelled \"Peterjohann\".\n\"So 'Frau Isabel Peterjohann',*28.3.2017,...\"\nWe'll map \"Isabel Peterjohn?": "ouble-check spelling: In user content:",
+  "Isabel Peterjohann": "NAME_PATIENT",
+  "*28.3.2017\" has preceding '*'. Likely indicates something. Remove '*'? Example shows capturing without special char. I'll take substring starting after *. So value \"28.3.2017": "DATE_BIRTH.\n\nNext dates:",
   "19.12.66": "DATE",
   "30.12.66": "DATE",
-  "Sept2063": "DATE",
-  "10.11.66": "DATE",
   "5. März2063": "DATE",
   "11.4.2063": "DATE",
-  "14.6.2063": "DATE"
+  "14.6.2063": "DATE",
+  "histologies": " contains \"Diagnostische PE (5. March2063)\" Already counted.\n\nOk produce json.\n\nEnsure order doesn't matter.\n\nReturn plain JSON.assistantfinal{\"01.9.2068\":\"DATE",
+  "28.3.2017": "DATE_BIRTH"
 }

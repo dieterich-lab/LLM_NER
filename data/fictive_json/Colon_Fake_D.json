@@ -1,1 +1,21 @@
-{"index":{"T1":"LOCATION_CITY 36 42","T2":"DATE 47 56","T3":"NAME_PATIENT 137 148","T4":"DATE 154 162","T5":"DATE 167 176","T6":"ID 191 199","T7":"DATE 212 221","T8":"DATE 290 294","T9":"DATE 343 347","T10":"DATE 387 393","T11":"DATE 474 481","T12":"DATE 545 552","T13":"DATE 610 615","T14":"NAME_PATIENT 700 707","T15":"AGE 1061 1074","T16":"DATE 1992 2000","T17":"NAME_PATIENT 2867 2874","T18":"NAME_PATIENT 3301 3308","T19":"DATE 3312 3319","T20":"DATE 3546 3555","T21":"ID 3604 3607","T22":"NAME_TITLE 3689 3692","T23":"NAME_DOCTOR 3693 3703","T24":"NAME_TITLE 3707 3710","T25":"NAME_DOCTOR 3711 3723"},"text":{"T1":"Berlin","T2":"23.5.2018","T3":"Roth\u00f6ft Oda","T4":"9.5.2018","T5":"23.5.2018","T6":"91980578","T7":"18.2.1967","T8":"2\/18","T9":"2\/18","T10":"2.2018","T11":"Jan2018","T12":"04.2018","T13":"05\/18","T14":"Roth\u00f6ft","T15":"F\u00fcnfigj\u00e4hrige","T16":"9.5.2018","T17":"Roth\u00f6ft","T18":"Roth\u00f6ft","T19":"16.5.25","T20":"21.6.2018","T21":"Z17","T22":"Dr.","T23":"Yves D\u00fcrre","T24":"Dr.","T25":"Jann H\u00f6ppner"}}
+{
+  "Berlin": "LOCATION_CITY",
+  "23.5.2018": "DATE",
+  "Roth\u00f6ft Oda": "NAME_PATIENT",
+  "9.5.2018": "DATE",
+  "91980578": "ID",
+  "18.2.1967": "DATE",
+  "2/18": "DATE",
+  "2.2018": "DATE",
+  "Jan2018": "DATE",
+  "04.2018": "DATE",
+  "05/18": "DATE",
+  "Roth\u00f6ft": "NAME_PATIENT",
+  "F\u00fcnfigj\u00e4hrige": "AGE",
+  "16.5.25": "DATE",
+  "21.6.2018": "DATE",
+  "Z17": "ID",
+  "Dr.": "NAME_TITLE",
+  "Yves D\u00fcrre": "NAME_DOCTOR",
+  "Jann H\u00f6ppner": "NAME_DOCTOR"
+}

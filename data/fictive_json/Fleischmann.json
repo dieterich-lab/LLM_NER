@@ -1,1 +1,23 @@
-{"index":{"T1":"NAME_PATIENT 0 15","T2":"DATE 19 28","T3":"NAME_DOCTOR 59 64","T4":"DATE 115 123","T5":"DATE 132 140","T6":"DATE 460 473","T7":"LOCATION_HOSPITAL 576 604","T8":"LOCATION_CITY 719 734","T9":"DATE 739 750","T10":"LOCATION_HOSPITAL 834 853","T11":"DATE 878 888","T12":"LOCATION_HOSPITAL 922 938","T13":"DATE 1338 1342","T14":"NAME_PATIENT 2045 2054","T15":"NAME_PATIENT 2888 2895","T16":"NAME_PATIENT 4315 4324","T17":"NAME_PATIENT 4641 4650","T18":"LOCATION_CITY 4792 4805","T19":"DATE 4836 4845","T20":"NAME_PATIENT 5026 5035","T21":"DATE 5404 5412","T22":"NAME_EXT 5586 5594","T23":"NAME_PATIENT 5643 5652","T24":"DATE 5738 5746","T25":"NAME_TITLE 5899 5902","T26":"NAME_DOCTOR 5903 5918"},"text":{"T1":"Eugen Pannekoek","T2":"28.2.2008","T3":"Zwern","T4":"01.04.04","T5":"15.06.04","T6":"September2027","T7":"Universit\u00e4tsklinikum Leipzig","T8":"Bad Langensalza","T9":"September03","T10":"\u00c4rztehaus lutterMed","T11":"Dezember04","T12":"ber\u00fchrungsmoment","T13":"2027","T14":"Pannekoek","T15":"Gerhard","T16":"Pannekoek","T17":"Pannekoek","T18":"Grobengereuth","T19":"Oktober05","T20":"Pannekoek","T21":"14.06.04","T22":"Bergeman","T23":"Pannekoek","T24":"15.06.04","T25":"Dr.","T26":"Yorck Pannekoek"}}
+{
+  "Eugen Pannekoek": "NAME_PATIENT",
+  "28.2.2008": "DATE",
+  "Zwern": "NAME_DOCTOR",
+  "01.04.04": "DATE",
+  "15.06.04": "DATE",
+  "September2027": "DATE",
+  "Universit\u00e4tsklinikum Leipzig": "LOCATION_HOSPITAL",
+  "Bad Langensalza": "LOCATION_CITY",
+  "September03": "DATE",
+  "\u00c4rztehaus lutterMed": "LOCATION_HOSPITAL",
+  "Dezember04": "DATE",
+  "ber\u00fchrungsmoment": "LOCATION_HOSPITAL",
+  "2027": "DATE",
+  "Pannekoek": "NAME_PATIENT",
+  "Gerhard": "NAME_PATIENT",
+  "Grobengereuth": "LOCATION_CITY",
+  "Oktober05": "DATE",
+  "14.06.04": "DATE",
+  "Bergeman": "NAME_EXT",
+  "Dr.": "NAME_TITLE",
+  "Yorck Pannekoek": "NAME_DOCTOR"
+}

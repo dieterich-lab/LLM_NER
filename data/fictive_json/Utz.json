@@ -1,1 +1,20 @@
-{"index":{"T1":"NAME_PATIENT 0 20","T2":"DATE_BIRTH 24 33","T3":"LOCATION_ZIP 47 52","T4":"LOCATION_CITY 53 70","T5":"DATE 85 95","T6":"DATE 126 132","T7":"ID 188 196","T8":"DATE 198 204","T9":"ID 247 257","T10":"DATE 270 274","T11":"DATE 336 340","T12":"DATE 365 369","T13":"DATE 438 445","T14":"DATE 447 454","T15":"DATE 971 979","T16":"DATE 1330 1338","T17":"NAME_TITLE 1642 1650","T18":"NAME_DOCTOR 1651 1668"},"text":{"T1":"Liselotte Ruthenkolk","T2":"10.4.1959","T3":"35469","T4":"Allendorf (Lumda)","T5":"2020-08-03","T6":"2.2018","T7":"6611l\/75","T8":"4.2018","T9":"09295\/5459","T10":"DATE","T11":"2019","T12":"8\/19","T13":"05.2019","T14":"05.2020","T15":"8.7.2020","T16":"9.7.2020","T17":"Dr. med.","T18":"Franziska Clahsen"}}
+{
+  "Liselotte Ruthenkolk": "NAME_PATIENT",
+  "10.4.1959": "DATE_BIRTH",
+  "35469": "LOCATION_ZIP",
+  "Allendorf (Lumda)": "LOCATION_CITY",
+  "2020-08-03": "DATE",
+  "2.2018": "DATE",
+  "6611l/75": "ID",
+  "4.2018": "DATE",
+  "09295/5459": "ID",
+  "DATE": "DATE",
+  "2019": "DATE",
+  "8/19": "DATE",
+  "05.2019": "DATE",
+  "05.2020": "DATE",
+  "8.7.2020": "DATE",
+  "9.7.2020": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Franziska Clahsen": "NAME_DOCTOR"
+}

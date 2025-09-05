@@ -1,1 +1,20 @@
-{"index":{"T1":"NAME_TITLE 6 14","T2":"NAME_DOCTOR 15 25","T3":"LOCATION_STREET 26 45","T4":"LOCATION_ZIP 46 51","T5":"LOCATION_CITY 52 61","T6":"NAME_DOCTOR 90 95","T7":"NAME_PATIENT 166 178","T8":"DATE 188 198","T9":"LOCATION_STREET 209 222","T10":"LOCATION_ZIP 224 229","T11":"LOCATION_CITY 230 239","T12":"DATE 254 264","T13":"DATE 269 279","T14":"DATE 432 439","T15":"DATE 782 789","T16":"NAME_PATIENT 797 803","T17":"DATE 2228 2238","T18":"DATE 2643 2653","T19":"NAME_TITLE 3012 3017","T20":"NAME_DOCTOR 3018 3036","T21":"NAME_DOCTOR 3054 3069"},"text":{"T1":"Dr. med.","T2":"Jean Hackl","T3":"Kirchbauerschaft 32","T4":"48356","T5":"Nordwalde","T6":"Hackl","T7":"Anton Gesell","T8":"29.01.1974","T9":"Westenfeld 38","T10":"48356","T11":"Nordwalde","T12":"10.09.2029","T13":"19.09.2029","T14":"07.2025","T15":"07.2025","T16":"Gesell","T17":"11.09.2029","T18":"15.09.2029","T19":"Prof.","T20":"Zenzi Hakenschmidt","T21":"Patrizia Korves"}}
+{
+  "Dr. med.": "NAME_TITLE",
+  "Jean Hackl": "NAME_DOCTOR",
+  "Kirchbauerschaft 32": "LOCATION_STREET",
+  "48356": "LOCATION_ZIP",
+  "Nordwalde": "LOCATION_CITY",
+  "Hackl": "NAME_DOCTOR",
+  "Anton Gesell": "NAME_PATIENT",
+  "29.01.1974": "DATE",
+  "Westenfeld 38": "LOCATION_STREET",
+  "10.09.2029": "DATE",
+  "19.09.2029": "DATE",
+  "07.2025": "DATE",
+  "Gesell": "NAME_PATIENT",
+  "11.09.2029": "DATE",
+  "15.09.2029": "DATE",
+  "Prof.": "NAME_TITLE",
+  "Zenzi Hakenschmidt": "NAME_DOCTOR",
+  "Patrizia Korves": "NAME_DOCTOR"
+}

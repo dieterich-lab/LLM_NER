@@ -1,1 +1,17 @@
-{"index":{"T1":"NAME_PATIENT 6 20","T2":"DATE_BIRTH 27 37","T3":"LOCATION_STREET 39 57","T4":"LOCATION_ZIP 59 64","T5":"LOCATION_CITY 65 70","T6":"DATE 96 99","T7":"DATE 104 114","T8":"NAME_PATIENT 243 252","T9":"NAME_PATIENT 1568 1577","T10":"NAME_TITLE 1755 1760","T11":"NAME_DOCTOR 1761 1768","T12":"DATE 1810 1818","T13":"DATE 2619 2627","T14":"DATE 2701 2709","T15":"DATE 3211 3219","T16":"NAME_TITLE 4182 4193","T17":"NAME_DOCTOR 4194 4207"},"text":{"T1":"Zeda Schlotter","T2":"18.01.1979","T3":"Schiffshebewerk 34","T4":"39291","T5":"M\u00f6ser","T6":"28.","T7":"30.04.2028","T8":"Schlotter","T9":"Schlotter","T10":"Prof.","T11":"Theodor","T12":"24.05.05","T13":"21.04.08","T14":"21.04.08","T15":"24.04.08","T16":"PD Dr. med.","T17":"Ibo Kendziora"}}
+{
+  "Zeda Schlotter": "NAME_PATIENT",
+  "18.01.1979": "DATE_BIRTH",
+  "Schiffshebewerk 34": "LOCATION_STREET",
+  "39291": "LOCATION_ZIP",
+  "M\u00f6ser": "LOCATION_CITY",
+  "28.": "DATE",
+  "30.04.2028": "DATE",
+  "Schlotter": "NAME_PATIENT",
+  "Prof.": "NAME_TITLE",
+  "Theodor": "NAME_DOCTOR",
+  "24.05.05": "DATE",
+  "21.04.08": "DATE",
+  "24.04.08": "DATE",
+  "PD Dr. med.": "NAME_TITLE",
+  "Ibo Kendziora": "NAME_DOCTOR"
+}

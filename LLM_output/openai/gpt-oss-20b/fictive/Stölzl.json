@@ -1,15 +1,17 @@
 {
-  "Rosi Fein": "NAME_PATIENT",
+  "Zeda Schlotter": "NAME_PATIENT",
   "18.01.1979": "DATE_BIRTH",
-  "Hohenhorst 60": "LOCATION_STREET",
-  "22391": "LOCATION_ZIP",
-  "Wandsbek": "LOCATION_CITY",
+  "Schiffshebewerk 34": "LOCATION_STREET",
+  "39291": "LOCATION_ZIP",
+  "Möser": "LOCATION_CITY",
+  "28.04.2028": "DATE",
   "30.04.2028": "DATE",
   "24.05.05": "DATE",
-  "21.04.08": "DATE",
-  "24.04.08": "DATE",
-  "Salvatore Jungmeister": "NAME_DOCTOR",
+  "21.04.08 11:35 Uhr": "DATE",
+  "21.04.08 14:17 Uhr": "DATE",
+  "24.04.08 11:56 Uhr": "DATE",
   "PD Dr. med.": "NAME_TITLE",
-  "Prof. Orlando": "NAME_TITLE",
-  "Orlando": "NAME_DOCTOR"
+  "Ibo Kendziora": "NAME_DOCTOR",
+  "Theodor": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE"
 }

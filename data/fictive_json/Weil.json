@@ -1,1 +1,24 @@
-{"index":{"T1":"LOCATION_HOSPITAL 2 27","T2":"LOCATION_STREET 68 82","T3":"LOCATION_ZIP 84 89","T4":"LOCATION_CITY 90 96","T5":"ID 189 204","T6":"NAME_TITLE 255 274","T7":"NAME_DOCTOR 276 301","T8":"LOCATION_STREET 304 318","T9":"LOCATION_ZIP 320 325","T10":"LOCATION_CITY 326 332","T11":"CONTACT_PHONE 339 349","T12":"CONTACT_PHONE 353 357","T13":"CONTACT_FAX 362 372","T14":"CONTACT_FAX 376 380","T15":"CONTACT_EMAIL 381 411","T16":"CONTACT_PHONE 419 429","T17":"LOCATION_CITY 448 454","T18":"DATE 456 466","T19":"NAME_PATIENT 479 493","T20":"DATE_BIRTH 500 510","T21":"ID 517 524","T22":"LOCATION_STREET 525 532","T23":"LOCATION_ZIP 534 539","T24":"LOCATION_CITY 540 548","T25":"DATE 560 569","T26":"DATE 649 659","T27":"DATE 970 980","T28":"NAME_TITLE 1959 1973","T29":"NAME_DOCTOR 1974 1999"},"text":{"T1":"Universit\u00e4tsklinikum Jena","T2":"Strittacker 41","T3":"14059","T4":"Berlin","T5":"GNZ LZ BSA 8004","T6":"Univ-Prof. Dr. med.","T7":"Christoph Udo Holtzm\u00fcller","T8":"Strittacker 41","T9":"14059","T10":"Berlin","T11":"0303460336","T12":"1727","T13":"0301925895","T14":"1623","T15":"xjybpa.qvk@gopryxlte-rywiqo.mx","T16":"0309234788","T17":"Berlin","T18":"10.09.2030","T19":"Beickert Hilda","T20":"23.01.1993","T21":"5017715","T22":"Lanthen","T23":"14059","T24":"Freiburg","T25":"9.09.2030","T26":"10.09.2030","T27":"09.09.2030","T28":"Prof. Dr. med.","T29":"Christoph Udo Holtzm\u00fcller"}}
+{
+  "Universit\u00e4tsklinikum Jena": "LOCATION_HOSPITAL",
+  "Strittacker 41": "LOCATION_STREET",
+  "14059": "LOCATION_ZIP",
+  "Berlin": "LOCATION_CITY",
+  "GNZ LZ BSA 8004": "ID",
+  "Univ-Prof. Dr. med.": "NAME_TITLE",
+  "Christoph Udo Holtzm\u00fcller": "NAME_DOCTOR",
+  "0303460336": "CONTACT_PHONE",
+  "1727": "CONTACT_PHONE",
+  "0301925895": "CONTACT_FAX",
+  "1623": "CONTACT_FAX",
+  "xjybpa.qvk@gopryxlte-rywiqo.mx": "CONTACT_EMAIL",
+  "0309234788": "CONTACT_PHONE",
+  "10.09.2030": "DATE",
+  "Beickert Hilda": "NAME_PATIENT",
+  "23.01.1993": "DATE_BIRTH",
+  "5017715": "ID",
+  "Lanthen": "LOCATION_STREET",
+  "Freiburg": "LOCATION_CITY",
+  "9.09.2030": "DATE",
+  "09.09.2030": "DATE",
+  "Prof. Dr. med.": "NAME_TITLE"
+}

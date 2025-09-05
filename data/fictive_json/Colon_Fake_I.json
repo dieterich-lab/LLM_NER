@@ -1,1 +1,17 @@
-{"index":{"T1":"LOCATION_HOSPITAL 0 36","T2":"NAME_DOCTOR 56 64","T3":"NAME_PATIENT 117 134","T4":"DATE 144 154","T5":"DATE 170 179","T6":"DATE 184 193","T7":"AGE 697 699","T8":"AGE 738 741","T9":"NAME_PATIENT 1181 1189","T10":"DATE 2891 2895","T11":"NAME_PATIENT 3105 3111","T12":"AGE 3122 3124","T13":"NAME_TITLE 3867 3875","T14":"NAME_DOCTOR 3876 3893","T15":"NAME_DOCTOR 3898 3916"},"text":{"T1":"MEDIAN Zentrum f\u00fcr Verhaltensmedizin","T2":"Uferkamp","T3":"Gretchen Rosskopf","T4":"19.12.1932","T5":"22.5.2014","T6":"20.6.2014","T7":"57","T8":"101","T9":"Rosskopf","T10":"DATE","T11":"Mehler","T12":"82","T13":"Dr. med.","T14":"Susi D\u00f6rrenb\u00e4cher","T15":"Walburga Gambihler"}}
+{
+  "MEDIAN Zentrum f\u00fcr Verhaltensmedizin": "LOCATION_HOSPITAL",
+  "Uferkamp": "NAME_DOCTOR",
+  "Gretchen Rosskopf": "NAME_PATIENT",
+  "19.12.1932": "DATE",
+  "22.5.2014": "DATE",
+  "20.6.2014": "DATE",
+  "57": "AGE",
+  "101": "AGE",
+  "Rosskopf": "NAME_PATIENT",
+  "DATE": "DATE",
+  "Mehler": "NAME_PATIENT",
+  "82": "AGE",
+  "Dr. med.": "NAME_TITLE",
+  "Susi D\u00f6rrenb\u00e4cher": "NAME_DOCTOR",
+  "Walburga Gambihler": "NAME_DOCTOR"
+}

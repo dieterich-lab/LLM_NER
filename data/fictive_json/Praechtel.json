@@ -1,1 +1,18 @@
-{"index":{"T1":"NAME_PATIENT 0 13","T2":"DATE 19 29","T3":"DATE 153 163","T4":"DATE 263 267","T5":"DATE 466 471","T6":"DATE 531 536","T7":"DATE 651 655","T8":"DATE 760 765","T9":"DATE 862 866","T10":"NAME_PATIENT 882 889","T11":"NAME_DOCTOR 1565 1580","T12":"NAME_TITLE 1581 1587","T13":"NAME_TITLE 1589 1596","T14":"NAME_DOCTOR 1597 1616","T15":"NAME_TITLE 1618 1630","T16":"NAME_DOCTOR 1631 1644"},"text":{"T1":"Willi Humbert","T2":"17.02.1974","T3":"07.08.2022","T4":"2018","T5":"08\/20","T6":"12\/21","T7":"9\/21","T8":"12\/19","T9":"3\/19","T10":"Humbert","T11":"Vreni Wiesmayer","T12":"MD Msc","T13":"Dr.med.","T14":"Annegret Zscharnack","T15":"Prof. Dr.Dr.","T16":"Thierry Rooth"}}
+{
+  "Willi Humbert": "NAME_PATIENT",
+  "17.02.1974": "DATE",
+  "07.08.2022": "DATE",
+  "2018": "DATE",
+  "08/20": "DATE",
+  "12/21": "DATE",
+  "9/21": "DATE",
+  "12/19": "DATE",
+  "3/19": "DATE",
+  "Humbert": "NAME_PATIENT",
+  "Vreni Wiesmayer": "NAME_DOCTOR",
+  "MD Msc": "NAME_TITLE",
+  "Dr.med.": "NAME_TITLE",
+  "Annegret Zscharnack": "NAME_DOCTOR",
+  "Prof. Dr.Dr.": "NAME_TITLE",
+  "Thierry Rooth": "NAME_DOCTOR"
+}

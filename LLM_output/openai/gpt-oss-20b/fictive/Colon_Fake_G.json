@@ -1,15 +1,18 @@
-{
-  "Veltmann Anna": "NAME_PATIENT",
-  "Koonen": "NAME_PATIENT",
-  "Dr. med.": "NAME_TITLE",
-  "Prof. Dr. med": "NAME_TITLE",
-  "Meilands": "NAME_DOCTOR",
-  "Rimrodt": "NAME_DOCTOR",
-  "19.4.1977": "DATE_BIRTH",
-  "13.07.2023": "DATE",
-  "24.07.2023": "DATE",
-  "April2023": "DATE",
-  "03/23": "DATE",
-  "05/23": "DATE",
-  "26.3.2023": "DATE"
-}
+[
+  {
+    "name": "value"
+  },
+  {
+    "Stoppenbrink Özlem": "NAME_PATIENT",
+    "19.4.1977": "DATE_BIRTH",
+    "13.07.2023": "DATE",
+    "24.07.2023": "DATE",
+    "April2023": "DATE",
+    "05/23": "DATE",
+    "26.3.2023": "DATE",
+    "Prof. Dr. med": "NAME_TITLE",
+    "Schwörer": "NAME_DOCTOR",
+    "Dr. med.": "NAME_TITLE",
+    "Birck": "NAME_DOCTOR"
+  }
+]

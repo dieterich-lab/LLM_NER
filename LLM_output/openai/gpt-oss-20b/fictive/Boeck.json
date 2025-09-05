@@ -1,10 +1,19 @@
-{
-  "Rosmarie Schremp": "NAME_PATIENT",
-  "8.2.2000": "DATE_BIRTH",
-  "28": "AGE",
-  "10.5.2028": "DATE",
-  "15.5.2028": "DATE",
-  "2033": "ID",
-  "Dennis Mintrop": "NAME_DOCTOR",
-  "Floristin": "PROFESSION"
-}
+[
+  {
+    "Marga Moews": "NAME_PATIENT",
+    "Steffen Everszumrode": "NAME_DOCTOR",
+    "8.2.2000": "DATE_BIRTH",
+    "10.5.2028": "DATE",
+    "15.5.2028": "DATE",
+    "Florigerin": "Wait word used:",
+    "Floristin\" value \"PROFESSION": ""
+  },
+  {
+    "Marga Moews": "NAME_PATIENT",
+    "Steffen Everszumrode": "NAME_DOCTOR",
+    "8.2.2000": "DATE_Birth",
+    "10.5.2028": "DATE",
+    "15.5.2028": "DATE",
+    "Floristin": "PROFESSION"
+  }
+]

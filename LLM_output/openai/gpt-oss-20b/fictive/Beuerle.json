@@ -1,7 +1,18 @@
 {
-  "Irène Steinbauer": "NAME_PATIENT",
+  "Erica Hennekes": "NAME_PATIENT",
+  "* 26.04.2020": "actually string contains star char preceding date. Need match exactly substring used. Original phrase:",
+  "26.04.2018?": "et's check original snippet:",
+  "26.04.2020,": "receded by '* '. Provided line:",
+  "26.04.2020,...": "he actual characters: comma space '*' space '26.04.2020'. So key would be",
+  "26.04.2020\" without star. But spec wants exact text mentions. Star part considered punctuation perhaps not part of date. To keep safe, choose \"26.04.2020": "s value. Because that's clear date.\n\nAdd entry:",
   "26.04.2020": "DATE_BIRTH",
+  "Next": "09.03.01\":\"DATE\"?\n\nBut there was also \"am 09.03.01\". Contains period after 03 before 01. So string \"09.03.01",
+  "Pietro": "OTHER",
+  "Title": "PD Dr.",
+  "Doctor": "Lina Reifegerts",
+  "spelling": "Dr. Lina Reifegerst\" ends with t. Ensure correct: \"Reifegerst",
+  "Hennekes": "NAME_PATIENT",
   "09.03.01": "DATE",
-  "PD Dr.": "NAME_TITLE",
-  "Göpferich": "NAME_DOCTOR"
+  "PD Dr.": "NAME_TITLE",
+  "Lina Reifegerst": "NAME_DOCTOR"
 }

@@ -1,12 +1,13 @@
 {
-  "Heribert Klingenhoff": "NAME_PATIENT",
+  "Alex Hankofer": "NAME_PATIENT",
   "10.2.1959": "DATE_BIRTH",
-  "Wurzen": "LOCATION_CITY",
+  "Herzhorn": "LOCATION_CITY",
   "2023.05.03": "DATE",
-  "39825979": "ID",
-  "19074833": "ID",
-  "78876232": "ID",
-  "Universitätsklinikum Bonn": "LOCATION_HOSPITAL",
-  "Ambulanz für Melanomnachsorge": "LOCATION_HOSPITAL",
-  "8601": "ID"
+  "26.4.2023": "DATE",
+  "9.05.2023": "DATE",
+  "40875602": "ID",
+  "26257008": "ID",
+  "67031227": "ID",
+  "3477": "ID",
+  "Universitätsklinikum Magdeburg": "LOCATION_HOSPITAL"
 }

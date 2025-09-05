@@ -1,8 +1,7 @@
 {
-  "Jörg Krabbenhoeft": "NAME_PATIENT",
+  "Henri Reinthaler": "NAME_PATIENT",
   "19.9.1940": "DATE_BIRTH",
   "28.01.2023": "DATE",
-  "10 - 05.2021": "DATE",
   "10-06.2022": "DATE",
   "07.2022": "DATE",
   "17-11.2022": "DATE",
@@ -11,8 +10,7 @@
   "21.1.2023": "DATE",
   "21.1.30": "DATE",
   "04.2.2023": "DATE",
-  "Prof. Dr.": "NAME_TITLE",
-  "Fridolin Raising": "NAME_DOCTOR",
-  "Stephan Molders": "NAME_DOCTOR",
-  "Uniklinik": "LOCATION_ORGANIZATION"
+  "Detlev Borgerding": "NAME_DOCTOR",
+  "Stephan Willauer": "NAME_DOCTOR",
+  "Prof. Dr.": "NAME_TITLE"
 }

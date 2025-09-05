@@ -1,18 +1,14 @@
 {
-  "Muriel Langebartels": "NAME_PATIENT",
+  "Gabriele Weisskopf": "NAME_PATIENT",
   "10.6.1942": "DATE_BIRTH",
   "19.3.2023": "DATE",
   "04.4.2023": "DATE",
-  "01/22": "DATE",
+  "17...?": "ait phone number:",
+  "01767712600": "CONTACT_PHONE",
+  "NAME_DOCTOR\",\n\"Prof. Dr. Christoph Tekampe": "NAME_DOCTOR",
+  "Kliniken des Main-Taunus-Kreises": "LOCATION_HOSPITAL",
   "80": "AGE",
-  "Stroke-Unit": "LOCATION_HOSPITAL",
-  "Chirurgische Ambulanz RK25": "LOCATION_HOSPITAL",
-  "Psychiatrischen Klinik": "LOCATION_HOSPITAL",
-  "Neurorehabstation": "LOCATION_HOSPITAL",
-  "Ottilie Rosenbrock": "NAME_DOCTOR",
-  "Leonhard Krichbaumer": "NAME_DOCTOR",
-  "Xavier": "NAME_DOCTOR",
-  "01703915337": "CONTACT_PHONE",
-  "RK25": "ID",
-  "EJ6": "ID"
+  "Weisskopf": "NAME_PATIENT",
+  "OÄ Dr. Sandra Piepenbrink": "NAME_DOCTOR",
+  "Prof. Dr. Christoph Tekampe": "NAME_DOCTOR"
 }

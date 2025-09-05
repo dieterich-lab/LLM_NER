@@ -1,7 +1,18 @@
-{
-  "Annemarie Meinike": "NAME_PATIENT",
-  "08.07.1963": "DATE_BIRTH",
-  "0170787789328": "CONTACT_PHONE",
-  "Dra.": "NAME_TITLE",
-  "Josefa Olivia Schwert": "NAME_DOCTOR"
-}
+[
+  {
+    "Ziska Lettau": "NAME_PATIENT",
+    "08.07.1963": "DATE_BIRTH",
+    "17.??? wait phone number 0175059903857": "CONTACT_PHONE",
+    "Dra.": "NAME_TITLE",
+    "Friedly": "NAME_DOCTOR"
+  },
+  {
+    "Ziska Lettau": "NAME_PATIENT",
+    "08.07.1963": "DATE_BIRTH",
+    "29.03.2023": "DATE",
+    "06.2022": "DATE",
+    "0175059903857": "CONTACT_PHON E",
+    "Dra.": "NAME_TITLE",
+    "Friedly": "NAME_DOCTOR"
+  }
+]

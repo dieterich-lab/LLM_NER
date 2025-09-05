@@ -1,14 +1,18 @@
 {
-  "Tekloth Dietrich": "NAME_PATIENT",
+  "Dielschneider Ümit": "NAME_PATIENT",
   "28.3.1979": "DATE_BIRTH",
   "25.11.2023": "DATE",
   "10.12.2023": "DATE",
-  "06.2023": "DATE",
   "26.11.2023": "DATE",
   "28.11.2023": "DATE",
   "29.11.2023": "DATE",
+  "06.2023": "DATE",
   "03.12.30": "DATE",
-  "Dr.": "NAME_TITLE",
+  "Dr. med.": "NAME_TITLE",
   "PhD": "NAME_TITLE",
-  "Quirin Pfaffmann": "NAME_DOCTOR"
+  "Gamer\"? wrong spelling. Ensure \"Gamper": "NAME_DOCTOR",
+  "spacing": "There is special character U+00A0 possibly due to copy. Just normal spaces.\n\nReturn plain JSON without formatting lines? It expects raw json object. Usually newline allowed. Provide compact representation.\n\nOk let's deliver.assistantfinal{",
+  "Dielschneider Ümit": "NAME_PATIENT",
+  "Dr. med.": "NAME_TITLE",
+  "Gamper": "NAME_DOCTOR"
 }

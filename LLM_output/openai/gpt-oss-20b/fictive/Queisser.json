@@ -1,12 +1,12 @@
 {
-  "Albert Rinklin": "NAME_PATIENT",
+  "Bernhard Frühe": "NAME_PATIENT",
   "28.1.1961": "DATE_BIRTH",
-  "Rodheimer Straße 21": "LOCATION_STREET",
-  "35452": "LOCATION_ZIP",
-  "Heuchelheim an der Lahn": "LOCATION_CITY",
+  "Teamstraße 88": "LOCATION_STREET",
+  "35102": "LOCATION_ZIP",
+  "Lohra": "LOCATION_CITY",
   "02.03.2019": "DATE",
   "02.09.25": "DATE",
   "49": "AGE",
   "Prof. Dr.Dr. med.": "NAME_TITLE",
-  "Anton Rugen": "NAME_DOCTOR"
+  "Verdaasdonk": "NAME_DOCTOR"
 }

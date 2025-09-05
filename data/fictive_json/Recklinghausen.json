@@ -1,1 +1,12 @@
-{"index":{"T1":"NAME_PATIENT 34 58","T2":"DATE 61 71","T3":"ID 85 94","T4":"DATE 96 106","T5":"DATE 145 149","T6":"LOCATION_COUNTRY 203 206","T7":"NAME_PATIENT 1501 1525","T8":"DATE 1528 1538","T9":"ID 1552 1561","T10":"NAME_TITLE 1910 1925","T11":"NAME_DOCTOR 1926 1941","T12":"NAME_DOCTOR 1960 1975","T13":"LOCATION_HOSPITAL 2000 2018"},"text":{"T1":"Andree Kaspar Wolfgruber","T2":"30.11.1979","T3":"815994185","T4":"14.03.2022","T5":"2016","T6":"USA","T7":"Andree Kaspar Wolfgruber","T8":"30.11.1979","T9":"815994185","T10":"Priv.Doz. Dr.in","T11":"Monika Schmelze","T12":"Ziska Westbrock","T13":"Praxis im Speicher"}}
+{
+  "Andree Kaspar Wolfgruber": "NAME_PATIENT",
+  "30.11.1979": "DATE",
+  "815994185": "ID",
+  "14.03.2022": "DATE",
+  "2016": "DATE",
+  "USA": "LOCATION_COUNTRY",
+  "Priv.Doz. Dr.in": "NAME_TITLE",
+  "Monika Schmelze": "NAME_DOCTOR",
+  "Ziska Westbrock": "NAME_DOCTOR",
+  "Praxis im Speicher": "LOCATION_HOSPITAL"
+}

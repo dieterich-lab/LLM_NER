@@ -1,1 +1,14 @@
-{"index":{"T1":"NAME_TITLE 0 8","T2":"NAME_PATIENT 9 22","T3":"DATE_BIRTH 24 34","T4":"ID 40 48","T5":"ID 63 74","T6":"NAME_PATIENT 104 110","T7":"DATE 294 304","T8":"NAME_TITLE 869 878","T9":"NAME_DOCTOR 879 889","T10":"NAME_DOCTOR 891 902","T11":"NAME_TITLE 904 907","T12":"NAME_DOCTOR 908 920"},"text":{"T1":"Dr. med.","T2":"Britta Dumman","T3":"31.12.1999","T4":"91980578","T5":"17946672016","T6":"Dumman","T7":"02.02.2027","T8":"Prof. Dr.","T9":"Elmar Gr\u00fcb","T10":"Reto Ruhfus","T11":"Dr.","T12":"Iris Masmann"}}
+{
+  "Dr. med.": "NAME_TITLE",
+  "Britta Dumman": "NAME_PATIENT",
+  "31.12.1999": "DATE_BIRTH",
+  "91980578": "ID",
+  "17946672016": "ID",
+  "Dumman": "NAME_PATIENT",
+  "02.02.2027": "DATE",
+  "Prof. Dr.": "NAME_TITLE",
+  "Elmar Gr\u00fcb": "NAME_DOCTOR",
+  "Reto Ruhfus": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Iris Masmann": "NAME_DOCTOR"
+}

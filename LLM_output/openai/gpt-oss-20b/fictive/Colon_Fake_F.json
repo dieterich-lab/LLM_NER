@@ -1,19 +1,28 @@
-{
-  "Hirschlein Detlef": "NAME_PATIENT",
-  "719680343": "ID",
-  "13.7.1980": "DATE_BIRTH",
-  "23.12.2029": "DATE",
-  "8.12.2029": "DATE",
-  "23.12.1929": "DATE",
-  "04.2029": "DATE",
-  "30.4.2029": "DATE",
-  "06/29": "DATE",
-  "10.8.2033": "DATE",
-  "20.1.2030": "DATE",
-  "PD Dr.": "NAME_TITLE",
-  "Klappheck": "NAME_DOCTOR",
-  "OÄ Dr.": "NAME_TITLE",
-  "Seyda": "NAME_DOCTOR",
-  "Rauwiller": "LOCATION_STREET",
-  "45": "AGE"
-}
+[
+  {
+    "Køv er John": "NAME_PATIENT",
+    "719680343": "ID",
+    "13.7.1980": "DATE_BIRTH",
+    "23.12.2029": "DATE",
+    "8.12.2029": "DATE",
+    "23.12.1929": "DATE",
+    "PD Dr.": "NAME_TITLE",
+    "Eugen Margraf": "NAME_DOCTOR",
+    "Dr.": "NAME_TITLE",
+    "Jutta Schulze-Steinen": "NAME_DOCTOR",
+    "Noeg ent??? wait spelling: \"Nogent\"": "LOCATION_CITY"
+  },
+  {
+    "Köver John": "NAME_PATIENT",
+    "719680343": "ID",
+    "13.7.1980": "DATE_BIRTH",
+    "23.12.2029": "DATE",
+    "8.12.2029": "DATE",
+    "23.12.1929": "DATE",
+    "PD Dr.": "NAME_TITLE",
+    "Eugen Margraf": "NAME_DOCTOR",
+    "Dr.": "NAME_TITLE",
+    "Jutta Schulze-Steinen": "NAME_DOCTOR",
+    "Nogent": "LOCATION_CITY"
+  }
+]

@@ -1,13 +1,9 @@
 {
-  "Katutura-Staatskrankenhaus": "LOCATION_HOSPITAL",
+  "Landeskrankenhaus Bregenz": "LOCATION_HOSPITAL",
+  "Bregenz": "LOCATION_CITY",
   "01.12.2028": "DATE",
-  "Strässer Trudi": "NAME_PATIENT",
+  "Jägg Gesine": "NAME_PATIENT",
   "28.09.1967": "DATE_BIRTH",
-  "Prim.": "NAME_TITLE",
   "DDr.": "NAME_TITLE",
-  "Zeno Brocksieper": "NAME_DOCTOR",
-  "10.11.2028": "DATE",
-  "11.11.2028": "DATE",
-  "17.11.2028": "DATE",
-  "30.11.2008": "DATE"
+  "Carlos Schwehr": "NAME_DOCTOR"
 }

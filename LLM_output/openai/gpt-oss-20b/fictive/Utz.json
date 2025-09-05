@@ -1,18 +1,15 @@
 {
-  "Diana Obenhack": "NAME_PATIENT",
+  "Liselotte Ruthenkolk": "NAME_PATIENT",
   "10.4.1959": "DATE_BIRTH",
-  "36041": "LOCATION_ZIP",
-  "Fulda": "LOCATION_CITY",
-  "Dr. med.": "NAME_TITLE",
-  "Katja Schmelzeisen": "NAME_DOCTOR",
+  "35469": "LOCATION_ZIP",
+  "Allendorf": "LOCATION_CITY",
   "2020-08-03": "DATE",
   "2.2018": "DATE",
   "4.2018": "DATE",
-  "2019": "DATE",
-  "8/19": "DATE",
-  "05.2019-05.2020": "DATE",
   "8.7.2020": "DATE",
   "9.7.2020": "DATE",
-  "8528w/84": "ID",
-  "83622/1733": "ID"
+  "6611l/75": "ID",
+  "09295/5459": "ID",
+  "Dr. med.": "NAME_TITLE",
+  "Franziska Clahsen": "NAME_DOCTOR"
 }

@@ -1,1 +1,24 @@
-{"index":{"T1":"LOCATION_CITY 22 30","T2":"DATE 35 44","T3":"NAME_PATIENT 160 177","T4":"ID 182 191","T5":"DATE 199 203","T6":"DATE 213 222","T7":"DATE 227 236","T8":"DATE 350 355","T9":"DATE 404 409","T10":"DATE 488 492","T11":"DATE 604 614","T12":"DATE 683 692","T13":"DATE 739 744","T14":"DATE 1651 1656","T15":"NAME_PATIENT 2398 2409","T16":"NAME_PATIENT 2909 2920","T17":"DATE 2924 2936","T18":"LOCATION_HOSPITAL 3220 3228","T19":"DATE 3232 3240","T20":"DATE 3246 3254","T21":"ID 3318 3320","T22":"NAME_TITLE 3550 3557","T23":"NAME_DOCTOR 3558 3574","T24":"NAME_TITLE 3576 3585","T25":"NAME_DOCTOR 3586 3601"},"text":{"T1":"H\u00f6chberg","T2":"24.8.2033","T3":"Klaus Grafenhorst","T4":"467414501","T5":"DATE","T6":"19.7.2033","T7":"28.7.2033","T8":"02.33","T9":"03.33","T10":"2022","T11":"28.02.2033","T12":"21.3.2033","T13":"03.33","T14":"24.8.","T15":"Grafenhorst","T16":"Grafenhorst","T17":"24August2033","T18":"Diakonie","T19":"9.9.2033","T20":"9.9.2033","T21":"P0","T22":"Ass.Dr.","T23":"Gebhard Koreuber","T24":"Prof. Dr.","T25":"Lilian Pachmayr"}}
+{
+  "H\u00f6chberg": "LOCATION_CITY",
+  "24.8.2033": "DATE",
+  "Klaus Grafenhorst": "NAME_PATIENT",
+  "467414501": "ID",
+  "DATE": "DATE",
+  "19.7.2033": "DATE",
+  "28.7.2033": "DATE",
+  "02.33": "DATE",
+  "03.33": "DATE",
+  "2022": "DATE",
+  "28.02.2033": "DATE",
+  "21.3.2033": "DATE",
+  "24.8.": "DATE",
+  "Grafenhorst": "NAME_PATIENT",
+  "24August2033": "DATE",
+  "Diakonie": "LOCATION_HOSPITAL",
+  "9.9.2033": "DATE",
+  "P0": "ID",
+  "Ass.Dr.": "NAME_TITLE",
+  "Gebhard Koreuber": "NAME_DOCTOR",
+  "Prof. Dr.": "NAME_TITLE",
+  "Lilian Pachmayr": "NAME_DOCTOR"
+}

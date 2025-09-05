@@ -1,24 +1,29 @@
-{
-  "Prof. Dr.": "NAME_TITLE",
-  "Luis Thim": "NAME_DOCTOR",
-  "Prof. Dr. med.": "NAME_TITLE",
-  "Ivano Thim": "NAME_DOCTOR",
-  "Dr. med.": "NAME_TITLE",
-  "Hermine Irlbeck": "NAME_DOCTOR",
-  "Antoinette Catcke": "NAME_DOCTOR",
-  "Heßling Zenzi": "NAME_PATIENT",
-  "04.06.2028": "DATE_BIRTH",
-  "27.05.2034": "DATE",
-  "03.06.2034": "DATE",
-  "26.06.2033": "DATE",
-  "28.06.2033": "DATE",
-  "29.05.2034": "DATE",
-  "30.05.2034": "DATE",
-  "02.06.2034": "DATE",
-  "04.05.2034": "DATE",
-  "6": "AGE",
-  "Hohlweg 19": "LOCATION_STREET",
-  "Gnadendorf": "LOCATION_CITY",
-  "Universitätsklinikum Freiburg": "LOCATION_HOSPITAL",
-  "Universitätsklinikum Brandenburg an der Havel": "LOCATION_HOSPITAL"
-}
+[
+  {
+    "Koehlers Katia": "NAME_PATIENT",
+    "April? wait wrong. Birth date:": "04.06.2028",
+    "DATE_BIRTH\",\n\n\"Am Schlammteich 24": "LOCATION_STREET",
+    "Unterstickenbrunn": "LOCATION_CITY",
+    "Universitätsklinikum Münster": "LOCATION_HOSPITAL",
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Prof. Dr.": "NAME_TITLE",
+    "Olaf Ploegmakers": "NAME_DOCTOR",
+    "Prof. Dr. Dr.": "NAME_TITLE",
+    "Alfons Roßhirt": "NAME_DOCTOR",
+    "Prof. Dr. med.": "NAME_TITLE",
+    "Pruedi Ploegmakers": "correct:",
+    "Ruedi Ploegmakers": "NAME_DOCTOR",
+    "Dr. med.": "NAME_TITLE",
+    "Lisa Schedemann": "NAME_DOCTOR",
+    "France Bohnecke": "NAME_DOCTOR"
+  },
+  {
+    "Koehlers Katia": "NAME_PATIENT",
+    "04.06.2028": "DATE_BIRTH",
+    "Am Slämmtheich 24": "LOCATION_STREET",
+    "Unterstinkenbrunn": "LOCATION_CITY",
+    "Universitätsklinikum Münster": "LOCATION_HOSPITAL",
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Prof. Dr.\",\"Name": "TITLE"
+  }
+]

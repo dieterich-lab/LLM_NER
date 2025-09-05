@@ -1,1 +1,15 @@
-{"index":{"T1":"LOCATION_HOSPITAL 0 33","T2":"NAME_TITLE 61 85","T3":"NAME_DOCTOR 86 102","T4":"NAME_PATIENT 137 151","T5":"DATE_BIRTH 155 163","T6":"ID 178 188","T7":"ID 219 222","T8":"ID 246 247","T9":"ID 254 257","T10":"NAME_TITLE 275 278","T11":"NAME_DOCTOR 279 297","T12":"NAME_USERNAME 298 303","T13":"DATE 304 314"},"text":{"T1":"Johanniter-Krankenhaus Geesthacht","T2":"Prim. Univ. Prof. Dr.Dr.","T3":"Ivano H\u00f6lzermann","T4":"Pierre Werlich","T5":"28.06.67","T6":"6448377878","T7":"K63","T8":"C","T9":"874","T10":"Dr.","T11":"Wolfram Angermayer","T12":"WinA.","T13":"13.06.2012"}}
+{
+  "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
+  "Prim. Univ. Prof. Dr.Dr.": "NAME_TITLE",
+  "Ivano H\u00f6lzermann": "NAME_DOCTOR",
+  "Pierre Werlich": "NAME_PATIENT",
+  "28.06.67": "DATE_BIRTH",
+  "6448377878": "ID",
+  "K63": "ID",
+  "C": "ID",
+  "874": "ID",
+  "Dr.": "NAME_TITLE",
+  "Wolfram Angermayer": "NAME_DOCTOR",
+  "WinA.": "NAME_USERNAME",
+  "13.06.2012": "DATE"
+}

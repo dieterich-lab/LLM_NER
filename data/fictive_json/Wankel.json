@@ -1,1 +1,16 @@
-{"index":{"T1":"NAME_PATIENT 71 86","T2":"DATE_BIRTH 96 105","T3":"LOCATION_CITY 110 123","T4":"DATE 138 148","T5":"DATE 153 163","T6":"DATE 1118 1122","T7":"DATE 1378 1388","T8":"DATE 1985 1989","T9":"DATE 2016 2020","T10":"DATE 2037 2041","T11":"DATE 2137 2141","T12":"DATE 2467 2471","T13":"DATE 3779 3789","T14":"NAME_PATIENT 4519 4527","T15":"NAME_PATIENT 4811 4819","T16":"DATE 4823 4833","T17":"NAME_TITLE 4973 4982","T18":"NAME_DOCTOR 4983 4996"},"text":{"T1":"Horst Biermaier","T2":"30.7.1951","T3":"Hamburg-Mitte","T4":"16.12.2033","T5":"29.12.2033","T6":"2020","T7":"07.12.2033","T8":"2020","T9":"1990","T10":"2025","T11":"2027","T12":"7\/23","T13":"07.12.2033","T14":"Giovanni","T15":"Giovanni","T16":"29.12.2033","T17":"Prof. Dr.","T18":"Richard Eiler"}}
+{
+  "Horst Biermaier": "NAME_PATIENT",
+  "30.7.1951": "DATE_BIRTH",
+  "Hamburg-Mitte": "LOCATION_CITY",
+  "16.12.2033": "DATE",
+  "29.12.2033": "DATE",
+  "2020": "DATE",
+  "07.12.2033": "DATE",
+  "1990": "DATE",
+  "2025": "DATE",
+  "2027": "DATE",
+  "7/23": "DATE",
+  "Giovanni": "NAME_PATIENT",
+  "Prof. Dr.": "NAME_TITLE",
+  "Richard Eiler": "NAME_DOCTOR"
+}

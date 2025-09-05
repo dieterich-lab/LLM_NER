@@ -1,10 +1,11 @@
 {
-  "Carlo": "NAME_PATIENT",
+  "Patrik": "NAME_PATIENT",
   "08.03.2001": "DATE_BIRTH",
   "12.11.2051": "DATE",
   "17.11.2051": "DATE",
   "12.11.51": "DATE",
-  "51": "AGE",
+  "Inge Weissfuss": "NAME_DOCTOR",
   "PD Dr. Dr.": "NAME_TITLE",
-  "Mareike Nitzschke": "NAME_DOCTOR"
+  "Chefärztin": "OTHER",
+  "H25440/51": "ID"
 }

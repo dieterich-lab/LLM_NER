@@ -1,14 +1,24 @@
-{
-  "ZAR Friedrichshafen": "LOCATION_HOSPITAL",
-  "Beckermann": "NAME_EXT",
-  "Lucia Salmen": "NAME_PATIENT",
-  "19.12.1932": "DATE_BIRTH",
-  "22.5.2014": "DATE",
-  "20.6.2014": "DATE",
-  "Borkowsky": "NAME_PATIENT",
-  "Dr. med.": "NAME_TITLE",
-  "Claire": "NAME_DOCTOR",
-  "OÄ": "NAME_TITLE",
-  "Susanne": "NAME_DOCTOR",
-  "82": "AGE"
-}
+[
+  {
+    "Gretchen Rosskopf": "NAME_PATIENT",
+    "19.12.1932": "DATE_BIRTH",
+    "22.5.2014": "DATE",
+    "20.6.2014": "DATE",
+    "Median Zentrum für Verhaltensmedizin": "LOCATION_ORGANIZATION",
+    "Frau Uferkamp": "NAME_EXT",
+    "Frau Mehler": "NAME_EXT",
+    "Susi Dörrenbächer": "NAME_DOCTOR",
+    "OÄ Walburga Gambihler": "NAME_DOCTOR"
+  },
+  {
+    "Gretchen Rosskopf": "NAME_PATIENT",
+    "19.12.1932": "DATE_BIRTH",
+    "22.5.2014": "DATE",
+    "20.6.2014": "DATE",
+    "Median Zentrum für Verhaltensmedizin": "LOCATION_ORGANIZATION",
+    "Frau Uferkamp": "NAME_EXT",
+    "Frau Mehler": "NAME_EXT",
+    "Susi D\"orr enbächer": "NAME_DOCTOR",
+    "OÄ Walburgagambihler": "NAME_DOCTOR"
+  }
+]

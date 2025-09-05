@@ -1,12 +1,9 @@
 {
-  "Ute Wiethege": "NAME_PATIENT",
+  "Aurelia Kopetzki": "NAME_PATIENT",
   "01.05.1987": "DATE_BIRTH",
-  "85288483": "ID",
+  "82144607": "ID",
   "27.12.2033": "DATE",
   "04.01.2034": "DATE",
   "29.1.2034": "DATE",
-  "29.6.2033": "DATE",
-  "8.09.2033": "DATE",
-  "55": "AGE",
   "Universitätsklinik für Innere Medizin": "LOCATION_HOSPITAL"
 }

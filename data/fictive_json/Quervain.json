@@ -1,1 +1,13 @@
-{"index":{"T1":"NAME_DOCTOR 0 13","T2":"LOCATION_HOSPITAL 91 149","T3":"NAME_TITLE 159 167","T4":"NAME_DOCTOR 168 189","T5":"LOCATION_STREET 190 203","T6":"LOCATION_ZIP 204 209","T7":"LOCATION_CITY 210 228","T8":"NAME_PATIENT 246 262","T9":"DATE 265 275","T10":"DATE 303 313","T11":"LOCATION_CITY 621 630","T12":"NAME_DOCTOR 2144 2157"},"text":{"T1":"Inga Siefarth","T2":"ZAR Friedrichshafen - Zentrum f\u00fcr ambulante Rehabilitation","T3":"Dr. med.","T4":"Steffen Schweingruber","T5":"Bachnerweg 23","T6":"72348","T7":"Zwettl an der Rodl","T8":"Dominik Woerndel","T9":"28.07.1983","T10":"21.01.2025","T11":"Rosenfeld","T12":"Inga Siefarth"}}
+{
+  "Inga Siefarth": "NAME_DOCTOR",
+  "ZAR Friedrichshafen - Zentrum f\u00fcr ambulante Rehabilitation": "LOCATION_HOSPITAL",
+  "Dr. med.": "NAME_TITLE",
+  "Steffen Schweingruber": "NAME_DOCTOR",
+  "Bachnerweg 23": "LOCATION_STREET",
+  "72348": "LOCATION_ZIP",
+  "Zwettl an der Rodl": "LOCATION_CITY",
+  "Dominik Woerndel": "NAME_PATIENT",
+  "28.07.1983": "DATE",
+  "21.01.2025": "DATE",
+  "Rosenfeld": "LOCATION_CITY"
+}

@@ -1,1 +1,19 @@
-{"index":{"T1":"LOCATION_HOSPITAL 0 33","T2":"NAME_TITLE 73 94","T3":"NAME_DOCTOR 95 109","T4":"NAME_PATIENT 116 127","T5":"DATE_BIRTH 137 147","T6":"ID 153 163","T7":"ID 233 237","T8":"ID 261 262","T9":"ID 269 272","T10":"DATE 281 291","T11":"NAME_TITLE 309 312","T12":"NAME_DOCTOR 313 326","T13":"NAME_TITLE 332 340","T14":"NAME_DOCTOR 341 361","T15":"NAME_TITLE 369 372","T16":"NAME_DOCTOR 373 385","T17":"NAME_TITLE 397 401","T18":"NAME_DOCTOR 402 414"},"text":{"T1":"Johanniter-Krankenhaus Geesthacht","T2":"Prim. Univ. Prof. Dr.","T3":"Ralf Sellmaier","T4":"Ueli Lutner","T5":"28.06.1967","T6":"6448377878","T7":"0716","T8":"C","T9":"874","T10":"15.06.2012","T11":"Dr.","T12":"Jann Bannwart","T13":"Doz. Dr.","T14":"Hanspeter Uebelg\u00fcnne","T15":"Dr.","T16":"Eric Goerigk","T17":"DGKS","T18":"Ruth Mo\u00dfmann"}}
+{
+  "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
+  "Prim. Univ. Prof. Dr.": "NAME_TITLE",
+  "Ralf Sellmaier": "NAME_DOCTOR",
+  "Ueli Lutner": "NAME_PATIENT",
+  "28.06.1967": "DATE_BIRTH",
+  "6448377878": "ID",
+  "0716": "ID",
+  "C": "ID",
+  "874": "ID",
+  "15.06.2012": "DATE",
+  "Dr.": "NAME_TITLE",
+  "Jann Bannwart": "NAME_DOCTOR",
+  "Doz. Dr.": "NAME_TITLE",
+  "Hanspeter Uebelg\u00fcnne": "NAME_DOCTOR",
+  "Eric Goerigk": "NAME_DOCTOR",
+  "DGKS": "NAME_TITLE",
+  "Ruth Mo\u00dfmann": "NAME_DOCTOR"
+}

@@ -1,12 +1,22 @@
-{
-  "Erica Staedler": "NAME_DOCTOR",
-  "Dr. med.": "NAME_TITLE",
-  "Wantscha": "NAME_DOCTOR",
-  "Linienweg 31": "LOCATION_STREET",
-  "79271": "LOCATION_ZIP",
-  "Eberstalzell": "LOCATION_CITY",
-  "Lukas Latzlsperger": "NAME_PATIENT",
-  "28.07.1983": "DATE_BIRTH",
-  "21.01.2025": "DATE",
-  "ZAR Friedrichshafen - Zentrum für ambulante Rehabilitation": "LOCATION_HOSPITAL"
-}
+[
+  {
+    "Inga Siefarth": "NAME_DOCTOR",
+    "Steffen Schweingruber": "NAME_DOCTOR",
+    "Dominik Woerndel": "NAME_PATIENT",
+    "*28.07.1983": "DATE_BIRTH",
+    "Bachnerweg 23": "LOCATION_STREET",
+    "72348": "LOCATION_ZIP",
+    "Zwettl an der Rodl": "LOCATION_CITY",
+    "ZAR Friedrichshafen - Zentrum für ambulante Rehabilitation": "LOCATION_HOSPITAL"
+  },
+  {
+    "Inga Siefarth": "NAME_DOCTOR",
+    "Steffen Schweingruber": "NAME_DOCTOR",
+    "Dominik Woerndel": "NAME_PATIENT",
+    "\\*28\\.07\\.1983": "DATE_Birth",
+    "Bachnerweg 23": "LOCATION_Street",
+    "72348": "LOCATION_Zip",
+    "Zwettl an der Rodl": "LOCATION_City",
+    "ZAR Friedrichshafen – Zentrum für ambulante Rehabilitation": "LOCATION_Hospital"
+  }
+]

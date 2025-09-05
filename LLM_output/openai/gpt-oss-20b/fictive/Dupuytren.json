@@ -1,18 +1,55 @@
-{
-  "Universitätsklinikum Leipzig": "LOCATION_HOSPITAL",
-  "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
-  "Christophe Bem": "NAME_DOCTOR",
-  "Prof.Dr.": "NAME_TITLE",
-  "48607": "LOCATION_ZIP",
-  "Ochtrup": "LOCATION_CITY",
-  "Von-Gallitzin-Straße 20": "LOCATION_STREET",
-  "017485288483": "CONTACT_PHONE",
-  "017419226777": "CONTACT_FAX",
-  "Valentina Renckens": "NAME_PATIENT",
-  "Simon Arthur Pellkofer": "NAME_DOCTOR",
-  "Ambulanz für Pigmentveränderungen": "LOCATION_HOSPITAL",
-  "07.11.2021": "DATE",
-  "28.09.2021": "DATE",
-  "Elmar Barthelmess": "NAME_DOCTOR",
-  "Von-Kleist-Weg": "LOCATION_STREET"
-}
+[
+  {
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+    "Droste-Hülshoff-Straße 94": "LOCATION_STREET",
+    "48739": "LOCATION_ZIP",
+    "Legden": "LOCATION_CITY",
+    "Prof.Dr.": "NAME_TITLE",
+    "John Mittergger": "NAME_DOCTOR",
+    "015987588670": "CONTACT_PHONE",
+    "015924159206": "CONTACT_FAX",
+    "Dina Twickler": "NAME_PATIENT",
+    "Prof. Dr.": "NAME_TITLE",
+    "Raphael Zweer Pillgramm": "NAME_DOCTOR",
+    "07.11.2021": "DATE",
+    "28.09.2021": "DATE",
+    "beneVital Gesundheitspark": "ORGANISATIONS"
+  },
+  [
+    "Prof.Dr.",
+    "Prof. Dr."
+  ],
+  {
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+    "Droste-Hülshoff-Straße 94": "LOCATION_STREET",
+    "48739": "LOCATION_ZIP",
+    "Legden": "LOCATION_CITY",
+    "Prof.Dr.": "NAME_TITLE",
+    "John Mitteregger": "NAME_DOCTOR",
+    "015987588670": "CONTACT_PHONE",
+    "015924159206": "CONTACT_FAX",
+    "Dina Twickler": "NAME_PATIENT",
+    "Raphael Zweer Pillgramm": "NAME_DOCTOR",
+    "07.11.2021": "DATE",
+    "28.09.2021": "DATE",
+    "beneVital Gesundheitspark": "ORG"
+  },
+  {
+    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+    "Droste-Hülshoff-Staßte 94": "LOCATION_STREET",
+    "48739": "LOCATION_ZIP",
+    "Legden": "LOCATION_CITY",
+    "Prof.Dr.": "NAME_TITLE",
+    "John Mitteregger": "NAME_DOCTOR",
+    "015987588670": "CONTACT_PHONE",
+    "015924159206": "CONTACT_FAX",
+    "Dina Twickler": "NAME_PATIENT",
+    "Raphael Zewe R Pillgramm": "NAME_DOCTOR",
+    "07.11.2013": "DATE",
+    "28.09.2021": "DATE",
+    "beneVital Gesundheitsa Park": "LOCATION_ORGANIZATION"
+  }
+]
