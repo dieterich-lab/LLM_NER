@@ -3,8 +3,13 @@
   "01.12.2029": "DATE",
   "Weitkemper Rosalia": "NAME_PATIENT",
   "8.10.1975": "DATE_BIRTH",
+  "Schlundt": "NAME_DOCTOR",
   "20.12.2029": "DATE",
+  "Bregenz": "LOCATION_CITY",
   "28.11.2029": "DATE",
   "28.03.2030": "DATE",
-  "Schlundt": "NAME_DOCTOR"
+  "11/28": "ID",
+  "4/29": "ID",
+  "9/29": "ID",
+  "6/29-11/29": "ID"
 }

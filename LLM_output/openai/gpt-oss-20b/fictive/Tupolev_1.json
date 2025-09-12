@@ -1,32 +1,18 @@
-[
-  {
+{
     "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
-    "Prof. Dr.": "NAME_TITLE",
+    "Prim. Univ. Prof. Dr.": "NAME_TITLE",
     "Remo Spöhr": "NAME_DOCTOR",
     "Quirin Fichtmüller": "NAME_PATIENT",
     "28.06.1967": "DATE_BIRTH",
-    "PIZ": "??",
-    "id": "6448377878\":\"ID",
-    "K63": "ID",
-    "875": "wait ZI: 874. Add",
-    "874": "ID",
-    "15.06.2012": "DATE",
-    "Oscar Heinemann": "NAME_DOCTOR",
-    "Alain Vaschenko": "NAME_DOCTOR",
-    "Herm'? Actually \"Fernand Dapperger\" correct,\n'Oda Conradi": "OTHER"
-  },
-  {
-    "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
-    "Prof. Dr.\",\"NAME\\_TITLE\",\"Remo Spor": "NAME\\_DOCTOR",
-    "Quirin Fichtmueller": "NAME\\_PATIENT",
-    "28.06.1967": "DATE\\_BIRTH",
     "6448377878": "ID",
     "K63": "ID",
     "874": "ID",
     "15.06.2012": "DATE",
-    "Oscar Heinemann": "NAME\\_DOCTOR",
-    "Alain Vaschenko": "NAME\\_DOCTOR",
-    "Fernand Dapperger": "NAME\\_DOCTOR",
-    "Oda Conradi": "OTHER"
-  }
-]
+    "OA Dr.": "NAME_TITLE",
+    "Heinemann": "NAME_DOCTOR",
+    "OA Doz. Dr.": "NAME_TITLE",
+    "Vaschenko": "NAME_DOCTOR",
+    "Ass. Dr.": "NAME_TITLE",
+    "Dapperger": "NAME_DOCTOR",
+    "Conradi": "NAME_DOCTOR"
+}

@@ -4,6 +4,10 @@
   "82144607": "ID",
   "27.12.2033": "DATE",
   "04.01.2034": "DATE",
+  "29.6.2033": "DATE",
+  "8.09.2033": "DATE",
   "29.1.2034": "DATE",
-  "Universitätsklinik für Innere Medizin": "LOCATION_HOSPITAL"
+  "Universitätsklinik für Innere Medizin": "LOCATION_HOSPITAL",
+  "Klinische Abteilung für O N K O L O G I E": "LOCATION_HOSPITAL",
+  "55": "AGE"
 }

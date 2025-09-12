@@ -1,13 +1,21 @@
 {
   "Gaby Kolin": "NAME_PATIENT",
   "20.5.1981": "DATE_BIRTH",
-  "Gesundheitszentrum Schwäbische Alb": "LOCATION_HOSPITAL",
-  "Altes Universitats Krankenhaus": "LOCATION_HOSPITAL",
-  "PD": "NAME_TITLE",
-  "Dr.": "NAME_TITLE",
-  "Pietro Naeve": "NAME_DOCTOR",
-  "Horst Klimentz": "NAME_DOCTOR",
+  "22.3.2043": "DATE",
   "14.3.2043": "DATE",
   "17.03.2043": "DATE",
-  "22.03.2043": "DATE"
+  "22.03.2043": "DATE",
+  "04.2043": "DATE",
+  "2040": "DATE",
+  "2041": "DATE",
+  "2037": "DATE",
+  "2035": "DATE",
+  "2044": "DATE",
+  "PD Dr.": "NAME_TITLE",
+  "Dr. med.": "NAME_TITLE",
+  "Pietro Näve": "NAME_DOCTOR",
+  "Horst Klementz": "NAME_DOCTOR",
+  "Hans Knüpfer": "NAME_DOCTOR",
+  "Gesundheitszentrum Schwäbische Alb": "LOCATION_HOSPITAL",
+  "Altes Universitäts-Krankenhaus": "LOCATION_HOSPITAL"
 }

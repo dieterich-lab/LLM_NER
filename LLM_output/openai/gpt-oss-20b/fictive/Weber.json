@@ -1,20 +1,14 @@
 {
-  "craft": {
-    "Nathalie Wieseler": "NAME_PATIENT",
-    "9.2.1964": "DATE_BIRTH",
-    "Wilhelmine Pargmann": "NAME_DOCTOR",
-    "Prof. Martin": "NAME_DOCTOR",
-    "Dr. Marco": "NAME_DOCTOR",
-    "Jacobs?? wait spelled Jakob": "Name_Jakob"
-  },
-  "spelling": "Provided",
-  "Gernot": "NAME_DOCTOR",
-  "Gernot\". Add those.\n\nAdd \"Dr. Laurent": "otential duplication:",
-  "OA Dr. Marco\" still same. Ok.\n\nReturn json.\n\nEnsure no extra spaces around colon values. Ensure valid JSON.\n\nProceed.assistantfinal{\"Nathalie Wieseler": "NAME_PATIENT",
-  "9.2.1964": "DATE_BIRTH",
-  "Wilhelmine Pargmann": "NAME_DOCTOR",
-  "Prof. Martin": "NAME_DOCTOR",
-  "Dr. Marco": "NAME_DOCTOR",
+  "Nathalie Wieseler": "NAME_PATIENT",
+  "Wilhelmine Pargmann": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE",
+  "Martin": "NAME_DOCTOR",
+  "Marco": "NAME_DOCTOR",
   "Jakob": "NAME_DOCTOR",
-  "Dr. Laurent": "NAME_DOCTOR"
+  "Gernot": "NAME_DOCTOR",
+  "Laurent": "NAME_DOCTOR",
+  "9.2.1964": "DATE_BIRTH",
+  "07.4.2020": "DATE",
+  "16.4.2020": "DATE",
+  "2002": "DATE"
 }

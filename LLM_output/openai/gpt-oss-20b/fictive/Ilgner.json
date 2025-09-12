@@ -3,11 +3,11 @@
   "28.10.1982": "DATE_BIRTH",
   "Turracher Straße 48": "LOCATION_STREET",
   "8820": "LOCATION_ZIP",
-  "Bezirk Murau": "LOCATION_CITY",
+  "Murau": "LOCATION_CITY",
   "05.08.2023": "DATE",
   "08.08.2023": "DATE",
   "03.06.2023": "DATE",
   "02.08.2023": "DATE",
   "Dr.": "NAME_TITLE",
-  "Massimo Mengele": "NAME_DOCTOR"
+  "Mengele": "NAME_DOCTOR"
 }

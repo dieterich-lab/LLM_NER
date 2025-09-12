@@ -1,8 +1,11 @@
 {
-  "Herrn Horst Biermaier": "NAME_PATIENT",
+  "Horst Biermaier": "NAME_PATIENT",
   "30.7.1951": "DATE_BIRTH",
-  "Hamburg‑Mitté": "LOCATION_CITY",
+  "Hamburg-Mitte": "LOCATION_CITY",
   "16.12.2033": "DATE",
   "29.12.2033": "DATE",
-  "07.12.2033": "DATE"
+  "07.12.2033": "DATE",
+  "Richard Eiler": "NAME_DOCTOR",
+  "Prof. Dr.": "NAME_TITLE",
+  "Giovanni": "NAME_DOCTOR"
 }

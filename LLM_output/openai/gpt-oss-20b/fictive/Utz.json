@@ -3,13 +3,6 @@
   "10.4.1959": "DATE_BIRTH",
   "35469": "LOCATION_ZIP",
   "Allendorf": "LOCATION_CITY",
-  "2020-08-03": "DATE",
-  "2.2018": "DATE",
-  "4.2018": "DATE",
-  "8.7.2020": "DATE",
-  "9.7.2020": "DATE",
-  "6611l/75": "ID",
-  "09295/5459": "ID",
-  "Dr. med.": "NAME_TITLE",
-  "Franziska Clahsen": "NAME_DOCTOR"
+  "Franziska Clahsen": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE"
 }

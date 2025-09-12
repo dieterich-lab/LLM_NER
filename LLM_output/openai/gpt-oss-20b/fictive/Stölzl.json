@@ -10,8 +10,8 @@
   "21.04.08 11:35 Uhr": "DATE",
   "21.04.08 14:17 Uhr": "DATE",
   "24.04.08 11:56 Uhr": "DATE",
-  "PD Dr. med.": "NAME_TITLE",
-  "Ibo Kendziora": "NAME_DOCTOR",
+  "Prof.": "NAME_TITLE",
   "Theodor": "NAME_DOCTOR",
-  "Prof.": "NAME_TITLE"
+  "PD Dr. med.": "NAME_TITLE",
+  "Ibo Kendziora": "NAME_DOCTOR"
 }

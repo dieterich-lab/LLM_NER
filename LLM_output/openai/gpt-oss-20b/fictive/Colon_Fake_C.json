@@ -1,32 +1,19 @@
-[
-  {
-    "Reintjes Marita": "NAME_PATIENT",
-    "1983444174": "ID",
-    "*31.12.1972": "DATE_BIRTH",
-    "9.2.2023": "DATE",
-    "21.2.2023": "DATE",
-    "8.2023": "DATE",
-    "20.6.2023": "DATE",
-    "10.6.2003?? wait correct year 2023": "DATE",
-    "50": "AGE",
-    "Klasse??? actually KLINISCHE ABTEILUNGEN ??? let's pick \"Klinische Abteilung für ONKOLOGIE\"": "LOCATION_HOSPITAL",
-    "Neustadt": "LOCATION_CITY",
-    "Klaus Lehmpfuhl": "NAME_DOCTOR",
-    "Louis Edenhofner": "NAME_DOCTOR"
-  },
-  {
-    "Reintjes Marita": "NAME_PATIENT",
-    "1983444174": "ID",
-    "31.12.1972": "DATE_BIRTH",
-    "9.2.2023": "DATE",
-    "21.2.2023": "DATE",
-    "8.2023": "DATE",
-    "20.6.2023": "DATE",
-    "10.6.2023": "DATE",
-    "50": "AGE",
-    "Klinische Abteilung für ONKOLOGIE": "LOCATION_HOSPITAL",
-    "Neustadt": "LOCATION_CITY",
-    "Klaus Lehmpfuhl": "NAME_DOCTOR",
-    "Louis Edenhofner": "NAME_DOCTOR"
-  }
-]
+{
+  "Neustadt": "LOCATION_CITY",
+  "19.3.2023": "DATE",
+  "Frau Reintjes Marita": "NAME_PATIENT",
+  "31.12.1972": "DATE_BIRTH",
+  "1983444174": "ID",
+  "9.2.2023": "DATE",
+  "21.2.2023": "DATE",
+  "8.2023": "DATE",
+  "20.6.2023": "DATE",
+  "6/23": "DATE",
+  "4/23": "DATE",
+  "10.6.2023": "DATE",
+  "Klaus Lehmpfuhl": "NAME_DOCTOR",
+  "Louis Edenhofner": "NAME_DOCTOR",
+  "Dr.": "NAME_TITLE",
+  "Onkologie-Aufnahme": "LOCATION_HOSPITAL",
+  "50": "AGE"
+}

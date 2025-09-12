@@ -1,17 +1,20 @@
 {
-  "Eugen Pannekoek": "NAME_PATIENT",
+  "Eugen Pannekoek": "NAME_PATIENT",
   "28.2.2008": "DATE_BIRTH",
+  "Zwern": "NAME_EXT",
   "01.04.04": "DATE",
   "15.06.04": "DATE",
   "September2027": "DATE",
   "September03": "DATE",
   "Dezember04": "DATE",
-  "Oktober05": "DATE",
+  "2027": "DATE",
   "14.06.04": "DATE",
-  "Herr Bergeman": "OTHER",
+  "Universitätsklinikum Leipzig": "LOCATION_HOSPITAL",
+  "Bad Langensalza": "LOCATION_CITY",
+  "Ärztehaus lucharMed": "LOCATION_HOSPITAL",
+  "Kreisjugendamt": "LOCATION_ORGANIZATION",
+  "Technisches Gymnasium": "OTHER",
   "Dr.": "NAME_TITLE",
-  "Yorck Pannekoek": "NAME_DOCTOR",
-  "Universitätsklinikum Leipzig": "LOCATION_HOSPITAL",
-  "Ärztehaus lutarMe": "LOCATION_HOSPITAL",
-  "Bad Langensalza": "LOCATION_CITY"
+  "Yorck Pannekoek": "NAME_DOCTOR",
+  "Bergeman": "NAME_EXT"
 }

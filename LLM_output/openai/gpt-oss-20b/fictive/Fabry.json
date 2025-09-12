@@ -1,23 +1,18 @@
-[
-  {
-    "name": "value"
-  },
-  {
-    "Jean Hackl": "NAME_DOCTOR",
+{
     "Dr. med.": "NAME_TITLE",
+    "Hackl": "NAME_DOCTOR",
     "Anton Gesell": "NAME_PATIENT",
     "29.01.1974": "DATE_BIRTH",
-    "Kirchbauerschaft 32": "LOCATION_STREET",
     "Westenfeld 38": "LOCATION_STREET",
     "48356": "LOCATION_ZIP",
     "Nordwalde": "LOCATION_CITY",
     "10.09.2029": "DATE",
     "19.09.2029": "DATE",
+    "07.2025": "DATE",
     "11.09.2029": "DATE",
     "15.09.2029": "DATE",
-    "07.2025": "DATE",
     "Prof.": "NAME_TITLE",
-    "Zenzi Hakenschmidt": "NAME_DOCTOR",
-    "Patrizia Korves": "NAME_DOCTOR"
-  }
-]
+    "Hakenschmidt": "NAME_DOCTOR",
+    "Korves": "NAME_DOCTOR",
+    "Kirchbauerschaft 32": "LOCATION_STREET"
+}

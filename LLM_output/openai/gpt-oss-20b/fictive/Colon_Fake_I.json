@@ -1,24 +1,13 @@
-[
-  {
-    "Gretchen Rosskopf": "NAME_PATIENT",
-    "19.12.1932": "DATE_BIRTH",
-    "22.5.2014": "DATE",
-    "20.6.2014": "DATE",
-    "Median Zentrum für Verhaltensmedizin": "LOCATION_ORGANIZATION",
-    "Frau Uferkamp": "NAME_EXT",
-    "Frau Mehler": "NAME_EXT",
-    "Susi Dörrenbächer": "NAME_DOCTOR",
-    "OÄ Walburga Gambihler": "NAME_DOCTOR"
-  },
-  {
-    "Gretchen Rosskopf": "NAME_PATIENT",
-    "19.12.1932": "DATE_BIRTH",
-    "22.5.2014": "DATE",
-    "20.6.2014": "DATE",
-    "Median Zentrum für Verhaltensmedizin": "LOCATION_ORGANIZATION",
-    "Frau Uferkamp": "NAME_EXT",
-    "Frau Mehler": "NAME_EXT",
-    "Susi D\"orr enbächer": "NAME_DOCTOR",
-    "OÄ Walburgagambihler": "NAME_DOCTOR"
-  }
-]
+{
+  "Gretchen Rosskopf": "NAME_PATIENT",
+  "19.12.1932": "DATE_BIRTH",
+  "22.5.2014": "DATE",
+  "20.6.2014": "DATE",
+  "MEDIAN Zentrum für Verhaltensmedizin": "LOCATION_HOSPITAL",
+  "Frau Mehler": "NAME_RELATIVE",
+  "82": "AGE",
+  "Dr. med.": "NAME_TITLE",
+  "Susi Dörrenbächer": "NAME_DOCTOR",
+  "OÄ": "NAME_TITLE",
+  "Walburga Gambihler": "NAME_DOCTOR"
+}

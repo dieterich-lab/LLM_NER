@@ -1,7 +1,8 @@
 {
-  "Eckholtz": "NAME_PATIENT",
-  "Cédric Grinhagens": "NAME_DOCTOR",
+  "Yvo Eckholtz": "NAME_PATIENT",
   "02.03.2019": "DATE",
   "02.09.25": "DATE",
-  "49": "AGE"
+  "49jähr.": "AGE",
+  "Dr. med.": "NAME_TITLE",
+  "Cédric Grinhagens": "NAME_DOCTOR"
 }

@@ -1,6 +1,5 @@
 {
   "Gertraude Törner": "NAME_PATIENT",
-  "Dr.\",\"name": "TITLE",
   "30.11.1992": "DATE_BIRTH",
   "Obercrossen 8": "LOCATION_STREET",
   "01855": "LOCATION_ZIP",
@@ -8,7 +7,6 @@
   "02.06.2019": "DATE",
   "06.06.2019": "DATE",
   "03.06.2019": "DATE",
-  "Anny Kerschbaumer": "NAME_DOCTOR",
-  "Dr.a med. univ.": "NAME_TITLE",
-  "Fr. Didier": "OTHER"
+  "Didier": "NAME_RELATIVE",
+  "Anny Kerschbaumer": "NAME_DOCTOR"
 }

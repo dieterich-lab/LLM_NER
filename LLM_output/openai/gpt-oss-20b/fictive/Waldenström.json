@@ -1,38 +1,20 @@
-[
-  {
-    "Lothar Schütteler": "NAME_DOCTOR",
-    "Vittorio Schöpper": "NAME_DOCKER?\" actually TYPE_NAME_DOCTOR,\n\"Prof. Dr.",
-    "Dr. med.\",\n\"Wilhelmstraße 23": "LOCATION_STREET",
-    "Kraichtal": "LOCATION_CITY",
-    "76703": "LOCATION_ZIP",
-    "Brückenweg 18": "LOCATION_STREET",
-    "Abtsgemünd": "LOCATION_CITY",
-    "73453": "LOCATION_ZIP",
-    "Essen-Werden": "LOCATION_HOSPITAL",
-    "Evangelisches Krankenhaus Essen-Werden": "LOCATION_HOSPITAL",
-    "Folkert Piechel": "NAME_PATIENT",
-    "08.02.2003": "DATE_BIRTH",
-    "21.09.2039": "DATE",
-    "16.09.2039": "DATE",
-    "01.09.2035": "DATE"
-  },
-  {
-    "Lothar Schütteler": "NAME_DOCTOR",
-    "Vittorio Schöpper": "NAME_DOCTOR",
-    "Prof. Dr.": "NAME_TITLE",
-    "Dr. med.": "NAME_TITLE",
-    "Wilhelmstrasse 23": "LOCATION_STREET",
-    "Kraichtal": "LOCATION_CITY",
-    "76703": "LOCATION_ZIP",
-    "Brueckenweg 18": "LOCATION_STREET",
-    "Abtsguemenud": "LOCATION_CITY",
-    "73453": "LOCATION_ZIP",
-    "Essenz-Werden": "LOCATION_HOSPITAL",
-    "Evangelisches Krankenhaeuß Essenz-Werden": "LOCATION_HOSPITAL",
-    "Folkert Piechel": "NAME_PATIENT",
-    "08.02.2003": "DATE_BIRTH",
-    "21.09.2039": "DATE",
-    "16.09.2039": "DATE",
-    "01.09.2035": "DATE"
-  }
-]
+{
+  "Medizinische Klinik und Poliklinik Abteilung Pneumologie (Evangelisches Krankenhaus Essen-Werden)": "LOCATION_HOSPITAL",
+  "Universitätsprofessor Dr. mult. med.": "NAME_TITLE",
+  "Lothar Schütteler": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "Prof. Dr.": "NAME_TITLE",
+  "Vittorio Schöpper": "NAME_DOCTOR",
+  "Schütteler": "NAME_DOCTOR",
+  "Abtsgmünd": "LOCATION_CITY",
+  "21.09.2039": "DATE",
+  "Folkert Piechel": "NAME_PATIENT",
+  "08.02.2003": "DATE_BIRTH",
+  "Brückenweg 18": "LOCATION_STREET",
+  "73453": "LOCATION_ZIP",
+  "16.09.2039": "DATE",
+  "01.09.2035": "DATE",
+  "Wilhelmstraße 23": "LOCATION_STREET",
+  "76703": "LOCATION_ZIP",
+  "Kraichtal": "LOCATION_CITY"
+}

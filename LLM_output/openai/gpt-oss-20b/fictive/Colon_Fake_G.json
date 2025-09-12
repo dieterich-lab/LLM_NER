@@ -1,18 +1,15 @@
-[
-  {
-    "name": "value"
-  },
-  {
-    "Stoppenbrink Özlem": "NAME_PATIENT",
-    "19.4.1977": "DATE_BIRTH",
-    "13.07.2023": "DATE",
-    "24.07.2023": "DATE",
-    "April2023": "DATE",
-    "05/23": "DATE",
-    "26.3.2023": "DATE",
-    "Prof. Dr. med": "NAME_TITLE",
-    "Schwörer": "NAME_DOCTOR",
-    "Dr. med.": "NAME_TITLE",
-    "Birck": "NAME_DOCTOR"
-  }
-]
+{
+  "Stoppenbrink Özlem": "NAME_PATIENT",
+  "19.4.1977": "DATE_BIRTH",
+  "13.07.2023": "DATE",
+  "24.07.2023": "DATE",
+  "April2023": "DATE",
+  "05/23": "DATE",
+  "26.3.2023": "DATE",
+  "Onkologie-Ambulanz 1": "LOCATION_HOSPITAL",
+  "Dr. med.": "NAME_TITLE",
+  "Fredi Birck": "NAME_DOCTOR",
+  "Prof. Dr. med": "NAME_TITLE",
+  "Nelly Schwörer": "NAME_DOCTOR",
+  "Haselhoff": "NAME_PATIENT"
+}

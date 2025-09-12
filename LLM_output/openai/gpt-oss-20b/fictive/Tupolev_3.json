@@ -1,14 +1,12 @@
 {
-  "Johanniter‐Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
+  "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
   "Ivano Hölzermann": "NAME_DOCTOR",
   "Prof. Dr.Dr.": "NAME_TITLE",
   "Pierre Werlich": "NAME_PATIENT",
-  "* 28.06.67": "DATE_BIRTH",
+  "28.06.67": "DATE_BIRTH",
   "6448377878": "ID",
-  "Wolfam Angermayer\"? wait spelled \"Angermayer": "Need accurate spelling:",
-  "OAB Dr.\" actually \"OA Dr.": "check original:",
-  "OA Dr.": "NAME_TITLE",
-  "13.06.2012": "DATE\"\n\nCheck punctuation: There was \"*\" preceding date. Key \"* 28.06.67\" includes leading space? Original shows \"* 28.06.67\" preceded by comma. Exactly \"* 28.06.67\". Good.\n\nEnsure proper unicode hyphen vs dash. Input uses en-dash? \"Johanniter-Krankenhaus Geesthacht\" contains normal hyphen minus sign \"-\". Output match input characters. Similarly \"Hölzermann",
-  "Geesthacht": "LOCATION_HOSPITAL",
-  "Ivanohölzermann": "NAME_DOCTOR"
+  "K63": "ID",
+  "874": "ID",
+  "Wolfram Angermayer": "NAME_DOCTOR",
+  "13.06.2012": "DATE"
 }

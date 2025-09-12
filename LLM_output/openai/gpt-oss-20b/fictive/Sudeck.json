@@ -1,23 +1,11 @@
-[
-  {
-    "Britta Dumman": "NAME_PATIENT",
-    "31.12.1999": "DATE_BIRTH",
-    "91980578": "ID",
-    "17946672016": "ID",
-    "02.02.2027": "DATE",
-    "Elmar Grüb": "NAME_DOCTOR",
-    "Reta Ruhfus\"? actually typed \"Reto Ruhfus": "Keep original capitalization:",
-    "Reto Ruhfus": "NAME_DOCTOR",
-    "Iris Masmann": "NAME_DOCTOR"
-  },
-  {
-    "Britta Dumman": "NAME_PATIENT",
-    "31.12.1999": "DATE_BIRTH",
-    "91980578": "ID",
-    "17946672016": "ID",
-    "02.02.2027": "DATE",
-    "Elmar Grüb": "NAME_DOCTOR",
-    "Reto Ruhfus": "NAME_DOCTOR",
-    "Iris Masmann": "NAME_DOCTOR"
-  }
-]
+{
+  "Britta Dumman": "NAME_PATIENT",
+  "Dr. med.": "NAME_TITLE",
+  "31.12.1999": "DATE_BIRTH",
+  "91980578": "ID",
+  "17946672016": "ID",
+  "Prof. Dr.": "NAME_TITLE",
+  "Elmar Grüb": "NAME_DOCTOR",
+  "Reto Ruhfus": "NAME_DOCTOR",
+  "Iris Masmann": "NAME_DOCTOR"
+}

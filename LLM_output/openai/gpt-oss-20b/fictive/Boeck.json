@@ -1,19 +1,10 @@
-[
-  {
-    "Marga Moews": "NAME_PATIENT",
-    "Steffen Everszumrode": "NAME_DOCTOR",
-    "8.2.2000": "DATE_BIRTH",
-    "10.5.2028": "DATE",
-    "15.5.2028": "DATE",
-    "Florigerin": "Wait word used:",
-    "Floristin\" value \"PROFESSION": ""
-  },
-  {
-    "Marga Moews": "NAME_PATIENT",
-    "Steffen Everszumrode": "NAME_DOCTOR",
-    "8.2.2000": "DATE_Birth",
-    "10.5.2028": "DATE",
-    "15.5.2028": "DATE",
-    "Floristin": "PROFESSION"
-  }
-]
+{
+  "Marga Moews": "NAME_PATIENT",
+  "Moews": "NAME_PATIENT",
+  "Steffen Everszumrode": "NAME_DOCTOR",
+  "8.2.2000": "DATE_BIRTH",
+  "15.5.2028": "DATE",
+  "28": "AGE",
+  "2033": "ID",
+  "Floristin": "PROFESSION"
+}

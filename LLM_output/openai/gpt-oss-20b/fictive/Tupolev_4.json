@@ -1,15 +1,18 @@
 {
   "Ossenkop Meinrad": "NAME_PATIENT",
-  "28.06.1967": "DATE_BIRTH",
-  "Altheimer Straße 96": "LOCATION_STREET",
+  "Meinrad Ossenkop": "NAME_PATIENT",
+  "Altheimer Straße 96": "LOCATION_STREET",
   "4952": "LOCATION_ZIP",
-  "Weng im Innkreis": "LOCATION_CITY",
-  "Strahlenklinik F": "LOCATION_HOSPITAL",
-  "Dr. med.": "NAME_TITLE",
-  "Karstensen": "NAME_DOCTOR",
-  "Uriv.-Prof. Dr. med.": "NAME_TITLE_2",
-  "Berssenbr|gie": "NAME_DOCTOR_2",
+  "Weng im Innkreis": "LOCATION_CITY",
+  "28.06.1967": "DATE_BIRTH",
+  "28.06.67": "DATE_BIRTH",
   "22.03.2013": "DATE",
   "21.03.2013": "DATE",
-  "20.12.2012": "DATE"
+  "20.12.2012": "DATE",
+  "15.02.12": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Karstensen": "NAME_DOCTOR",
+  "Ao. Uriv.-Prof. Dr. med.": "NAME_TITLE",
+  "Berssenbrügge": "NAME_DOCTOR",
+  "Strahlenklinik F": "LOCATION_HOSPITAL"
 }

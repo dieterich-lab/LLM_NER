@@ -1,18 +1,18 @@
 {
-  "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
+  "Johanniter-Krankenhaus Geesthacht": "LOCATION_HOSPITAL",
   "Prim. Univ. Prof. Dr.": "NAME_TITLE",
-  "Ralf Sellmaier": "NAME_DOCTOR",
+  "Sellmaier": "NAME_DOCTOR",
   "Ueli Lutner": "NAME_PATIENT",
   "28.06.1967": "DATE_BIRTH",
-  "Piz: 6448377878\"? actual text shows ": "IZ: 6448377878",
   "6448377878": "ID",
+  "0716.": "ID",
   "874": "ID",
   "15.06.2012": "DATE",
+  "OA Dr.": "NAME_TITLE",
   "Bannwart": "NAME_DOCTOR",
+  "OA Doz. Dr.": "NAME_TITLE",
   "Uebelgünne": "NAME_DOCTOR",
-  "Goe rig k\"? actually \"Erik Goerigk\" spelled \"Eric Goerigk\". Last name \"Goerigk\". Add.\n\"Moßmann": "OTHER\"\n\nCheck spelling: \"Görergk",
-  "Eric Goerigk": "Ok.\n\nMake sure punctuation matches input:",
-  "Geesthacht": "LOCATION_HOSPITAL",
-  "Goerigk": "NAME_DOCKER",
-  "Moßmann": "OTHER"
+  "Ass. Dr.": "NAME_TITLE",
+  "Goerigk": "NAME_DOCTOR",
+  "Ruth Moßmann": "OTHER"
 }

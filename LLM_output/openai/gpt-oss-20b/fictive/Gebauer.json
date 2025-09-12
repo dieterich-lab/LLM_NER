@@ -2,8 +2,13 @@
   "Landeskrankenhaus Bregenz": "LOCATION_HOSPITAL",
   "Bregenz": "LOCATION_CITY",
   "01.12.2028": "DATE",
-  "Jägg Gesine": "NAME_PATIENT",
   "28.09.1967": "DATE_BIRTH",
+  "Prim.": "NAME_TITLE",
   "DDr.": "NAME_TITLE",
-  "Carlos Schwehr": "NAME_DOCTOR"
+  "Carlos Schwehr": "NAME_DOCTOR",
+  "Jägg Gesine": "NAME_PATIENT",
+  "10.11.2028": "DATE",
+  "11.11.2028": "DATE",
+  "17.11.2028": "DATE",
+  "30.11.2008": "DATE"
 }

@@ -1,18 +1,25 @@
-[
-  {
-    "Eberhard Pirgl": "NAME_PATIENT",
+{
+    "Eberhard Pirgl": "NAME_PATIENT",
     "20.09.1955": "DATE_BIRTH",
     "2024.09.23": "DATE",
+    "6/24": "DATE",
+    "6/22": "DATE",
+    "9.7.22": "DATE",
+    "13.10.": "DATE",
+    "16.10.2023": "DATE",
+    "20. - 31.10.2023": "DATE",
+    "19.08": "DATE",
+    "25.8.2024": "DATE",
+    "16.9.2024": "DATE",
+    "17.9.2024": "DATE",
+    "9.9.2024": "DATE",
+    "10.9.2024": "DATE",
+    "14.9.2024": "DATE",
+    "13.9.2024": "DATE",
+    "14.10.31": "DATE",
+    "21.10.2024": "DATE",
+    "8N": "ID",
+    "Aldenhofen": "OTHER",
     "Priv.-Doz.": "NAME_TITLE",
-    "Zenta Scharwieß": "NAME_DOCTOR",
-    "Aldenhofen": "OTHER"
-  },
-  {
-    "Eberhard Pirlg": "NAME_PATIENT",
-    "20.09.1955": "DATE_BIRTH",
-    "2024.09.23": "DATE",
-    "Priv.-Doz.": "NAME_TITLE",
-    "Zenta Scharwieß": "NAME_DOCTOR",
-    "Aldenhofen": "OTHER"
-  }
-]
+    "Zenta Scharwieß": "NAME_DOCTOR"
+}

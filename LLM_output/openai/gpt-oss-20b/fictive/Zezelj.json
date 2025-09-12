@@ -1,14 +1,16 @@
 {
-  "Aengenheiser Gunda": "NAME_PATIENT",
-  "Gertraude Ficker": "NAME_PATIENT",
+  "Gunda Aengenheiser": "NAME_PATIENT",
   "28.09.2007": "DATE_BIRTH",
+  "Gesundheitszentrum Eppingen": "LOCATION_HOSPITAL",
+  "Gertraude Ficker": "NAME_PATIENT",
   "10.07.2023": "DATE",
   "12.07.2023": "DATE",
-  "03.07.30": "DATE",
+  "Pfeifferer": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
   "1638214": "ID",
-  "Quirine Pfeifferer": "NAME_DOCTOR",
-  "Dr.": "NAME_TITLE",
   "16": "AGE",
-  "Gesundheitszentrum Eppingen": "LOCATION_HOSPITAL",
+  "15": "AGE",
+  "Emmert Plastik": "LOCATION_ORGANIZATION",
+  "Hochschulambulanz": "LOCATION_HOSPITAL",
   "Eppingen": "LOCATION_CITY"
 }

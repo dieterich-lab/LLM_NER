@@ -1,12 +1,8 @@
 {
   "Ernestine Gänsslen": "NAME_PATIENT",
   "24.08.1958": "DATE_BIRTH",
-  "Station 1": "LOCATION_HOSPITAL",
-  "My...?\" Wait actual spelled \"Myrtha Scharwieß\". Provide entire name. Ensure special character ü? Provided \"Scharwieß\" uses ß. Good.\n\nSo add \"Myrtha Scharwieß": "NAME_DOCTOR",
-  "Dr. med.": "NAME_TITLE\"\n\nAnything else? Possibly \"Pflegeheim",
-  "Ernestine Günnslen": "NAME_PATIENT",
-  "\"24.08.1958\"": "DATE_BIRTH",
-  "\"Station 1\"": "LOCATION_HOSPITAL",
-  "\"Myrtha Scharwies\\u2019s\"": "NAME_DOCTOR",
-  "\"Dr. med.\"": "NAME_TITLE"
+  "18.01.2026": "DATE",
+  "21.01.2026": "DATE",
+  "Dr. med.": "NAME_TITLE",
+  "Myrtha Scharwieß": "NAME_DOCTOR"
 }

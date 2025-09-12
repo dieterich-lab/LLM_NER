@@ -1,25 +1,14 @@
-[
-  {
-    "Quintus Kranefoed": "NAME_PATIENT",
-    "02.3.1941": "DATE_BIRTH",
-    "9.10.2021": "DATE",
-    "14.10.2021": "DATE",
-    "2008": "DATE",
-    "2012": "DATE",
-    "80": "AGE",
-    "Herr Poindecker": "OTHER",
-    "PD Dr.": "NAME_TITLE",
-    "Oberarzt": "PROFESSION"
-  },
-  {
-    "Quintus Kranefoed": "NAME_PATIENT",
-    "02.3.1941": "DATE_BIRTH",
-    "9.10.2021": "DATE",
-    "14.10.2021": "DATE",
-    "2008": "DATE",
-    "2012": "DATE",
-    "80": "AGE",
-    "Herr Poindecker": "OTHER",
-    "PD Dr.": "NAME_TITLE"
-  }
-]
+{
+  "Quintus Kranefoed": "NAME_PATIENT",
+  "Poindecker": "NAME_PATIENT",
+  "Patrice Chefarzt": "NAME_DOCTOR",
+  "Andree Oberarzt": "NAME_DOCTOR",
+  "PD Dr.": "NAME_TITLE",
+  "Dr.": "NAME_TITLE",
+  "02.3.1941": "DATE_BIRTH",
+  "9.10.2021": "DATE",
+  "14.10.2021": "DATE",
+  "2008": "DATE",
+  "2012": "DATE",
+  "80": "AGE"
+}

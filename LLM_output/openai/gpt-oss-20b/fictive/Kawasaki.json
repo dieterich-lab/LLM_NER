@@ -1,7 +1,19 @@
 {
-  "Möseler Knut": "NAME_PATIENT",
+  "Möseler Knut": "NAME_PATIENT",
   "10.02.2027": "DATE_BIRTH",
-  "Klinik Niedersachsen": "LOCATION_HOSPITAL",
-  "Padiatrische Onkologie / Hämatologie": "LOCATION_HOSPITAL",
-  "Zentrum für Integrierte Onkologie": "LOCATION_HOSPITAL"
+  "21.10.2033": "DATE",
+  "24.09.2033": "DATE",
+  "28.10.2033": "DATE",
+  "03.10.2033": "DATE",
+  "16.10.2033": "DATE",
+  "17.10.2033": "DATE",
+  "18.10.2033": "DATE",
+  "6": "AGE",
+  "Klinik Niedersachsen": "LOCATION_HOSPITAL",
+  "Univ.-Prof. Dr.med.": "NAME_TITLE",
+  "Ringseis": "NAME_DOCTOR",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Timmann": "NAME_DOCTOR",
+  "Dr  med.": "NAME_TITLE",
+  "Witteriede": "NAME_DOCTOR"
 }

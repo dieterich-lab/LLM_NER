@@ -4,8 +4,6 @@
   "12.11.2051": "DATE",
   "17.11.2051": "DATE",
   "12.11.51": "DATE",
-  "Inge Weissfuss": "NAME_DOCTOR",
   "PD Dr. Dr.": "NAME_TITLE",
-  "Chefärztin": "OTHER",
-  "H25440/51": "ID"
+  "Inge Weissfuss": "NAME_DOCTOR"
 }

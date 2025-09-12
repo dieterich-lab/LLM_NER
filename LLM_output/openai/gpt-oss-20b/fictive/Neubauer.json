@@ -1,34 +1,17 @@
-[
-  {
-    "Benno Bertz": "NAME_PATIENT",
-    "30.11.1999": "DATE_BIRTH",
-    "75399": "LOCATION_ZIP",
-    "Unterreichenbach": "LOCATION_CITY",
-    "28.02.2024": "DATE",
-    "03.03.2024": "DATE",
-    "Abl": "NAME_DOCTOR",
-    "Hans": "NAME_DOCTOR",
-    "Tisch": "NAME_DOCTOR",
-    "Dr. med.": "NAME_TITLE",
-    "02.11.2019": "DATE",
-    "27.12.2019": "DATE",
-    "04.03.2014": "DATE"
-  },
-  {
-    "Benno Bertz": "NAME_PATIENT",
-    "30.11.1999": "DATE_BIRTH",
-    "75399": "LOCATION_ZIP",
-    "Unterreichenbach": "LOCATION_CITY",
-    "28.02.2024": "DATE",
-    "03.03.2024": "DATE",
-    "Abl": "NAME_DOCTOR",
-    "Hans": "NAME_DOCTOR",
-    "Tisch": "NAME_DOCTOR",
-    "Dr. med.": "NAME_TITLE",
-    "02.11.2019": "DATE",
-    "27.12.2019": "DATE",
-    "04.03.2014": "DATE",
-    "PSY13": "ID",
-    "KJPP-2": "ID"
-  }
-]
+{
+  "Dr. Abl": "NAME_DOCTOR",
+  "Benno Bertz": "NAME_PATIENT",
+  "30.11.1999": "DATE_BIRTH",
+  "75399": "LOCATION_ZIP",
+  "Unterreichenbach": "LOCATION_CITY",
+  "28.02.2024": "DATE",
+  "03.03.2024": "DATE",
+  "PSY13": "ID",
+  "KJPP-2": "ID",
+  "02.11.2019": "DATE",
+  "27.12.2019": "DATE",
+  "04.03.2014": "DATE",
+  "Hans": "NAME_DOCTOR",
+  "Dr. med.": "NAME_TITLE",
+  "Karsten François Tisch": "NAME_DOCTOR"
+}

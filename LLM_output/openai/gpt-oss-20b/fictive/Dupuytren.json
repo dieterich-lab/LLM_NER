@@ -1,55 +1,17 @@
-[
-  {
-    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
-    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
-    "Droste-Hülshoff-Straße 94": "LOCATION_STREET",
-    "48739": "LOCATION_ZIP",
-    "Legden": "LOCATION_CITY",
-    "Prof.Dr.": "NAME_TITLE",
-    "John Mittergger": "NAME_DOCTOR",
-    "015987588670": "CONTACT_PHONE",
-    "015924159206": "CONTACT_FAX",
-    "Dina Twickler": "NAME_PATIENT",
-    "Prof. Dr.": "NAME_TITLE",
-    "Raphael Zweer Pillgramm": "NAME_DOCTOR",
-    "07.11.2021": "DATE",
-    "28.09.2021": "DATE",
-    "beneVital Gesundheitspark": "ORGANISATIONS"
-  },
-  [
-    "Prof.Dr.",
-    "Prof. Dr."
-  ],
-  {
-    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
-    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
-    "Droste-Hülshoff-Straße 94": "LOCATION_STREET",
-    "48739": "LOCATION_ZIP",
-    "Legden": "LOCATION_CITY",
-    "Prof.Dr.": "NAME_TITLE",
-    "John Mitteregger": "NAME_DOCTOR",
-    "015987588670": "CONTACT_PHONE",
-    "015924159206": "CONTACT_FAX",
-    "Dina Twickler": "NAME_PATIENT",
-    "Raphael Zweer Pillgramm": "NAME_DOCTOR",
-    "07.11.2021": "DATE",
-    "28.09.2021": "DATE",
-    "beneVital Gesundheitspark": "ORG"
-  },
-  {
-    "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
-    "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
-    "Droste-Hülshoff-Staßte 94": "LOCATION_STREET",
-    "48739": "LOCATION_ZIP",
-    "Legden": "LOCATION_CITY",
-    "Prof.Dr.": "NAME_TITLE",
-    "John Mitteregger": "NAME_DOCTOR",
-    "015987588670": "CONTACT_PHONE",
-    "015924159206": "CONTACT_FAX",
-    "Dina Twickler": "NAME_PATIENT",
-    "Raphael Zewe R Pillgramm": "NAME_DOCTOR",
-    "07.11.2013": "DATE",
-    "28.09.2021": "DATE",
-    "beneVital Gesundheitsa Park": "LOCATION_ORGANIZATION"
-  }
-]
+{
+  "Dina Twickler": "NAME_PATIENT",
+  "John Mitteregger": "NAME_DOCTOR",
+  "Raphael Zweer Pillgramm": "NAME_DOCTOR",
+  "Hubert Northoff": "NAME_DOCTOR",
+  "Prof.Dr. med.": "NAME_TITLE",
+  "Prof. Dr. med.": "NAME_TITLE",
+  "Universitätsklinikum Jena": "LOCATION_HOSPITAL",
+  "Universitätsklinik für Dermatologie und Venerologie": "LOCATION_HOSPITAL",
+  "48739": "LOCATION_ZIP",
+  "Legden": "LOCATION_CITY",
+  "Droste-Hülshoff-Straße 94": "LOCATION_STREET",
+  "015987588670": "CONTACT_PHONE",
+  "015924159206": "CONTACT_FAX",
+  "07.11.2021": "DATE",
+  "28.09.2021": "DATE"
+}

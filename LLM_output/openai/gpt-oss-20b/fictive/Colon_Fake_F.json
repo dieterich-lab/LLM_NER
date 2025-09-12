@@ -1,28 +1,15 @@
-[
-  {
-    "Køv er John": "NAME_PATIENT",
-    "719680343": "ID",
-    "13.7.1980": "DATE_BIRTH",
-    "23.12.2029": "DATE",
-    "8.12.2029": "DATE",
-    "23.12.1929": "DATE",
-    "PD Dr.": "NAME_TITLE",
-    "Eugen Margraf": "NAME_DOCTOR",
-    "Dr.": "NAME_TITLE",
-    "Jutta Schulze-Steinen": "NAME_DOCTOR",
-    "Noeg ent??? wait spelling: \"Nogent\"": "LOCATION_CITY"
-  },
-  {
+{
     "Köver John": "NAME_PATIENT",
-    "719680343": "ID",
     "13.7.1980": "DATE_BIRTH",
     "23.12.2029": "DATE",
     "8.12.2029": "DATE",
     "23.12.1929": "DATE",
-    "PD Dr.": "NAME_TITLE",
+    "20.1.2030": "DATE",
+    "Nogent": "LOCATION_CITY",
+    "Klinische Abteilung für Onkologie": "LOCATION_HOSPITAL",
+    "719680343": "ID",
     "Eugen Margraf": "NAME_DOCTOR",
-    "Dr.": "NAME_TITLE",
     "Jutta Schulze-Steinen": "NAME_DOCTOR",
-    "Nogent": "LOCATION_CITY"
-  }
-]
+    "PD Dr.": "NAME_TITLE",
+    "OÄ Dr.": "NAME_TITLE"
+}

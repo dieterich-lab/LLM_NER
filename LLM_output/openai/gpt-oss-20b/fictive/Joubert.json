@@ -1,26 +1,16 @@
-[
-  {
-    "hals-nasen-ohren-klinik": "case sensitive matters. Original capitalized exactly",
-    "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
-    "Prof. Dr.": "NAME_TITLE",
-    "Krügele": "NAME_DOCTOR",
-    "Gaisner": "NAME_DOCTOR",
-    "Aussere Gunzburger Strasse 6": "LOCATION_STREET"
-  },
-  {
-    "Hals-Nasen-Ohren-Klinik": "LOCATION_HOSPITAL",
-    "Prof. Dr.": "NAME_TITLE",
-    "Krügele": "NAME_DOCTOR",
-    "Gaisner": "NAME_DOCTOR",
-    "Äüßere Ĝuenzburgger Stärze 6": "LOCATION_STREET",
-    "Ringstraße 78": "LOCATION_STREET",
-    "84439": "LOCATION_ZIP",
-    "Steinkirchen": "LOCATION_CITY",
-    "015616099382": "CONTACT_PHONE",
-    "015698151423": "CONTACT_FAX",
-    "10.03.1973": "DATE_Birth",
-    "15.07.2026": "DATE",
-    "V-012195586": "ID",
-    "BfbA": "ORGANIZATION"
-  }
-]
+{
+  "Hals‑Nasen‑Ohren‑Klinik": "LOCATION_HOSPITAL",
+  "Univ. Prof. Dr. mult.": "NAME_TITLE",
+  "Hermann Krügele": "NAME_DOCTOR",
+  "Äußere Günzburger Straße 6": "LOCATION_STREET",
+  "84439": "LOCATION_ZIP",
+  "Steinkirchen": "LOCATION_CITY",
+  "015616099382": "CONTACT_PHONE",
+  "015698151423": "CONTACT_FAX",
+  "Eduard Gaisner": "NAME_PATIENT",
+  "Dr.": "NAME_TITLE",
+  "Ringstraße 78": "LOCATION_STREET",
+  "15.07.2026": "DATE",
+  "V-012195586": "ID",
+  "BfbA": "LOCATION_ORGANIZATION"
+}
